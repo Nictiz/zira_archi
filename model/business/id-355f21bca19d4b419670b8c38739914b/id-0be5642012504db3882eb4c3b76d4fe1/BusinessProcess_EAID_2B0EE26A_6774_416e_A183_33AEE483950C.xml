@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vastleggen verrichting"
+    id="EAID_2B0EE26A_6774_416e_A183_33AEE483950C"
+    documentation="Registreren of afleiden cq toekennen en vastleggen van een of meer verrichtingen n.a.v. een patiëntcontact/behandeling.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.171"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

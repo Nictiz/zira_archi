@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandelondersteuning"
+    id="EAID_3CDA5C49_EED6_4b41_BA27_8E615A8EB7CB"
+    documentation="Functionaliteit voor het voorlichten en coachen van en communiceren met de patient over zijn zorg met als doel de patient te helpen bij het bereiken van de behandeldoelen en (mede)verantwoordelijkheid te geven voor behandelkeuzes en behandeling (patiëntempowerment). ">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="CPS.8 Support Patient Education &amp; Communication"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

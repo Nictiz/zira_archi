@@ -1,0 +1,17 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plannen behandelactiviteit (wp)"
+    id="EAID_E2A90293_FEA0_4182_BFD9_3067B5D9BA8F">
+  <properties
+      key="ZIRA::Type"
+      value="Werkproces"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1079"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanmelden MDO (wp)"
+    id="EAID_EF67301A_64D5_492d_A526_FF543D8F5F05"
+    documentation="Het aanmelden van de patient voor een MDO overleg. De specifieke patientcasus wordt bij de aanmelding toegelicht. ">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

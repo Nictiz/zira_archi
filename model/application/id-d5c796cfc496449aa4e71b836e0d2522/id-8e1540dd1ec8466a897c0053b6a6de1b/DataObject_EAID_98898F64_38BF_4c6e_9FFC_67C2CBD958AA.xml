@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nl.zorg.Contactpersoon"
+    id="EAID_98898F64_38BF_4c6e_9FFC_67C2CBD958AA"
+    documentation="Een contactpersoon is een persoon anders dan zorgverleners, die betrokken zijn bij de zorg voor de pati&amp;#235;nt, zoals familieleden, mantelzorgers, geestelijke verzorgers, voogden en wettelijkelijk vertegenwoordigers.&#xA;&#xA;Naast identificerende gegevens als naam kunnen ook adres- en contactgegevens worden toegevoegd. Daarnaast kan relatie tot de pati&amp;#235;nt en rol die de persoon heeft, meegegeven worden.&#xA;{"/>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meting"
+    id="EAID_D076F66C_D223_48ca_AA7D_2C97588DD4A5"
+    documentation="Synoniem is ruwe uitslag.">
+  <properties
+      key="MAX::ID"
+      value="2172"/>
+</archimate:BusinessObject>

@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terugkoppelen aanvrager"
+    id="EAID_0E0338E3_0157_4bc8_996A_0A8942BC8BFD"
+    documentation="De (extern) aanvragend zorgverlener ontvangt een terugkoppeling van het advies in de vorm van het MDO verslag.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

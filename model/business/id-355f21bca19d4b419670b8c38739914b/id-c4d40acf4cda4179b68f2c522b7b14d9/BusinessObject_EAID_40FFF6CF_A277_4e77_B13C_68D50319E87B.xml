@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Visie"
+    id="EAID_40FFF6CF_A277_4e77_B13C_68D50319E87B"
+    documentation="Een inspirerend toekomstbeeld voor de organisatie afstand nemend van de dagelijkse praktijk.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.225"/>
+</archimate:BusinessObject>

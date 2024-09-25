@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanleveren gegevens aan externe partijen"
+    id="EAID_8D2010F4_20BB_4369_93C8_2A1BAB25BD11"
+    documentation="Het verstrekken van gegevens aan externe partijen zoals ministeries, RIVM, GGD, Vektis, verzekeraars, etc.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.122"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

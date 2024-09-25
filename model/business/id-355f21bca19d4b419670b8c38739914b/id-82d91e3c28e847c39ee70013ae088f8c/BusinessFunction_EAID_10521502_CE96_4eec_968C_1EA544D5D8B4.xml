@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="COMMUNICATIE EN VOORLICHTING"
+    id="EAID_10521502_CE96_4eec_968C_1EA544D5D8B4"
+    documentation="voorlichting, fondsenwerving en klachtenafhandeling">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1596"/>
+</archimate:BusinessFunction>

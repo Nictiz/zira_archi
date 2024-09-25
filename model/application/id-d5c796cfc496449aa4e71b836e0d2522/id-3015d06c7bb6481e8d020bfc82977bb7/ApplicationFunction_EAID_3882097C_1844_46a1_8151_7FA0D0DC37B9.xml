@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitsbewaking"
+    id="EAID_3882097C_1844_46a1_8151_7FA0D0DC37B9"
+    documentation="Functionaliteit voor de Bewaking en signalering van (mogelijke) fouten (verkeerde patient, verkeerde dosis, verkeerde tijd, verkeerde vervolgstap)">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="CPS.6 Support Treatment Administration"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

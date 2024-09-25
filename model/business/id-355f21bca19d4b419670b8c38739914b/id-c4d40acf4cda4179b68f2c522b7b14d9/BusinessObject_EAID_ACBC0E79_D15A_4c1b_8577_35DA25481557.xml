@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operatieverslag"
+    id="EAID_ACBC0E79_D15A_4c1b_8577_35DA25481557"
+    documentation="Vastlegging van het verloop van een uitgevoerde operatie, inclusief gebruikte materialen.">
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.262"/>
+  <properties
+      key="MAX::ID"
+      value="1695"/>
+</archimate:BusinessObject>

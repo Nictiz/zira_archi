@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VERPLEGING"
+    id="EAID_4C3C030B_C75C_4991_BC6C_575A4A83B3B0"
+    documentation="Behandeling van de patiënt doormiddel van verpleegkundige interventies">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1577"/>
+</archimate:BusinessFunction>

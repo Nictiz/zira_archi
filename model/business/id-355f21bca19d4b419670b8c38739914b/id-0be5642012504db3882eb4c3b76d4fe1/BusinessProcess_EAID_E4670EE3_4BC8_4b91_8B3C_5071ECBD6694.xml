@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administreren personeelsinformatie"
+    id="EAID_E4670EE3_4BC8_4b91_8B3C_5071ECBD6694"
+    documentation="Omvat personeelsregistratie, tijd-, verzuim- en verlofregistratie, HR-kosten en rendement">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.206"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

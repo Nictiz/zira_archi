@@ -1,0 +1,17 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overdragen patient (wp)"
+    id="EAID_BBE90018_ECB9_41fc_93BC_1ACAAA26C03D">
+  <properties
+      key="ZIRA::Type"
+      value="Werkproces"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1089"/>
+</archimate:BusinessProcess>

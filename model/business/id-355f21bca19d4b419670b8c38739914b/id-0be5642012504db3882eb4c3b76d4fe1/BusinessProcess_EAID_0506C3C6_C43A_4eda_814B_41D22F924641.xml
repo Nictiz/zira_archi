@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bemiddeling klachten"
+    id="EAID_0506C3C6_C43A_4eda_814B_41D22F924641"
+    documentation="In ontvangst nemen en administreren van klachten en bewaking op de afhandeling van klachten.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.218"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

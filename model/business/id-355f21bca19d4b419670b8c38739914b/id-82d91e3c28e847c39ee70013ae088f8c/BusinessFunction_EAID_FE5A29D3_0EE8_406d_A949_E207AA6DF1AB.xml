@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OVERIGE BEHANDELINGEN"
+    id="EAID_FE5A29D3_0EE8_406d_A949_E207AA6DF1AB"
+    documentation="Behandeling niet afgedekt door de overig soorten van behandeling.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1580"/>
+</archimate:BusinessFunction>

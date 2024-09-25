@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitslag lichamelijk onderzoek"
+    id="EAID_BA935077_5A21_4560_8091_8002321E81F5"
+    documentation="Bevindingen van de observaties van onderzochte lichamelijke functies.">
+  <properties
+      key="MAX::ID"
+      value="1821"/>
+  <properties
+      key="RDZ_IO"
+      value="2.16.840.1.113883.2.4.3.11.29.4.254"/>
+</archimate:BusinessObject>

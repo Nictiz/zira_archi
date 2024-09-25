@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dossieruitwisseling"
+    id="EAID_A4B9718B_8328_49a9_89E5_9E4584AE0F20"
+    documentation="Functionaliteit voor het versturen en ontvangen en verwerken van dossierinformatie door bijvoorbeeld verwijzer, overdragende of consulterend arts.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="AS.4 Manage Communication"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

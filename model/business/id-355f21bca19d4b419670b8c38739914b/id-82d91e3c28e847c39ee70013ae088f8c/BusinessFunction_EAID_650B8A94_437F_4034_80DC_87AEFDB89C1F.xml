@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PERSONEEL &amp; ORGANISATIE"
+    id="EAID_650B8A94_437F_4034_80DC_87AEFDB89C1F"
+    documentation="Het management van personeelszaken binnen het ziekenhuis.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1591"/>
+</archimate:BusinessFunction>

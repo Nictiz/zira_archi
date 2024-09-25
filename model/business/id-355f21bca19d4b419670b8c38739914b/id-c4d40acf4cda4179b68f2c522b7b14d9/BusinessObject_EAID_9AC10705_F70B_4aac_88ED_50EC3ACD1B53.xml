@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patient"
+    id="EAID_9AC10705_F70B_4aac_88ED_50EC3ACD1B53"
+    documentation="Administratieve informatie over een patiënt. Dit is een persoon die zorg (bv. medisch, paramedisch of verpleegkundig) ontvangt van een zorgverlener.">
+  <properties
+      key="MAX::ID"
+      value="1965"/>
+  <properties
+      key="RDZ_IO"
+      value="2.16.840.1.113883.2.4.3.11.29.4.292"/>
+</archimate:BusinessObject>

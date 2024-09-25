@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract"
+    id="EAID_A649ADE8_C258_489a_BC2B_5409BE393BFE"
+    documentation="Officieel papier met afspraken waaraan betrokkenen zich moeten houden">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.321"/>
+</archimate:BusinessObject>

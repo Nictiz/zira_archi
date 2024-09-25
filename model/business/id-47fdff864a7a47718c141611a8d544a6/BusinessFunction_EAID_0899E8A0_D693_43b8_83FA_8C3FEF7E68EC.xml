@@ -1,0 +1,17 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsfunctie"
+    id="EAID_0899E8A0_D693_43b8_83FA_8C3FEF7E68EC">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="404"/>
+</archimate:BusinessFunction>

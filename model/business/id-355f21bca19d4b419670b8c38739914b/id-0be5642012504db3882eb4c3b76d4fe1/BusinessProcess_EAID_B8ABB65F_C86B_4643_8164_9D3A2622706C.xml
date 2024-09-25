@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adviseren patiënt"
+    id="EAID_B8ABB65F_C86B_4643_8164_9D3A2622706C"
+    documentation="Adviezen verstrekken aan de patiënt voor het omgaan met diens klachten.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.375"/>
+  <properties
+      key="NIEUW"
+      value="true"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

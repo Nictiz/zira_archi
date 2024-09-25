@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beleid en studieprotocollen"
+    id="EAID_751BA676_587D_441f_87A5_A0F3E3A8E427"
+    documentation="Geldend beleid, wet- en regelgeving en protocollen waaraan nieuw onderzoek moet voldoen en die dus randvoorwaardelijk zijn voor nieuw onderzoek.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.307"/>
+</archimate:BusinessObject>

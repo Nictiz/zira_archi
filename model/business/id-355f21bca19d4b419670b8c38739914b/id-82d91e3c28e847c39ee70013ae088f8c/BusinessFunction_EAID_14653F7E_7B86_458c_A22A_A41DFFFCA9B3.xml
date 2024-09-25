@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ICT"
+    id="EAID_14653F7E_7B86_458c_A22A_A41DFFFCA9B3"
+    documentation="Ontwikkelen, onderhouden en ondersteunen van informatie Technologie">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1597"/>
+</archimate:BusinessFunction>

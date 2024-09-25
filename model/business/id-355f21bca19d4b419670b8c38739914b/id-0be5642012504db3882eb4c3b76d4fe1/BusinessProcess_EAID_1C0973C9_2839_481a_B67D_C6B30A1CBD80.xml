@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerken aanvraag"
+    id="EAID_1C0973C9_2839_481a_B67D_C6B30A1CBD80"
+    documentation="Een aanvraag on ontvangst nemen en controleren op volledigheid en correctheid + feedback dat aanvraag in goede orde is ontvangen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.400"/>
+  <properties
+      key="NIEUW"
+      value="true"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

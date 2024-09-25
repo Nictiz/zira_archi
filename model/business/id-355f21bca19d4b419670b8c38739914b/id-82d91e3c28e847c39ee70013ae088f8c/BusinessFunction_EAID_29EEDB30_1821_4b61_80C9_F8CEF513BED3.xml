@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BEHANDELING"
+    id="EAID_29EEDB30_1821_4b61_80C9_F8CEF513BED3"
+    documentation="Behandeling van de patiënt">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1573"/>
+</archimate:BusinessFunction>

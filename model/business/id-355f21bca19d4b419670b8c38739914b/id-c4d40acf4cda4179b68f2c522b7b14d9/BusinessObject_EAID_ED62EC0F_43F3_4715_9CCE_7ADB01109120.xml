@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klachten"
+    id="EAID_ED62EC0F_43F3_4715_9CCE_7ADB01109120"
+    documentation="Alle meldingen die klachten betreffen over geleverde zorg of diensten.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.348"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data archiving"
+    id="EAID_12A67150_C4B2_4c06_BE36_4FD9AB2E12B9"
+    documentation="Functionaliteit voor het archiveren van gegevens">
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="RI.3 Record Archive and Restore"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Researchdatamanagement"
+    id="EAID_5316F6EF_E2F9_4f8c_9BE9_BD5242304E1E"
+    documentation="Functionaliteit voor het verzamelen, bewerken, analyseren en publiceren van onderzoeksdata">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-100"/>
+</archimate:ApplicationFunction>

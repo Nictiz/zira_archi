@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VASTGOED EN MIDDELEN BEHEER"
+    id="EAID_2645A4B6_9D92_44f0_B1F7_B23FA667588F"
+    documentation="Exploiteren van de gebouwen en inventaris van het ziekenhuis">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1599"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hosting data storage"
+    id="EAID_E1C8AA42_3194_4c4d_A779_42F34D586C8B"
+    documentation="Functionaliteit voor data opslag">
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="RI.1 Record Lifecycle and Lifespan"/>
+  <properties
+      key="ExternalReference"
+      value="RI.2 Record Synchronization"/>
+</archimate:ApplicationFunction>

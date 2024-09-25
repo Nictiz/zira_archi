@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beoordelen uitslag (aanvullend of eigen) onderzoek"
+    id="EAID_E44D747C_099B_41e3_BF74_D1713AC6BB70"
+    documentation="Kennisnemen van de resultaten van aanvullend onderzoek of door de arts zelf uitgevoerd onderzoek en deze betrekken bij diagnose en behandelplan.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.132"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

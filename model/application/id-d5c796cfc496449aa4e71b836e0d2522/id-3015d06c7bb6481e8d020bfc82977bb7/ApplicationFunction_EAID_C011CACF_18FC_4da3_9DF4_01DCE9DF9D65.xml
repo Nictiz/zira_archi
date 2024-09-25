@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsportfolio"
+    id="EAID_C011CACF_18FC_4da3_9DF4_01DCE9DF9D65"
+    documentation="Functionaliteit voor creatie en beheer van het onderwijsportfolio">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-104"/>
+</archimate:ApplicationFunction>

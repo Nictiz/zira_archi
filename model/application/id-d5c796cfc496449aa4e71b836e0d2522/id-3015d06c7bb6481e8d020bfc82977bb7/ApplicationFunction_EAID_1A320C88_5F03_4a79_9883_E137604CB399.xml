@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personeelbeheer"
+    id="EAID_1A320C88_5F03_4a79_9883_E137604CB399"
+    documentation="Functionaliteit die het administreren en managen van medewerkers ondersteunt.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-132"/>
+</archimate:ApplicationFunction>

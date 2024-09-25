@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DIAGNOSTISERING"
+    id="EAID_31650BDA_EC95_4d3e_8FE7_043DE3F58BC7"
+    documentation="vaststellen van de aard en oorzaak van de klachten of zorgbehoefte van de patiënt.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1569"/>
+</archimate:BusinessFunction>

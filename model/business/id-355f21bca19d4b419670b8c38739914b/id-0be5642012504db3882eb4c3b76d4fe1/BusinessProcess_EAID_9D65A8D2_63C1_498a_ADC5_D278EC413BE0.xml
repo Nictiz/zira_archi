@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Regisseren beheer en onderhoud gebouw en inventaris"
+    id="EAID_9D65A8D2_63C1_498a_ADC5_D278EC413BE0"
+    documentation="Inventarisatie van vraag en aanbod, van prognose naar normatieve ruimtebehoefte, meerjaren huisvestingsplan, efficiënt en flexibel ruimtegebruik, vastgoed en grond.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.195"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

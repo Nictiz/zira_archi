@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelplan"
+    id="EAID_EC1382AB_7BED_409f_B4FE_8FE3E67AF7D7"
+    documentation="Het plan waarin de medewerker zijn persoonlijke ontwikkeling vastlegt">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.328"/>
+</archimate:BusinessObject>

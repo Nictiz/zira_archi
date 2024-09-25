@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VERWIJZING &amp; OVERDRACHT"
+    id="EAID_3AE8E5DE_D913_46f9_99E4_60993ECA4844"
+    documentation="verwijzingen en overdracht van en naar andere zorgverleners inclusief de hiervoor benodigde informatieuitwisseling">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1555"/>
+</archimate:BusinessFunction>

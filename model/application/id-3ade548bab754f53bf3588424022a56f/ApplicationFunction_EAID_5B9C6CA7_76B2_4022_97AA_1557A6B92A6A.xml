@@ -1,0 +1,14 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Applicatiefunctie"
+    id="EAID_5B9C6CA7_76B2_4022_97AA_1557A6B92A6A">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

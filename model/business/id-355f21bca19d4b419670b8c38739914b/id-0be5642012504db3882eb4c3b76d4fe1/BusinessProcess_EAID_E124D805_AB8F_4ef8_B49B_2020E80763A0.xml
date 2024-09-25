@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afleveren medicatie"
+    id="EAID_E124D805_AB8F_4ef8_B49B_2020E80763A0"
+    documentation="Afgifte door een apotheek van een specifiek medicijn aan een persoon.&#xA;Een verstrekking is de terhandstelling van een hoeveelheid van een geneesmiddel aan de patiënt, zijn toediener of zijn vertegenwoordiger.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.144"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

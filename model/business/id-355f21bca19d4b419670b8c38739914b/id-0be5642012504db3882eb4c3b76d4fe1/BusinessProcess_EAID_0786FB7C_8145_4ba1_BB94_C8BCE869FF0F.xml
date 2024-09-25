@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwijzen patiënt"
+    id="EAID_0786FB7C_8145_4ba1_BB94_C8BCE869FF0F"
+    documentation="Versturen van een verzoek (zowel digitaal als papier) van een patiënt/zorgverlener om een zorgverlener binnen de (andere) instelling in te schakelen. ">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.120"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

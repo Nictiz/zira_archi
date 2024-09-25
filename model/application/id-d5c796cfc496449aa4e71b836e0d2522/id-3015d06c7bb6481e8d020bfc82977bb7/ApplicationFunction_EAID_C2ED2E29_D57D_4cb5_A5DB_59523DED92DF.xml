@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DNS &amp; IP Adress management"
+    id="EAID_C2ED2E29_D57D_4cb5_A5DB_59523DED92DF"
+    documentation="Functionaliteit voor het beheren van DNS en IP adressen">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-194"/>
+</archimate:ApplicationFunction>

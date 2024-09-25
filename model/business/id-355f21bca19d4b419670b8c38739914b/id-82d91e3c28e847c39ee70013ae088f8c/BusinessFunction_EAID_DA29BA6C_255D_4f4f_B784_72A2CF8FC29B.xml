@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BEHANDELPLANNING"
+    id="EAID_DA29BA6C_255D_4f4f_B784_72A2CF8FC29B"
+    documentation="Het vaststellen en uitzetten van een behandelplan">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1572"/>
+</archimate:BusinessFunction>

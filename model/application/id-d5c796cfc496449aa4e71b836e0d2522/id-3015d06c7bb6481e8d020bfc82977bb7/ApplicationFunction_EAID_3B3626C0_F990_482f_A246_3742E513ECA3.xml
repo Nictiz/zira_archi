@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hotelservice"
+    id="EAID_3B3626C0_F990_482f_A246_3742E513ECA3"
+    documentation="Functionaliteit die de hotelfunctie ondersteunt, hierbij inbegrepen zijn parkeren, catering, kassa">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-128"/>
+</archimate:ApplicationFunction>

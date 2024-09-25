@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rooster"
+    id="EAID_913EF799_A296_482b_A89D_DA75B0606043"
+    documentation="Een overzicht met data en tijdstippen waarin de beschikbaarheid (bezette en open slots) van één resource is vastgelegd. .">
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.290"/>
+  <properties
+      key="MAX::ID"
+      value="1693"/>
+</archimate:BusinessObject>

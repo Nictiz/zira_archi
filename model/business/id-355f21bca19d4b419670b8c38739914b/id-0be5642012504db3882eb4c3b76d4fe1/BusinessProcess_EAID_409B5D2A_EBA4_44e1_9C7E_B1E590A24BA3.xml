@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bepalen behandeladvies"
+    id="EAID_409B5D2A_EBA4_44e1_9C7E_B1E590A24BA3"
+    documentation="Bepalen en vaststellen van een behandeladvies.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.374"/>
+  <properties
+      key="NIEUW"
+      value="true"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

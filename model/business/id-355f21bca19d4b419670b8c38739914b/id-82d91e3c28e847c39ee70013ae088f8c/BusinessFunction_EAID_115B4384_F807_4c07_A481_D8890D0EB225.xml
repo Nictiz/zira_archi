@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ONDERZOEKS PUBLICATIE"
+    id="EAID_115B4384_F807_4c07_A481_D8890D0EB225"
+    documentation="Het opstellen en verspreiden van publicaties rondom het onderzoek.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1560"/>
+</archimate:BusinessFunction>

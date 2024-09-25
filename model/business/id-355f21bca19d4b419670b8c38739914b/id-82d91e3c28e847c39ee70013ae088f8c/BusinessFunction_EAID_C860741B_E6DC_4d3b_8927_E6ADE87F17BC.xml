@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HOSPITALITY"
+    id="EAID_C860741B_E6DC_4d3b_8927_E6ADE87F17BC"
+    documentation="gastvrijheid mbt ontvangst en verblijf van patienten, medewerkers, bezoekers en gasten">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1595"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsprogramma"
+    id="EAID_B5CFCC69_9BB7_4be2_AE42_F414AC917A1E"
+    documentation="Curriculum en studieprogrammering voor regulier- (o.a. geneeskunde, verpleegkunde, paramedisch) en vervolgonderwijs (medische- en verpleegkundige specialisaties).&#xA;&#xA;Een verzameling van onderwijseenheden die bij een opleiding horen in een bepaalde onderwijsperiode. (bron HORA)">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.300"/>
+</archimate:BusinessObject>

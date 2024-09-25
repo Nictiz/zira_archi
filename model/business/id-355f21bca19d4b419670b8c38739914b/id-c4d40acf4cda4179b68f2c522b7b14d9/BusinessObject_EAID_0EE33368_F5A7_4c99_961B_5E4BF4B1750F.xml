@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanvullend Onderzoek"
+    id="EAID_0EE33368_F5A7_4c99_961B_5E4BF4B1750F"
+    documentation="Verzoek tot planning en uitvoering van een verplaatsing (opname/ontslag/overplaatsing) van een patiënt.">
+  <properties
+      key="MAX::ID"
+      value="1842"/>
+  <properties
+      key="ZiRA:isActiviteit"
+      value="1"/>
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.287"/>
+</archimate:BusinessObject>

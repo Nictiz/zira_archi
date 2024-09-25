@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgverlener"
+    id="EAID_D0849D9E_43BD_45f0_B105_6847243E5F0A"
+    documentation="Persoon die beroepsmatig zorg verleent uit hoofde van een bepaalde kwalificatie en/of goedkeuring hiertoe van een bevoegde instantie..">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.293"/>
+</archimate:BusinessObject>

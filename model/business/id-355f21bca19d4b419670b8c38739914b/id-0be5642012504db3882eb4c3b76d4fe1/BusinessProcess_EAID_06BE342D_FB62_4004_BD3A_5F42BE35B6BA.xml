@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaar stellen verslag"
+    id="EAID_06BE342D_FB62_4004_BD3A_5F42BE35B6BA"
+    documentation="Opsturen van het verslag van het resultaat van het aangevraagde onderzoek naar de aanvrager.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.398"/>
+  <properties
+      key="NIEUW"
+      value="true"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

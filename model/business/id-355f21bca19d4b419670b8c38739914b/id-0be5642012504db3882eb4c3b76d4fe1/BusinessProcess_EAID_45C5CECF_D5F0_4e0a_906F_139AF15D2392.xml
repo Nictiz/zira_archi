@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Controleren  wet- en regelgeving"
+    id="EAID_45C5CECF_D5F0_4e0a_906F_139AF15D2392"
+    documentation="Verantwoording afleggen over de mate waarin voldaan wordt aan wet- en regelgeving (Compliancy).">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.108"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

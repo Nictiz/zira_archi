@@ -1,0 +1,17 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzamelen aanvullende informatie (wp)"
+    id="EAID_155C4E48_0CB4_4a4a_9CDE_2E4C38CCFD73">
+  <properties
+      key="ZIRA::Type"
+      value="Werkproces"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1065"/>
+</archimate:BusinessProcess>

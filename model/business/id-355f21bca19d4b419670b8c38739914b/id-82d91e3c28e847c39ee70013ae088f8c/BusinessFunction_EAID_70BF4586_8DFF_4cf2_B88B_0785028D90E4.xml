@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VERANTWOORDING"
+    id="EAID_70BF4586_8DFF_4cf2_B88B_0785028D90E4"
+    documentation="verantwoording van het ziekenhuis aan zijn omgeving.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1551"/>
+</archimate:BusinessFunction>

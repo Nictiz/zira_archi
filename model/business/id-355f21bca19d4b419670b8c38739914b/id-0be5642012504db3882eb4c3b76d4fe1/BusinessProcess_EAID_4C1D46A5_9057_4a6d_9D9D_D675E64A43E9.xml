@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanmelden patientcasus"
+    id="EAID_4C1D46A5_9057_4a6d_9D9D_D675E64A43E9"
+    documentation="Het aanmelden van de patientcasus door de (hoofd)behandelaar voor bespreking in een MDO. Dit kan een casus van een externe patient betreffen en/of door een externe aanvrager gebeuren.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="sortkey"
+      value="1"/>
+</archimate:BusinessProcess>

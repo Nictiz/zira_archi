@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nl.zorg.OverdrachtGeplandeZorgActiviteit"
+    id="EAID_AB4E6FDC_6914_44d6_9C9A_0A896B3FB287"
+    documentation="Alle geplande afspraken, verwijzingen, behandelingen en diagnostische procedures, uitstaande orders en orders waarvan de uitslag nog niet bekend is, relevant voor de zorg van de pati&amp;#235;nt, kunnen worden vermeld. Ook kunnen hier Clinical reminders worden geplaatst. Dit zijn uitgestelde orders, die nog niet actief zijn. (Bijvoorbeeld: let op! pati&amp;#235;nt moet nog een booster vaccinatie hebben over x weken; let op! controleer de volgende keer de wangslijmvliezen). Het concept GeplandeZorgActiviteit is een regel uit het behandelplan. &#xA;Hiermee kan elke ontvanger, raadpleger of zorginstelling inzicht krijgen in de geplande zorg voor deze pati&amp;#235;nt.&#xA;{"/>

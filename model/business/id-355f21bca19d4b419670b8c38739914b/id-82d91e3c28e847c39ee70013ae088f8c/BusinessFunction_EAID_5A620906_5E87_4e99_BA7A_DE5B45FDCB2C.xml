@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ONTWIKKELING ONDERWIJS"
+    id="EAID_5A620906_5E87_4e99_BA7A_DE5B45FDCB2C"
+    documentation="Het (her)ontwikkelen en evalueren van opleidingen, minoren en onderwijseenheden">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1585"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FINANCIELE ADMINISTRATIE"
+    id="EAID_A19A4579_2992_444a_AEE9_B9BD5079D692"
+    documentation="Het zorgdragen voor alle inkomende en uitgaande financiële stromen">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1593"/>
+</archimate:BusinessFunction>

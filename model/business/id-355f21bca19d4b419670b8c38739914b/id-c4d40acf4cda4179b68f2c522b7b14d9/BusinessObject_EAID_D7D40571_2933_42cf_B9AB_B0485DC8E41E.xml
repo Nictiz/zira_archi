@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grootboek"
+    id="EAID_D7D40571_2933_42cf_B9AB_B0485DC8E41E"
+    documentation="De verzameling van alle grootboekrekeningen met de wijzigingen die zich gedurende een bepaalde periode voordoen.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.334"/>
+</archimate:BusinessObject>

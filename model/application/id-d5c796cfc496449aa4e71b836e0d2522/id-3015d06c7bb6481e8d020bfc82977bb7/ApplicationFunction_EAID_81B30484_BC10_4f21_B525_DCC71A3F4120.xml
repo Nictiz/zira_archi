@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="On-line afspraken"
+    id="EAID_81B30484_BC10_4f21_B525_DCC71A3F4120"
+    documentation="Functionaliteit voor het on-line maken van afspraken">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="RSM E-health"/>
+  <properties
+      key="showdecoration"
+      value="ture"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

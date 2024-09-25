@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ONDERZOEKS ONTWIKKELING"
+    id="EAID_113FF021_0665_40f6_A03C_5452C4D6EC0C"
+    documentation="Het zorgen voor een geaccepteerd onderzoeksvoorstel.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1557"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ONDERZOEKS UITVOERING"
+    id="EAID_AACFF004_AE9F_4cae_9963_99CD90951714"
+    documentation="Het daadwerkelijk uitvoeren van het onderzoek">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1559"/>
+</archimate:BusinessFunction>

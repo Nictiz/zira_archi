@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="levert op"
+    id="EAID_867A9228_F56F_4f95_B5E3_A516A2223C15">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_EAID_C54CA6C4_30EB_439f_9A88_783FCD1AA7A8.xml#EAID_C54CA6C4_30EB_439f_9A88_783FCD1AA7A8"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_EAID_D076F66C_D223_48ca_AA7D_2C97588DD4A5.xml#EAID_D076F66C_D223_48ca_AA7D_2C97588DD4A5"/>
+</archimate:AssociationRelationship>

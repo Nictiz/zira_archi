@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijskwalificatie"
+    id="EAID_042A140B_95DD_4b02_8216_42B92397D599"
+    documentation="De mate waarin het geboden onderwijs voldoet aan vooraf vastgestelde criteria.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.302"/>
+</archimate:BusinessObject>

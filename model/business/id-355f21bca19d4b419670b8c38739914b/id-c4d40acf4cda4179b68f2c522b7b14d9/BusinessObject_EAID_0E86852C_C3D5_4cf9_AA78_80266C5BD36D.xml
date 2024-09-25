@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitsrapportage"
+    id="EAID_0E86852C_C3D5_4cf9_AA78_80266C5BD36D"
+    documentation="Hier valt onder alle informatie met betrekking tot verantwoording van de kwaliteit zoals onder andere audits">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.365"/>
+</archimate:BusinessObject>

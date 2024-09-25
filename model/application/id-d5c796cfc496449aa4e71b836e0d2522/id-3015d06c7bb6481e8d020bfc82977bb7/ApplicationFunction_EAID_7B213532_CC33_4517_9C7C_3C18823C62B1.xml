@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren medische technologie"
+    id="EAID_7B213532_CC33_4517_9C7C_3C18823C62B1"
+    documentation="Functionaliteit die beheer, onderhoud en gebruik van diverse medische apparatuur ondersteunt">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-140"/>
+</archimate:ApplicationFunction>

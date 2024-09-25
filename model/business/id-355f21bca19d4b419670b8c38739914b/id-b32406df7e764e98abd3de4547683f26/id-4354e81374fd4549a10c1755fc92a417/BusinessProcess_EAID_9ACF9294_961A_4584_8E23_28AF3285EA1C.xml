@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeren aanvullend Onderzoek (bp)"
+    id="EAID_9ACF9294_961A_4584_8E23_28AF3285EA1C">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="851"/>
+</archimate:BusinessProcess>

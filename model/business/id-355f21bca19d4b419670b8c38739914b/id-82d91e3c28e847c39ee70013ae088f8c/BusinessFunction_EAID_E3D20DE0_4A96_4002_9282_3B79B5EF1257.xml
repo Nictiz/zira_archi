@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZORGFACTURATIE"
+    id="EAID_E3D20DE0_4A96_4002_9282_3B79B5EF1257"
+    documentation="verzamelen van gegevens ten behoeve van de facturering (DBC-registratie en facturatie). De afhandeling van de factuur zelf is onderdeel van de financiële administratie.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1583"/>
+</archimate:BusinessFunction>

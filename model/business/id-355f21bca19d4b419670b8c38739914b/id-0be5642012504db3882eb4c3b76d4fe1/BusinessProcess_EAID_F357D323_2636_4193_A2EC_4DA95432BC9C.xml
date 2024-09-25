@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accepteren verwijzing"
+    id="EAID_F357D323_2636_4193_A2EC_4DA95432BC9C"
+    documentation="Ontvangen en administratief verwerken van de verwijzing.&#xA;Aanvang van de behandelrelatie als ziekenhuis. ">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.119"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Preoperatieve-screeningverslag"
+    id="EAID_A0B2FDD0_C438_44a6_80D4_8D82205F102A"
+    documentation="Vastlegging van de bevindingen van de preoperatieve screening.">
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.260"/>
+  <properties
+      key="MAX::ID"
+      value="1715"/>
+</archimate:BusinessObject>

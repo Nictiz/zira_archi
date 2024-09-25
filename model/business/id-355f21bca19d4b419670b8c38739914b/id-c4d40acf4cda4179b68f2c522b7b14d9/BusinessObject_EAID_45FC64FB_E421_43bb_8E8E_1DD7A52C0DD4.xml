@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanlevering"
+    id="EAID_45FC64FB_E421_43bb_8E8E_1DD7A52C0DD4"
+    documentation="Gegevens voor externe partijen zoals ministeries, RIVM, GGD, Vektis, verzekeraars, etc.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.245"/>
+</archimate:BusinessObject>

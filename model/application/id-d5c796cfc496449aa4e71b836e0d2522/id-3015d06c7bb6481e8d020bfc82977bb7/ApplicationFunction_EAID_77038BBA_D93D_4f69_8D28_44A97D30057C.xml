@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Educatie"
+    id="EAID_77038BBA_D93D_4f69_8D28_44A97D30057C"
+    documentation="Functionaliteit voor het geven van educatie dmv digitale middelen">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-108"/>
+</archimate:ApplicationFunction>

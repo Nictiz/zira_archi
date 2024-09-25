@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren technische installaties"
+    id="EAID_DE606EAF_90FB_48d2_96DF_831B01AACCF5"
+    documentation="Beheren en inregelen technische installaties, infrastructurele voorzieningen, energie(besparing)">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.198"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

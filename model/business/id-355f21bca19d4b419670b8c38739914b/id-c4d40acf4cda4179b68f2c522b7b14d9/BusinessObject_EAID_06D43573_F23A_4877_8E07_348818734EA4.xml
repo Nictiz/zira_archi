@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Services"
+    id="EAID_06D43573_F23A_4877_8E07_348818734EA4"
+    documentation="Aangeboden dienst of product zoals parkeergelegenheid, catering, winkels, (vergader)ruimte, telecomfaciliteiten, mobiliteitsmiddelen, afval, sterilisatie, repro, post, etc.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.343"/>
+</archimate:BusinessObject>

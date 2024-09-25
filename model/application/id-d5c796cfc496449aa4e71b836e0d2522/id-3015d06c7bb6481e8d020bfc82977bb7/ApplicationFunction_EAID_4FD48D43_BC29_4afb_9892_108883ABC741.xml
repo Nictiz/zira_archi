@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Locatiebepaling"
+    id="EAID_4FD48D43_BC29_4afb_9892_108883ABC741"
+    documentation="Functies voor het traceren en volgen van items of eigendom, nu of in het verleden. Bijvoorbeeld RFID-toepassingen.">
+  <properties
+      key="showdecoration"
+      value="rue"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="AS.1.2 Manage Provider's Location Within Facility"/>
+</archimate:ApplicationFunction>

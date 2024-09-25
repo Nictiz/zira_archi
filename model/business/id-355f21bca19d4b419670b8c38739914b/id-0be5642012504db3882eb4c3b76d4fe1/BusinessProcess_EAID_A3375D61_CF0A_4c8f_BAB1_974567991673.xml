@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informeren patiënt"
+    id="EAID_A3375D61_CF0A_4c8f_BAB1_974567991673"
+    documentation="In de context van Behandelplan: Het informeren en adviseren over bijvoorbeeld aard, aanpak en risico van een onderzoek, behandeling(mogelijkheden) of operatie die de patiënt ondergaat&#xA;&#xA;In de context van Stellen Diagnose: Het informeren over de gestelde  diagnose en het mogelijke verdere verloop van het behandelproces">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.135"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

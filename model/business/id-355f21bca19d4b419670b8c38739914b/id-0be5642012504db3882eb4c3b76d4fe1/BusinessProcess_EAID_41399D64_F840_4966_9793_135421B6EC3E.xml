@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bepalen behandelaar"
+    id="EAID_41399D64_F840_4966_9793_135421B6EC3E"
+    documentation="Bepalen van de behandelaar die de verwijzing in behandeling neemt.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.368"/>
+  <properties
+      key="NIEUW"
+      value="true"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Laboratoriumonderzoek"
+    id="EAID_C27D3FA5_7D91_4e0d_A0BC_D415C99F571A"
+    documentation="Functionaliteit voor de ondersteuning van processen op laboratoria (kcl, microbiologie, pathologie, klinische genetica, apotheeklab, etc)">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="ZiRA"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

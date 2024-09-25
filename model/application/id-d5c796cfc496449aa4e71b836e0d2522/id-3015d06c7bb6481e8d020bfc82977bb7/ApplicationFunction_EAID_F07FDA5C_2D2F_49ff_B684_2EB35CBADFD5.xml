@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Resultaat afhandeling"
+    id="EAID_F07FDA5C_2D2F_49ff_B684_2EB35CBADFD5"
+    documentation="Functionaliteit voor de analyse en rapportage van resultaten en notificatie naar zorgverleners en/of patient">
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="CP.5 Manage Results"/>
+</archimate:ApplicationFunction>

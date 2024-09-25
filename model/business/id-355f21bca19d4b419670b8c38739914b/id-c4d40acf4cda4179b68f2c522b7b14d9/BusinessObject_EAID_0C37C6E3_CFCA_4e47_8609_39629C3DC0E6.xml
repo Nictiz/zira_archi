@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Offerte"
+    id="EAID_0C37C6E3_CFCA_4e47_8609_39629C3DC0E6"
+    documentation="Opgave van prijs en leveringscondities voor een order of project van potenti?le leveranciers, aangevraagd door de inkoper.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.320"/>
+</archimate:BusinessObject>

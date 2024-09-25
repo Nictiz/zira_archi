@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZORGRELATIE"
+    id="EAID_87FDBCED_7791_404d_B6AA_A8EC02B59804"
+    documentation="Onderhouden en identificeren van zorgrelaties, inclusief patiënten, zorgverleners en zorgverzekeraars">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1581"/>
+</archimate:BusinessFunction>

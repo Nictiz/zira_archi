@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteit en tevredenheidsmeting"
+    id="EAID_7DCB7422_46B9_4709_B1A7_90E7F99E5D0E"
+    documentation="Functionaliteit om de effecten van behandelingen en de patiënttevredenheid te kunnen meten en vaststellen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="RSM E-health"/>
+  <properties
+      key="showdecoration"
+      value="TRUE"/>
+</archimate:ApplicationFunction>

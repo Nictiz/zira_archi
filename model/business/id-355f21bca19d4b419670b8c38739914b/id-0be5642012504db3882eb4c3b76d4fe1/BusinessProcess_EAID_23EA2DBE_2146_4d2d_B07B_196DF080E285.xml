@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren vervoersmiddelen"
+    id="EAID_23EA2DBE_2146_4d2d_B07B_196DF080E285"
+    documentation="Beheren van alle voertuigen en andere vervoersmiddelen (bijv. dienstfiets) in lease of eigendom">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.199"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

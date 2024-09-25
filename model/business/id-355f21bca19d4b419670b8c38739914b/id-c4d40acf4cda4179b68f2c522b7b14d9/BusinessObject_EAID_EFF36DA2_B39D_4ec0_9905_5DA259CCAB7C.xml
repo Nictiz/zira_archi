@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitwisselingsinformatie"
+    id="EAID_EFF36DA2_B39D_4ec0_9905_5DA259CCAB7C"
+    documentation="Informatie die tussen zorgverleners / -instellingen wordt uitgewisseld. Specifieke vormen zijn Verwijsinformatie en Overdrachtsinformatie.">
+  <properties
+      key="MAX::ID"
+      value="1938"/>
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.244"/>
+</archimate:BusinessObject>

@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GENETISCH ONDERZOEK"
+    id="EAID_A1DC1A56_828A_4d2b_93B1_AD37AC3F85E3"
+    documentation="Het uitvoeren en verslagleggen van genetisch onderzoek.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

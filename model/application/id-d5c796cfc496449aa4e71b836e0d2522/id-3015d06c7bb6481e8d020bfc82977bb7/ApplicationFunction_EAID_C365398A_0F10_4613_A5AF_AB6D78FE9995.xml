@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Printing &amp; scanning"
+    id="EAID_C365398A_0F10_4613_A5AF_AB6D78FE9995"
+    documentation="Functionaliteit voor het afdrukken en scannen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-150"/>
+</archimate:ApplicationFunction>

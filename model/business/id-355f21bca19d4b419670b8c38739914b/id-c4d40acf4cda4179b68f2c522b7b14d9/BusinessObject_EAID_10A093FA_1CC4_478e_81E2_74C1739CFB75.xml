@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Marktanalyse"
+    id="EAID_10A093FA_1CC4_478e_81E2_74C1739CFB75"
+    documentation="Onderzoek naar de verhouding tussen vraag en aanbod op een bepaalde markt en de factoren die daarop van invloed zijn. Maakt ook gebruik van SWOT-analyses.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.232"/>
+</archimate:BusinessObject>

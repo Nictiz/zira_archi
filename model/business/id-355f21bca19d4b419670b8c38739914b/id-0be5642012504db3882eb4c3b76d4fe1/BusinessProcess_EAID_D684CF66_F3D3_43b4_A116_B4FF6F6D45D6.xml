@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verkrijgen informed consent"
+    id="EAID_D684CF66_F3D3_43b4_A116_B4FF6F6D45D6"
+    documentation="Vragen of de patiënt instemt met de voorgestelde behandeling en/of deelname aan onderzoek  en vastleggen van diens antwoord.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.377"/>
+  <properties
+      key="NIEUW"
+      value="true"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

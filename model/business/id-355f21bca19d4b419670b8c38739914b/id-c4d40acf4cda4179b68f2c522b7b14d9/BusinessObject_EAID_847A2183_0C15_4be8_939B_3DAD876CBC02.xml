@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluatieverslag"
+    id="EAID_847A2183_0C15_4be8_939B_3DAD876CBC02"
+    documentation="Vastlegging van het gesprek met de patiënt bij het beëindigen van zorgverlening, waarin informatie wordt verstrekt over nazorg, en waarin de mening en ervaringen van de patiënt aan bod kunnen komen over verleende zorg.">
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.279"/>
+  <properties
+      key="MAX::ID"
+      value="2182"/>
+</archimate:BusinessObject>

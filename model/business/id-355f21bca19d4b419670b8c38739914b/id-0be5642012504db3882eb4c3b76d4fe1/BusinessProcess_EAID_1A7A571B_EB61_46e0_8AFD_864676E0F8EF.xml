@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Begeleiden deelnemers"
+    id="EAID_1A7A571B_EB61_46e0_8AFD_864676E0F8EF"
+    documentation="Begeleiden, coachen, adviseren, inclusief informele overdracht van kennis en ervaring.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="2284"/>
+</archimate:BusinessProcess>

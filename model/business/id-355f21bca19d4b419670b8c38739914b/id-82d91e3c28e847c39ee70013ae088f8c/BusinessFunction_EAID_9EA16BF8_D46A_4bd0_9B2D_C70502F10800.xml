@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VERZORGING"
+    id="EAID_9EA16BF8_D46A_4bd0_9B2D_C70502F10800"
+    documentation="Behandeling van de patiënt doormiddel van verzorgende taken.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1578"/>
+</archimate:BusinessFunction>

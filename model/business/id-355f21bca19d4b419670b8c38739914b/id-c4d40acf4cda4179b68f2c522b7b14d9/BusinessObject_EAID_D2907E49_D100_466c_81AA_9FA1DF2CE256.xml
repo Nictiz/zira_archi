@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksaanvraag"
+    id="EAID_D2907E49_D100_466c_81AA_9FA1DF2CE256"
+    documentation="Verzoek tot het uitvoeren van onderzoek.">
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.281"/>
+  <properties
+      key="MAX::ID"
+      value="1671"/>
+</archimate:BusinessObject>

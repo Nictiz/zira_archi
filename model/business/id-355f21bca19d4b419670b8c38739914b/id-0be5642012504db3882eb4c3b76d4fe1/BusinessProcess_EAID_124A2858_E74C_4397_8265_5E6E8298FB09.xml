@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ondersteunen doorstroom"
+    id="EAID_124A2858_E74C_4397_8265_5E6E8298FB09"
+    documentation="Beheren van de organisatie en formatie, personeelsbeoordeling, loopbaanontwikkeling en competentiemanagement">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.204"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

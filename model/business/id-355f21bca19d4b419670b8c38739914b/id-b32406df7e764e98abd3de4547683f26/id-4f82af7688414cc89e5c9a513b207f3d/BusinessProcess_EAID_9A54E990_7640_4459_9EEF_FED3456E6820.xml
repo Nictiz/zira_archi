@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeren verpleegkundige zorg (wp)"
+    id="EAID_9A54E990_7640_4459_9EEF_FED3456E6820"
+    documentation="Pre-conditie: Voorbereide (is geplande) verpleegkundige zorg&#xA;Post-conditie: Uitgevoerde verpleegkundige zorg">
+  <properties
+      key="ZIRA::Type"
+      value="Werkproces"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1082"/>
+</archimate:BusinessProcess>

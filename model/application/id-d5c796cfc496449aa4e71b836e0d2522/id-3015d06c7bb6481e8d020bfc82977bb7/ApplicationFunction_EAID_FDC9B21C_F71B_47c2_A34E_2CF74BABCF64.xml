@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgplanning"
+    id="EAID_FDC9B21C_F71B_47c2_A34E_2CF74BABCF64"
+    documentation="Functionaliteit voor het maken en beheren van afspraken , opnames, overplaatsingen, ontslag en verwijzing">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="ZIRA"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

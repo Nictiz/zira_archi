@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beveiliging"
+    id="EAID_7EF86C3A_30CA_4834_B774_3375719A31A4"
+    documentation="Functionaliteit die ondersteunt bij het uitvoeren van de veiligheid, kwaliteit en milieu taken en verplichtingen">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-142"/>
+</archimate:ApplicationFunction>

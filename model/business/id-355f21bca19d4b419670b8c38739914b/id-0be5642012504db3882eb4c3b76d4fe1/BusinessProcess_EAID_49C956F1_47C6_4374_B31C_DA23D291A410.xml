@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren kennis"
+    id="EAID_49C956F1_47C6_4374_B31C_DA23D291A410"
+    documentation="Beschikbaar stellen en actueel houden van kennis (publicaties, vakliteratuur, e.d.)">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.123"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

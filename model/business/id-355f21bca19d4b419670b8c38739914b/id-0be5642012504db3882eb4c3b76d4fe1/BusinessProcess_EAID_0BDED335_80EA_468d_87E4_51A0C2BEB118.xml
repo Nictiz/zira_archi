@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorbereiden middelen voor behandeling"
+    id="EAID_0BDED335_80EA_468d_87E4_51A0C2BEB118"
+    documentation="Zorgen dat de benodigdheden gereedgemaakt worden, bijv medicatie toedieningsgereedmaken, zorgen dat de juiste netten aanwezig zijn op OK, etc&#xA;&#xA;het ontvangen/verkrijgen/verzamelen van de benodigde middelen voor behandeling&#xA;&#xA;Is voldaan aan alle algemene precondities voor de behandeling?">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.384"/>
+  <properties
+      key="NIEUW"
+      value="true"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

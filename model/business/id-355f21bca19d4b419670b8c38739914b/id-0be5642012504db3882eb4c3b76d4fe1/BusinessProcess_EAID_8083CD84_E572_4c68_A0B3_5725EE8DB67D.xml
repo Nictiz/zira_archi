@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accorderen behandeladvies"
+    id="EAID_8083CD84_E572_4c68_A0B3_5725EE8DB67D"
+    documentation="Het verslag met daarin het advies ten aanzien van de behandeling wordt (meestal) tijdens het MDO genoteerd en geaccordeerd door de aanwezigen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

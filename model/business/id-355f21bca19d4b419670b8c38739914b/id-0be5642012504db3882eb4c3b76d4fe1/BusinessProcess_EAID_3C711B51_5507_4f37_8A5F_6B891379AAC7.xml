@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patiëntselectie en rekrutering"
+    id="EAID_3C711B51_5507_4f37_8A5F_6B891379AAC7"
+    documentation="Op basis van bepaalde criteria worden patiënten geselecteerd en benaderd met de vraag of zij willen deelnemen aan het onderzoek.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.186"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nl.zorg.OverdrachtLaboratoriumUitslag"
+    id="EAID_CA2B1D00_0CDC_434b_8037_B1583E7E6A77"
+    documentation="Een laboratoriumuitslag beschrijft het resultaat van een laboratoriumbepaling. &#xA;Behalve de uitkomsten van testen met een enkelvoudig resultaat kunnen ook de uitkomsten van meer complexe testen met meervoudige resultaten of 'panel' vastgelegd worden.&#xA;{"/>

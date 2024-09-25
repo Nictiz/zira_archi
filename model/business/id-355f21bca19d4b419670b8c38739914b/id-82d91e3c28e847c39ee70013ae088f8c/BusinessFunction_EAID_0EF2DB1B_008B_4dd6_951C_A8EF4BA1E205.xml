@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INNOVATIE"
+    id="EAID_0EF2DB1B_008B_4dd6_951C_A8EF4BA1E205"
+    documentation="ontwikkelen van bestaande en nieuwe dienstverlening.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1548"/>
+</archimate:BusinessFunction>

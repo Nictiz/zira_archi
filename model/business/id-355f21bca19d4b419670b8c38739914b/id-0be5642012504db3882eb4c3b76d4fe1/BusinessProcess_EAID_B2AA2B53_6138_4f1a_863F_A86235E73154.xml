@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren van gegevens"
+    id="EAID_B2AA2B53_6138_4f1a_863F_A86235E73154"
+    documentation="De (business) activiteit voor het managen van gegevens (data governance). Omvat alle activiteiten die ervoor zorgen dat belangrijke gegevens formeel worden beheerd met het uitgangspunt dat gegevens een (bedrijfs)waarde vertegenwoordigen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.355"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

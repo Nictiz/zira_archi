@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fondsenwerving en sponsoring"
+    id="EAID_406B60E2_D9FF_4104_9D4F_22E9839D4ECE"
+    documentation="Verwerven van additionele gelden en onderhouden sponsorrelaties.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.219"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

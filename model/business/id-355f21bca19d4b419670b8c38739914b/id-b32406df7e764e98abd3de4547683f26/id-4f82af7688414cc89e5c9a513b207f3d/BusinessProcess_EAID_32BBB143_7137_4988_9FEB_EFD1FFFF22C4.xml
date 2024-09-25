@@ -1,0 +1,17 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeren onderzoek (wp)"
+    id="EAID_32BBB143_7137_4988_9FEB_EFD1FFFF22C4">
+  <properties
+      key="ZIRA::Type"
+      value="Werkproces"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1071"/>
+</archimate:BusinessProcess>

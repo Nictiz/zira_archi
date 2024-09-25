@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanvraag/planning klinische beweging"
+    id="EAID_A13752D6_81D1_4271_BC39_097A645A979E"
+    documentation="Verzoek tot planning en uitvoering van een klinische beweging (opname/ontslag/overplaatsing) zorgtraject.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.288"/>
+</archimate:BusinessObject>

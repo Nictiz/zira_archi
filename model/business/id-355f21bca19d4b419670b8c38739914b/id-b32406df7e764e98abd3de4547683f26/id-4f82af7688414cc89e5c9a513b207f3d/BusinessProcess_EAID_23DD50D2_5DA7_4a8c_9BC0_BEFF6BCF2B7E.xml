@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorbereiden MDO (wp)"
+    id="EAID_23DD50D2_5DA7_4a8c_9BC0_BEFF6BCF2B7E"
+    documentation="Het voorbereiden door en informeren van alle bij het MDO betrokken personen. ">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

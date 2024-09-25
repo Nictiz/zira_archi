@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bepalen missie en visie"
+    id="EAID_37388D2B_DA97_44fc_AB71_D89D1EFDA2A3"
+    documentation="Een missie definieert de bestaansgrond van een organisatie en geeft antwoord op de vraag: Waarom doen we wat we doen? De missie is tijdloos. Een visie is een consistente blik op de toekomst en geeft de gewenste situatie aan.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.101"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

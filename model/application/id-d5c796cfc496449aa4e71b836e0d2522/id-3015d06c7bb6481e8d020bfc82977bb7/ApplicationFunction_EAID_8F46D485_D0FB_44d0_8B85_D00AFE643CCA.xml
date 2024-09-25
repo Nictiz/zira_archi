@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Netwerkservices"
+    id="EAID_8F46D485_D0FB_44d0_8B85_D00AFE643CCA"
+    documentation="Functionaliteit voor het beheren van het netwerk zoals bijv. acceptatie van hardware op netwerk/ DC-lAN, Campus-LAN, NXN-WAN">
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="TI.1.7 Secure Data Routing"/>
+</archimate:ApplicationFunction>

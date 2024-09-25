@@ -1,0 +1,11 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkproces"
+    id="EAID_06E616A8_991A_4e53_946A_49FBF255FAED">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

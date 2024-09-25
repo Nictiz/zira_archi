@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lichaamsmateriaal t.b.v. wetenschappelijk onderzoek"
+    id="EAID_72C5CA56_8008_4db4_A614_B0B4308EC82E"
+    documentation="Het tijdens het wetenschappelijk onderzoek verzamelde (biomedische) materiaal (bv bloed, weefsel e.d.).">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.311"/>
+</archimate:BusinessObject>

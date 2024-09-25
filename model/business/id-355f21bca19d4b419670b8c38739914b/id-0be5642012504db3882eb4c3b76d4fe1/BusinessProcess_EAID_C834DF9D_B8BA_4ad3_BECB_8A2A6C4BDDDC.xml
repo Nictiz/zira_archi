@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toevoegen aan bespreeklijst MDO"
+    id="EAID_C834DF9D_B8BA_4ad3_BECB_8A2A6C4BDDDC"
+    documentation="De gecontroleerde aanmelding wordt toegevoegd aan de bespreeklijst van het (eerstvolgende) MDO. De volgorde van patienten op de lijst wordt logisch geclusterd. Als er sprake is van echelonnering wordt er tevens bepaald welke soort MDO (intramuraal, transmuraal, …) van toepassing is/bij de vraagstelling van de casus past.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

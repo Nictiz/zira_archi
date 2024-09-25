@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanvragen collegiaal consult"
+    id="EAID_20BE460F_9D15_4a9b_A020_AC578A08D2C8"
+    documentation="Verzoek aan een collega-zorgverlener om een specifiek oordeel/advies inzake diagnose of behandeling.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.130"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

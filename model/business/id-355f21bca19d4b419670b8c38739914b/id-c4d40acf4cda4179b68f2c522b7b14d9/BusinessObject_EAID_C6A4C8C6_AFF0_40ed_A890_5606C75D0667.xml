@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Projectplan"
+    id="EAID_C6A4C8C6_AFF0_40ed_A890_5606C75D0667"
+    documentation="Overzichten van de stappen die gezet moeten worden om een project uit te voeren.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.351"/>
+</archimate:BusinessObject>

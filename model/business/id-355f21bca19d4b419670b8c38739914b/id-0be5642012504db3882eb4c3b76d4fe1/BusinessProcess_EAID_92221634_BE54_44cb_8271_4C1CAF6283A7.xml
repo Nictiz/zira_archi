@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Factureren zorgproduct"
+    id="EAID_92221634_BE54_44cb_8271_4C1CAF6283A7"
+    documentation="Verwerken van verrichtingen en overige benodigde gegevens tot zorgproducten en een factuur.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.172"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

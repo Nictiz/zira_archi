@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Student Informatie"
+    id="EAID_20B614EB_3FB1_4223_8381_B3333032F694"
+    documentation="Functionaliteit voor het beheren van alle informatie van en over de student">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-112"/>
+</archimate:ApplicationFunction>

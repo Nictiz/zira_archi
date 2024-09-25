@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ONDERZOEKS VOORBEREIDING"
+    id="EAID_7D0ED72A_6D85_4a4d_9C26_102FC7283D03"
+    documentation="Het zorgen dat de randvoorwaarden voor het onderzoek zijn geborgd.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1558"/>
+</archimate:BusinessFunction>

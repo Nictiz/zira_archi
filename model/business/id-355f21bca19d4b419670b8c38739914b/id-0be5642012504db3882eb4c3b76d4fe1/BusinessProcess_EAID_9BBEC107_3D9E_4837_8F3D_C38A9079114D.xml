@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opnemen publicatie in publicatielijst"
+    id="EAID_9BBEC107_3D9E_4837_8F3D_C38A9079114D"
+    documentation="Afgeronde publicaties worden opgenomen in een publicatielijst.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.193"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

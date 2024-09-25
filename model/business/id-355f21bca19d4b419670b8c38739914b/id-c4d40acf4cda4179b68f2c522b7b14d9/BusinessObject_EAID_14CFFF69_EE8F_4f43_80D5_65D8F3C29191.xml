@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevens relatie onderwijs en zorgproces"
+    id="EAID_14CFFF69_EE8F_4f43_80D5_65D8F3C29191"
+    documentation="Vastgelegde relatie tussen onderwijs en zorgproces, bijvoorbeeld supervisie van zorgprofessional voor arts in opleiding">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.303"/>
+</archimate:BusinessObject>

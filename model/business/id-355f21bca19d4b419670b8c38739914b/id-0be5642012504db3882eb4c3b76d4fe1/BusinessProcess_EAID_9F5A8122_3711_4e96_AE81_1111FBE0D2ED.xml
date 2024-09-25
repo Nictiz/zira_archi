@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Accepteren advies aanvraag"
+    id="EAID_9F5A8122_3711_4e96_AE81_1111FBE0D2ED"
+    documentation="Kennisnemen van de aard en achtergrond van een adviesaanvraag, beoordelen of de gevraagde zorg is aangewezen en ook geleverd kan worden.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.373"/>
+  <properties
+      key="NIEUW"
+      value="true"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

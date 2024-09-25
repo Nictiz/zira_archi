@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="THERAPIE"
+    id="EAID_E6736EEE_D0F7_40cd_BCF6_EB371620B07D"
+    documentation="Vorm van behandeling dat zich bezighoudt met behandeling of genezing van ziekten of de verlichting van symptomen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1574"/>
+</archimate:BusinessFunction>

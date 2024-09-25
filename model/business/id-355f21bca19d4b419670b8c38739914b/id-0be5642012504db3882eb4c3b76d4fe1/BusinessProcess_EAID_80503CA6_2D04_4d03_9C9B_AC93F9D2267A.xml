@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operationeel inkopen"
+    id="EAID_80503CA6_2D04_4d03_9C9B_AC93F9D2267A"
+    documentation="Doen van bestellingen van bekende producten en diensten die binnen een raamcontract vallen. Ook wordt de levertijd bewaakt en contact onderhouden met de leverancier om te zorgen dat de bestelde zaken op de gevraagde tijd, plaats en hoeveelheid geleverd worden.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.201"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

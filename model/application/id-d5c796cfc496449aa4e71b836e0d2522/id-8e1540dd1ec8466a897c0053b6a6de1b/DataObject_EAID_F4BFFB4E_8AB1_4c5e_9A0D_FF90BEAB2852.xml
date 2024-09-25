@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nl.zorg.OverdrachtVerrichting"
+    id="EAID_F4BFFB4E_8AB1_4c5e_9A0D_FF90BEAB2852"
+    documentation="Het concept Verrichting vermeldt een therapeutische verrichting, die de patiënt heeft ondergaan. Indien relevant kunnen ook diagnostische verrichtingen vermeld worden. &#xA;Een verrichting kan een simpele bloeddrukmeting zijn maar ook een complexe hartoperatie.&#xA;{"/>

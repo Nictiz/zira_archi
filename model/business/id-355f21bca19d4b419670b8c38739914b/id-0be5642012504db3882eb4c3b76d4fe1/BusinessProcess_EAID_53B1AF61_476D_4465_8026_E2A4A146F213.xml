@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaarstellen patientgegevens"
+    id="EAID_53B1AF61_476D_4465_8026_E2A4A146F213"
+    documentation="Het koppelen/aanwijzen/verwijzen/linken van gegevens van de patient waaronder diagnose, onderzoeksverslagen, additionele medische gegevens en verwijzingen naar radiologische beelden. Vaak zijn er afspraken gemaakt over welke gegevens relevant zijn en aangeleverd moeten worden. Kan door meerdere bij het MDO en bij de zorg voor de patient betrokken zorgverleners worden gedaan (behandelend arts, radioloog, patholoog, …).">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

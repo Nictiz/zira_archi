@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bepalen beleid"
+    id="EAID_E52ADEC6_CC5D_482a_BF8A_5FCF352943F3"
+    documentation="Bepalen ziekenhuis- en/of divisiebeleid en specifieke beleidsplannen als medisch, verpleegkundig, afdeling, VKAM (veiligheid, arbeid, kwaliteit en milieu),  etc. op strategisch, tactisch en operationeel niveau">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.103"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

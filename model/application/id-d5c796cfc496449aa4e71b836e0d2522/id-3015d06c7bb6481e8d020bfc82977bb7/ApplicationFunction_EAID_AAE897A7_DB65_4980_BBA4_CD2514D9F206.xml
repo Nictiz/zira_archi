@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgfacturering"
+    id="EAID_AAE897A7_DB65_4980_BBA4_CD2514D9F206"
+    documentation="Functionaliteit voor de vastlegging van de verrichting en factureren van het zorgproduct">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="ZiRA"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

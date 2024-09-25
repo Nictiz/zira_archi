@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitoring &amp; alerting"
+    id="EAID_97683ECC_CEE6_453c_83DE_4C73322CC2B1"
+    documentation="Functionaliteit voor het monitoren en analyseren van het datacentrum">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-186"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoek ontwikkeling"
+    id="EAID_2788C8F0_0739_4b6d_A0F1_5EE1643B51D7"
+    documentation="Functionaliteit voor de administratieve ondersteuning voor het indienen van een onderzoeksaanvraag, het opstellen van een onderzoeksprotocol, het opstellen van een onderzoeksvoorstel en de medisch etische keuring">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-94"/>
+</archimate:ApplicationFunction>

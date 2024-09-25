@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kantoorautomatisering"
+    id="EAID_7B760243_5B24_4b2c_AFD1_591F10B4378B"
+    documentation="Functionaliteit voor standaard kantoorondersteuning (tekstverwerking, spreadsheet, e-mail en agenda e.d.)">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-152"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren kwaliteits- en veiligheidsdocumenten"
+    id="EAID_BA6FA689_F928_4ca8_A7B3_6280C1526909"
+    documentation="Maken, beschikbaar stellen en actueel houden van content als protocollen, handboeken, instructies, kwaliteitsdocumenten t.b.v. borging kwaliteit en veiligheid  van zorg, onderzoek en onderwijs.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.356"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

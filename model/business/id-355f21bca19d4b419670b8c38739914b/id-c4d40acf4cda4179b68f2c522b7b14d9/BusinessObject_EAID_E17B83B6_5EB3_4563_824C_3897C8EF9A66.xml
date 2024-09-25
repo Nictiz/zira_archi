@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overdrachtsinformatie"
+    id="EAID_E17B83B6_5EB3_4563_824C_3897C8EF9A66"
+    documentation="Een selectie van gegevens uit het dossier bestemd voor de overdracht van de patient">
+  <properties
+      key="MAX::ID"
+      value="1924"/>
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.366"/>
+</archimate:BusinessObject>

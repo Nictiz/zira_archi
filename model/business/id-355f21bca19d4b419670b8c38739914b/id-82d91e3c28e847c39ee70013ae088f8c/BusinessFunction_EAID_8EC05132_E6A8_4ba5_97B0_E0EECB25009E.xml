@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ENDOSCOPIE"
+    id="EAID_8EC05132_E6A8_4ba5_97B0_E0EECB25009E"
+    documentation="Het uitvoeren en verslagleggen van endoscopisch onderzoek.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1566"/>
+</archimate:BusinessFunction>

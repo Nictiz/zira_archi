@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren gegevens zorgverleners"
+    id="EAID_55DA0C19_383B_4193_AE42_052E70C8E73D"
+    documentation="Vaststellenen onderhouden van administratieve gegevens van zorgverleners">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.168"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

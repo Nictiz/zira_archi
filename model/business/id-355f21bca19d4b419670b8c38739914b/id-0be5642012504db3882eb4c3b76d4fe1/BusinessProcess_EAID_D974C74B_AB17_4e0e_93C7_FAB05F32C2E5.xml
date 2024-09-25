@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeren preoperatieve screening"
+    id="EAID_D974C74B_AB17_4e0e_93C7_FAB05F32C2E5"
+    documentation="Middels onderzoek/vragenlijsten/gesprek verkrijgen van informatie over de conditie van de patiënt, afwegen van de noodzaak en risico's van de geplande operatie en bepalen van de gewenste aanpak en wijze van anesthesie.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.138"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

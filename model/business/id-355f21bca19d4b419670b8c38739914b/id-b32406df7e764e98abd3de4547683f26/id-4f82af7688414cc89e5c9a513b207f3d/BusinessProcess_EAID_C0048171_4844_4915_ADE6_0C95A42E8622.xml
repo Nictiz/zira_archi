@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanvragen behandelactiviteit (wp)"
+    id="EAID_C0048171_4844_4915_ADE6_0C95A42E8622"
+    documentation="pre-conditie: behandelplan bestaat uit activiteiten die moeten worden geordered&#xA;post-conditie: een order voor de activiteit is aangemaakt">
+  <properties
+      key="ZIRA::Type"
+      value="Werkproces"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1078"/>
+</archimate:BusinessProcess>

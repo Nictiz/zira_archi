@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anesthesieverslag"
+    id="EAID_F3F2DDFF_73D0_4fa5_A163_85E87786A42E"
+    documentation="Vastlegging van de tijdens een operatie uitgevoerde anesthesie.">
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.261"/>
+  <properties
+      key="MAX::ID"
+      value="2197"/>
+</archimate:BusinessObject>

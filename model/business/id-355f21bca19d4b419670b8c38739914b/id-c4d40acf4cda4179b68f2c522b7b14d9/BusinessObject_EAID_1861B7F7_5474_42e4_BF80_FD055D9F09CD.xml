@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inventaris"
+    id="EAID_1861B7F7_5474_42e4_BF80_FD055D9F09CD"
+    documentation="Inboedel">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.314"/>
+</archimate:BusinessObject>

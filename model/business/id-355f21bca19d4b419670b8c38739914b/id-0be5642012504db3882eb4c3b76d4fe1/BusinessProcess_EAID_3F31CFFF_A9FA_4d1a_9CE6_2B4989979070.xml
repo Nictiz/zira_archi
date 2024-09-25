@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorschrijven medicatie"
+    id="EAID_3F31CFFF_A9FA_4d1a_9CE6_2B4989979070"
+    documentation="Vaststellen van benodigde medicatie, dosering en frequentie van dosering.&#xA;In de poliklinische situatie wordt hierbij een verzoek tot verstrekking aan de apotheek gedaan. Hierbij inbegrepen is de medicatieverificatie en controle op contra-indicaties.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.142"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

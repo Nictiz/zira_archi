@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KWALITEITS MANAGEMENT"
+    id="EAID_8900A62C_669B_4506_BD32_7D69A9B554F2"
+    documentation="borgen van kwaliteit van zorg, onderzoek en onderwijs en patiëntveiligheid.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1549"/>
+</archimate:BusinessFunction>

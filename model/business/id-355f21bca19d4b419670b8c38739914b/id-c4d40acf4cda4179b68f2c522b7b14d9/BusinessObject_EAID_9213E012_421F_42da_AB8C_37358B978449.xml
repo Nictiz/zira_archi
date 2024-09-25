@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zorgverzekeraar"
+    id="EAID_9213E012_421F_42da_AB8C_37358B978449"
+    documentation="Aanbieder van zorgverzekering, contractpartij voor zorgaanbieder/zorgverlener.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.295"/>
+</archimate:BusinessObject>

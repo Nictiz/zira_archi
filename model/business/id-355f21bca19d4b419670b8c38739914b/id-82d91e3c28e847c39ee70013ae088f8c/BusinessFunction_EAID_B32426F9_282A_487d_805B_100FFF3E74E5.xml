@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KENNISMANAGEMENT"
+    id="EAID_B32426F9_282A_487d_805B_100FFF3E74E5"
+    documentation="managen van kennis.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1554"/>
+</archimate:BusinessFunction>

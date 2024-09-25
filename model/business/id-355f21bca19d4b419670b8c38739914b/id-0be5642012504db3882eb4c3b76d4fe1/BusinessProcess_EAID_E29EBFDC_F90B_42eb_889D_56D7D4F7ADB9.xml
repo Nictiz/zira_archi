@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evalueren zorg"
+    id="EAID_E29EBFDC_F90B_42eb_889D_56D7D4F7ADB9"
+    documentation="evaluatie van de gegeven zorg (het resultaat van alle behandelingen)&#xA;en irt behandeldoelen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.154"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

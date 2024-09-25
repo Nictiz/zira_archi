@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderhoud medische technologie"
+    id="EAID_A612CCC8_A89F_418b_8203_F918E86398D6"
+    documentation="Technisch beheer (preventief en correctief onderhoud) van medische technologie zoals medische apparatuur, medische hulpmiddelen inclusief software">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.222"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

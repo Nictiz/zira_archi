@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren deelnemersgegevens"
+    id="EAID_56D55E61_0209_4886_842A_7632AB44EAD5"
+    documentation="Verzamelen, analyseren en gebruiken van studentgegevens om huidige en toekomstige onderwijsinspanningen te verbeteren.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="2286"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Salarisverwerking"
+    id="EAID_E3FBB2A6_A6D9_43f6_9DC5_AB618D04CF0A"
+    documentation="Functionaliteit waarmee het uitbetalen van salarissen aan medewerkers wordt ondersteund.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-138"/>
+</archimate:ApplicationFunction>

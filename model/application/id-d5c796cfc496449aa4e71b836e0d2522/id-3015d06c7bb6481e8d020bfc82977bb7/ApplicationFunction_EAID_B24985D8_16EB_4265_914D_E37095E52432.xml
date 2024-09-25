@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ICT Preventie en protectie"
+    id="EAID_B24985D8_16EB_4265_914D_E37095E52432"
+    documentation="Functionaliteit voor beheersen van kwetsbaarheden en penetraties">
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="TI.1.6 Secure Data Exchange"/>
+</archimate:ApplicationFunction>

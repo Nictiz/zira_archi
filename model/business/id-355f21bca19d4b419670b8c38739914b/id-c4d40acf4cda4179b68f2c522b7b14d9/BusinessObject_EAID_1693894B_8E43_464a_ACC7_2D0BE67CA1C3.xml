@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Productieafspraken"
+    id="EAID_1693894B_8E43_464a_ACC7_2D0BE67CA1C3"
+    documentation="Overeenkomsten tussen gebudgetteerde zorginstellingen en zorgverzekeraars over de productie, waarmee rekening gehouden wordt bij het voor een bepaald jaar overeen te komen (kosten)budget.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.228"/>
+</archimate:BusinessObject>

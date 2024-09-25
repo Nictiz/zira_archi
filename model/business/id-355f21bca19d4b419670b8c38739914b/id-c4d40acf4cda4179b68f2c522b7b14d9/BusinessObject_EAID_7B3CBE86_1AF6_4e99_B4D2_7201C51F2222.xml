@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Artikel"
+    id="EAID_7B3CBE86_1AF6_4e99_B4D2_7201C51F2222"
+    documentation="Handelswaar en het aantal dat op een bepaalde plaats aanwezig is, uitgedrukt in eenheden of in geld">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.324"/>
+</archimate:BusinessObject>

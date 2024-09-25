@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nl.zorg.MedicatieVerstrekking"
+    id="EAID_54F50B36_313C_4086_8C25_63D4D351C113"
+    documentation="Medicatie verstrekking beschrijft de levering van een medicatieproduct aan een specifieke pati&amp;#235;nt (of de toediener of een vertegenwoordiger), met de bedoeling dat het gebruikt wordt volgens een meegeleverde instructie (meestal als uitvoering van het verstrekkingsverzoek in een medicatievoorschrift). &#xA;Een verstrekking vindt plaats op het moment dat de pati&amp;#235;nt (of de andere genoemden) het product fysiek ontvangt.&#xA;{"/>

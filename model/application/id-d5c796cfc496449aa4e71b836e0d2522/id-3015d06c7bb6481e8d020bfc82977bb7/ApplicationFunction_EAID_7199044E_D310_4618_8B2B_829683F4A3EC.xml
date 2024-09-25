@@ -1,0 +1,21 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interactie externe bronnen"
+    id="EAID_7199044E_D310_4618_8B2B_829683F4A3EC"
+    documentation="Functionaliteit voor informatieuitwisseling met derden voor het verzamelen van additionele gegevens">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="CP.2 Render externally-sourced Information"/>
+  <properties
+      key="ExternalReference"
+      value="CPS.2 Support externally-sourced Information"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

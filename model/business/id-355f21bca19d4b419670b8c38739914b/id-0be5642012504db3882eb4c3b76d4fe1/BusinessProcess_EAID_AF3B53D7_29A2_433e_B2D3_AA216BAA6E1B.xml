@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evalueren onderwijs"
+    id="EAID_AF3B53D7_29A2_433e_B2D3_AA216BAA6E1B"
+    documentation="Evaluatie onderwijs en het uitzetten van verbeteracties">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.178"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plannen resources voor onderwijs"
+    id="EAID_6CE184F6_2E54_4b30_BEF0_558BA4DB02F7"
+    documentation="Plannen noodzakelijke resources, zoals ruimtes, e-learning faciliteiten, medische bibliotheek, meekijkruimtes, etc. en inschrijving, werving cursisten, voorlichting, etc.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.174"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

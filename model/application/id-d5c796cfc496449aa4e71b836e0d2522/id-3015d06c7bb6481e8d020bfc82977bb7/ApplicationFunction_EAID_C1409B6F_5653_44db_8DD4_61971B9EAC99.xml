@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financieel beheer"
+    id="EAID_C1409B6F_5653_44db_8DD4_61971B9EAC99"
+    documentation="Functionaliteit waarmee de financiële administratie en verwerking van financiële stromen wordt ondersteund.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-136"/>
+</archimate:ApplicationFunction>

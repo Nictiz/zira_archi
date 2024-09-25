@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tele-monitoring"
+    id="EAID_3A609844_2F5D_4ab0_B0FE_A5194194E6E7"
+    documentation="Functionaliteit waarmee de patient op afstand (tele) gevolgd en begeleid (monitoring) wordt door de zorgverlener met behulp van bij de patient aanwezige meetapparatuur.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="RSM E-health"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

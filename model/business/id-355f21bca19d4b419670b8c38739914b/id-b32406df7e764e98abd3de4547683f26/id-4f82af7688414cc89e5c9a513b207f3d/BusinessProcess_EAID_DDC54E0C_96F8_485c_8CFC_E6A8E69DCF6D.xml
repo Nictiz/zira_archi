@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plannen onderzoek (wp)"
+    id="EAID_DDC54E0C_96F8_485c_8CFC_E6A8E69DCF6D"
+    documentation="Processtappen Plannen personen, middelen en locatie kunnen ook gelijktijdig worden uitgevoerd&#xA;&#xA;pre-conditie:&#xA;post-conditie:">
+  <properties
+      key="ZIRA::Type"
+      value="Werkproces"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1069"/>
+</archimate:BusinessProcess>

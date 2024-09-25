@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prestatie-indicator"
+    id="EAID_E9C65FF2_661D_446f_832B_AF3F93B8B9BA"
+    documentation="Een kwantificeerbare, meetbare indicatie die laat zien of een organisatie of organisatie-eenheid erin geslaagd is een bepaalde doelstelling te bereiken.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.229"/>
+</archimate:BusinessObject>

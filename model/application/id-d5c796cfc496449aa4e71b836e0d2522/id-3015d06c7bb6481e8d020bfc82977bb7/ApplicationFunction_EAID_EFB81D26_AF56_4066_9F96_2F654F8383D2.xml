@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Provisioning &amp; automation service"
+    id="EAID_EFB81D26_AF56_4066_9F96_2F654F8383D2"
+    documentation="Functionaliteit voor het distribueren en automatiseren van diensten/applicaties.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-184"/>
+</archimate:ApplicationFunction>

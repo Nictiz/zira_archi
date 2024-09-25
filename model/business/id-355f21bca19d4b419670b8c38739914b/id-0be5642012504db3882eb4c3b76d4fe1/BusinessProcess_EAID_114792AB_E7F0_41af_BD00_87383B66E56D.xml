@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeren aanvullend onderzoek"
+    id="EAID_114792AB_E7F0_41af_BD00_87383B66E56D"
+    documentation="Op systematische wijze, volgens een bepaalde methodiek of techniek, verkrijgen van informatie over de lichamelijke of geestelijke gesteldheid van een pati&amp;#235;nt/cli&amp;#235;nt. Het  afnemen van menselijk materiaal en het verzamelen van beeldmateriaal is hier een onderdeel van. ">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.156"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

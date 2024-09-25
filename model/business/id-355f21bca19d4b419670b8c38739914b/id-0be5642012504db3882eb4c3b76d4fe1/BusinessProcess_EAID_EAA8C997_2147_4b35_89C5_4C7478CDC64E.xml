@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adviseren m.b.t. gebouw en inventaris"
+    id="EAID_EAA8C997_2147_4b35_89C5_4C7478CDC64E"
+    documentation="Voorbereiden, plannen en begeleiden van nieuwbouw, verbouw en renovatie">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.197"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

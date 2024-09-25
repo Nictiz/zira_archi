@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afspraakverzoek"
+    id="EAID_0F4CCB80_4AD0_460e_A35C_FD13D2BCFF1C"
+    documentation="Verzoek tot planning van een contact tussen een patiënt en een zorgverlener.">
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.286"/>
+  <properties
+      key="MAX::ID"
+      value="2189"/>
+</archimate:BusinessObject>

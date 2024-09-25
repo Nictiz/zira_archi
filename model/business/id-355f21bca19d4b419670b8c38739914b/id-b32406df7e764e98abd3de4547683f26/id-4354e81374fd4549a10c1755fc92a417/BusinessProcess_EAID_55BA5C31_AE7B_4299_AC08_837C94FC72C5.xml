@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeren Multidisciplinair Overleg (bp)"
+    id="EAID_55BA5C31_AE7B_4299_AC08_837C94FC72C5"
+    documentation="Het bespreken en vaststellen van diagnose, behandelplan en/of behandeling in een gezamenlijke bespreking van zorgverleners vanuit verschillende disciplines om een zo goed mogelijk passende behandeling aan de patient te kunnen bieden en de kwaliteit van de zorg te waarborgen . Dit proces kan binnen een organisatie plaatsvinden, maar ook met gespecialiseerde expertise vanuit meerdere centra (echelonnering). MDO’s vinden doorgaans periodiek (bv wekelijks)en vooraf gepland plaats. ">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

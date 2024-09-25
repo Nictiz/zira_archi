@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorbereiden patiënt voor behandeling"
+    id="EAID_3C66D58B_2616_4f9f_888C_1D2E6E8A5170"
+    documentation="Ervoor zorgen dat de patiënt weet wat hij kan verwachten met behulp van een juiste balans tussen toon, empathie en informatie.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.385"/>
+  <properties
+      key="NIEUW"
+      value="true"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

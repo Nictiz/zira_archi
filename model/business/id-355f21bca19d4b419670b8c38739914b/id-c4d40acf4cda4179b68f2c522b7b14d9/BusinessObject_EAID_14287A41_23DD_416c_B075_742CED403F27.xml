@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lesmateriaal"
+    id="EAID_14287A41_23DD_416c_B075_742CED403F27"
+    documentation="Lesmateriaal en onderwijsinformatie">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.248"/>
+</archimate:BusinessObject>

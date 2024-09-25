@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kwaliteitsinformatiemanagement"
+    id="EAID_4987E603_528C_4e2f_8DF4_11E36256F54A"
+    documentation="Functionaliteit voor de ondersteuning van het maken, verwerken en beheren van kwaliteitsdocumenten (inclusief protocollen)">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-22"/>
+</archimate:ApplicationFunction>

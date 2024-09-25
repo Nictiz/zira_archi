@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="omzetten naar"
+    id="EAID_C539DEFC_D027_488d_AC31_0C0C6136BFB4">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_EAID_F3CEC31C_CF8D_470e_BCEB_D07A6156AE93.xml#EAID_F3CEC31C_CF8D_470e_BCEB_D07A6156AE93"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_EAID_59AC8AAC_25B2_4d84_AE11_0D8B4A2CBEFD.xml#EAID_59AC8AAC_25B2_4d84_AE11_0D8B4A2CBEFD"/>
+</archimate:AssociationRelationship>

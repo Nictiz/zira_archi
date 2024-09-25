@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bewaken Milieu"
+    id="EAID_FA53D507_BE5C_4e67_AB49_FBF2F9B00C43"
+    documentation="Handhaving (advies, inspectie) van vergunningen en wet- en regelgeving m.b.t. milieu. Omvat o.a. ook registratie van gevaarlijke stoffen, geluids- en thermisch milieu.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.214"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

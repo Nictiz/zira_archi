@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennismanagement"
+    id="EAID_4B63C487_575F_415d_AE2F_24E8A998189E"
+    documentation="Functionaliteit die het creëeren en delen van gezamenlijke kennis ondersteunt.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-122"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebouw"
+    id="EAID_2B581F1A_74E2_4736_930B_B9F893ED737B"
+    documentation="Opstal">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.315"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publieke ICT services"
+    id="EAID_C8B67277_71AC_4017_A632_4926DD2AE623"
+    documentation="Functionaliteit voor het aanbieden van bv radio en tv, internet, e-books, netflix e.d. )">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-160"/>
+</archimate:ApplicationFunction>

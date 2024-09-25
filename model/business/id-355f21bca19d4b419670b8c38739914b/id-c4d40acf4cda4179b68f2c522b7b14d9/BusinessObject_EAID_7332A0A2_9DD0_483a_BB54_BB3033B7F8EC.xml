@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jaarplan"
+    id="EAID_7332A0A2_9DD0_483a_BB54_BB3033B7F8EC"
+    documentation="Verantwoording van het plan voor het komend (boek)jaar">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.361"/>
+</archimate:BusinessObject>

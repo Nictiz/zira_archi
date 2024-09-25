@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bepalen innovatieagenda"
+    id="EAID_AC2B4132_27DD_422a_A3AF_5D4A2DEF2636"
+    documentation="Bepalen welke innovaties er plaats moeten vinden ter ondersteuning van de product- en dienstontwikkeling.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.114"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Adviseren (bp)"
+    id="EAID_4E04AF63_A852_49e0_BA01_BDADDDAAC5CC">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="852"/>
+</archimate:BusinessProcess>

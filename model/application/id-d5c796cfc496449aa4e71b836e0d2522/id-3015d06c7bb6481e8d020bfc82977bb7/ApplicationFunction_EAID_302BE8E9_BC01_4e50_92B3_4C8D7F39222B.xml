@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inkoop"
+    id="EAID_302BE8E9_BC01_4e50_92B3_4C8D7F39222B"
+    documentation="Functionaliteit die inkopen van producten en diensten alsook het beheren van leveranciers en contracten ondersteunt.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-118"/>
+</archimate:ApplicationFunction>

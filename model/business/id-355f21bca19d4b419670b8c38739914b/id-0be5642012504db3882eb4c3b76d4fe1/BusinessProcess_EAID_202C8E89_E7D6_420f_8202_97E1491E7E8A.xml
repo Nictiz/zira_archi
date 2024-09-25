@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ondersteunen uitstroom"
+    id="EAID_202C8E89_E7D6_420f_8202_97E1491E7E8A"
+    documentation="Ondersteuning bij vertrek van medewerker als gevolg van pensioen, vrijwillig of gedwongen ontslag, overlijden.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.205"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

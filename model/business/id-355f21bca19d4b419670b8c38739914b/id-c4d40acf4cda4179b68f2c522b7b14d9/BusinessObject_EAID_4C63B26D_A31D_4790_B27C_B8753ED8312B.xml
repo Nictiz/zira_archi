@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Factuur"
+    id="EAID_4C63B26D_A31D_4790_B27C_B8753ED8312B"
+    documentation="Overzicht van geleverde producten en diensten met bijbehorende prijzen, met het verzoek aan geadresseerde tot betaling.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.336"/>
+</archimate:BusinessObject>

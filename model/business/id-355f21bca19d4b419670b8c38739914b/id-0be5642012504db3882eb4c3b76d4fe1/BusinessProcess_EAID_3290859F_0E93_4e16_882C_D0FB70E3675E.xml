@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opstellen onderzoeksprotocol"
+    id="EAID_3290859F_0E93_4e16_882C_D0FB70E3675E"
+    documentation="Ten behoeve van de uitvoering van het onderzoek wordt een onderzoeksprotocol opgesteld.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.182"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

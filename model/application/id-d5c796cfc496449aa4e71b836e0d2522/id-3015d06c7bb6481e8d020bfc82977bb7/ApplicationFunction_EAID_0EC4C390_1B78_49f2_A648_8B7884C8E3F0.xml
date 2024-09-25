@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorlichting"
+    id="EAID_0EC4C390_1B78_49f2_A648_8B7884C8E3F0"
+    documentation="Functionaliteit die het geven van voorlichting via verschillende kanalen ondersteunt">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-126"/>
+</archimate:ApplicationFunction>

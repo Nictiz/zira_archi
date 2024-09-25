@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VEILIGHEID EN MILIEU"
+    id="EAID_7D58DF74_AE98_4558_8F24_DE31505DB9A1"
+    documentation="Beheren en optimaliseren van bedrijfsondersteunende, facilitaire veiligheid-, kwaliteit-, Arbo- en milieuaspecten binnen het ziekenhuis.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1594"/>
+</archimate:BusinessFunction>

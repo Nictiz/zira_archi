@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Notificeren van aanvrager"
+    id="EAID_64A4A64C_413A_4310_8F9E_2642C7EFBA3B"
+    documentation="Notificeren van de aanvrager zodat deze weet dat er een uitslag beschikbaar is.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.399"/>
+  <properties
+      key="NIEUW"
+      value="true"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

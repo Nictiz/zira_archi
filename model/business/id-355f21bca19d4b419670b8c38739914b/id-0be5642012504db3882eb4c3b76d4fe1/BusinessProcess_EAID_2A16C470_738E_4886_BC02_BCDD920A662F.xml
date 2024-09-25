@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afronden behandeling"
+    id="EAID_2A16C470_738E_4886_BC02_BCDD920A662F"
+    documentation="Afronden behandeling (eindcontrole, stabilisatie, overdracht aan andere zorgverlener en de behandelkamer opruimen)">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.387"/>
+  <properties
+      key="NIEUW"
+      value="true"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

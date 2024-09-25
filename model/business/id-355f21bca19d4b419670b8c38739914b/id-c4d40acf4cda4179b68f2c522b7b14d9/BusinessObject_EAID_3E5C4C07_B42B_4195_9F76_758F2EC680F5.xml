@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatiebulletin of nieuwsbericht"
+    id="EAID_3E5C4C07_B42B_4195_9F76_758F2EC680F5"
+    documentation="Interne of externe berichten/mededelingen die gecommuniceerd kunnen worden door middel van persberichten, email, intranet, website, organisatiemagazines, personeelskrant, etc.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.347"/>
+</archimate:BusinessObject>

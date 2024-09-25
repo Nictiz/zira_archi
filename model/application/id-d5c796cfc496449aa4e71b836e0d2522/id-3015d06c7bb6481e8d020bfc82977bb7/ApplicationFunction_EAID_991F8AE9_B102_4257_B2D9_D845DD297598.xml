@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Tele-consultatie"
+    id="EAID_991F8AE9_B102_4257_B2D9_D845DD297598"
+    documentation="Functionaliteit om een zorgprofessional remote (niet in elkaars fysieke aanwezigheid) te raadplegen in het kader van een gezondheidsvraag.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="RSM E-health"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

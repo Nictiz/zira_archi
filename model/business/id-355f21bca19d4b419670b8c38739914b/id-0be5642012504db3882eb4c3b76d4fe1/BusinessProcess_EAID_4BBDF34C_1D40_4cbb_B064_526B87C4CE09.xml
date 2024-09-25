@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beoordelen patiëntendossier"
+    id="EAID_4BBDF34C_1D40_4cbb_B064_526B87C4CE09"
+    documentation="Bestuderen en beoordelen van de informatie van en over de patiënt.&#xA;&#xA;Analyseren conclusie, diagnose, voorgeschiedenis, onderzoeksresultaten, evaluatie eerdere behandeling, etc.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.370"/>
+  <properties
+      key="NIEUW"
+      value="true"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

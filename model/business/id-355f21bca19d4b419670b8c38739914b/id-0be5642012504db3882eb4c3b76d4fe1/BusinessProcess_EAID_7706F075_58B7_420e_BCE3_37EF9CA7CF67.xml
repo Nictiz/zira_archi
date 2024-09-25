@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Delen MDO informatie"
+    id="EAID_7706F075_58B7_420e_BCE3_37EF9CA7CF67"
+    documentation="De deelnemers worden geinformeerd over de patientcasus op de bespreeklijst en (toegang verleend tot) de beschikbaargestelde informatie over de casus.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen ICT"
+    id="EAID_814C7964_8A4B_43fe_A326_A4D1F66ED4B8"
+    documentation="Op basis van klanteisen diensten ontwikkelen en testen, zodat de klant krijgt waar hij behoefte aan heeft. Deze activiteit omvat o.a. changemanagement, engineering en IT-projecten.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.220"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

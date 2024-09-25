@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Storing"
+    id="EAID_6B2DE59B_D507_4d3c_A88F_59616B1E220B"
+    documentation="Beschrijving van de aard van de storing en afhandeling daarvan">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.345"/>
+</archimate:BusinessObject>

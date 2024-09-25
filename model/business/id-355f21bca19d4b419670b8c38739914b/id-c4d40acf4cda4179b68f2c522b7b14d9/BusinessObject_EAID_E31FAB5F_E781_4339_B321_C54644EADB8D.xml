@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organisatiestructuur"
+    id="EAID_E31FAB5F_E781_4339_B321_C54644EADB8D"
+    documentation="Uitwerking van de wijze waarop taken binnen een organisatie zijn verdeeld en de wijze waarop vervolgens afstemming tussen deeltaken tot stand is gebracht.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.325"/>
+</archimate:BusinessObject>

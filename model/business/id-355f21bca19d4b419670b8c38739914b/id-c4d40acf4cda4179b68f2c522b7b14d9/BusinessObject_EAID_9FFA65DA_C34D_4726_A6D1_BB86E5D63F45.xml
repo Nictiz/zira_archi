@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksobject"
+    id="EAID_9FFA65DA_C34D_4726_A6D1_BB86E5D63F45"
+    documentation="Basisgegevens van degene die of hetgeen dat subject is van onderzoek zoals bijvoorbeeld dier, pati?nt, bloed. Personen worden gepseudonimiseerd of geanonimiseerd vastgelegd.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.309"/>
+</archimate:BusinessObject>

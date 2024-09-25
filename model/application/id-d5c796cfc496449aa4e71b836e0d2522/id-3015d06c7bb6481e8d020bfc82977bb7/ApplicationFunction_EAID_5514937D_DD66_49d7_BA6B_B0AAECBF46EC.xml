@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijs rooster &amp; planning"
+    id="EAID_5514937D_DD66_49d7_BA6B_B0AAECBF46EC"
+    documentation="Functionaliteit voor het roosteren en plannen van het onderwijsprogramma">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-114"/>
+</archimate:ApplicationFunction>

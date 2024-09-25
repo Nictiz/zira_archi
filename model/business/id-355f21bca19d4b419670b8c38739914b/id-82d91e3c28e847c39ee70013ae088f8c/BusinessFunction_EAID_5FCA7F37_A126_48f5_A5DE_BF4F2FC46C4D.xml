@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ONDERSTEUNING ONDERWIJS"
+    id="EAID_5FCA7F37_A126_48f5_A5DE_BF4F2FC46C4D"
+    documentation="Administratief, inhoudelijk, ondersteuning van onderwijs">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1589"/>
+</archimate:BusinessFunction>

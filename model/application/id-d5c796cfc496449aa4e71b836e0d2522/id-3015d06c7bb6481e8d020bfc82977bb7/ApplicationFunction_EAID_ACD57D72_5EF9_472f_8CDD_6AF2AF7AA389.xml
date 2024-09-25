@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Relatiebeheer"
+    id="EAID_ACD57D72_5EF9_472f_8CDD_6AF2AF7AA389"
+    documentation="Functionaliteit ter ondersteuning van relatiebeheer in brede zin.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-144"/>
+</archimate:ApplicationFunction>

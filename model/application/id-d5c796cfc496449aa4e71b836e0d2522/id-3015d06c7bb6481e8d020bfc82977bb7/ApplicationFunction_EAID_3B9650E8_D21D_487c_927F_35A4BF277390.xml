@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Document &amp; Beeld beheer"
+    id="EAID_3B9650E8_D21D_487c_927F_35A4BF277390"
+    documentation="Functionaliteit voor het beheren van documenten en beelden">
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="CPS.3 Support Clinical Documentation"/>
+</archimate:ApplicationFunction>

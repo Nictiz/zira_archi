@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beoordelen informatie (wp)"
+    id="EAID_85566C0E_B206_40d5_97D8_A1F7BBD6087F"
+    documentation="pre-conditie: informatie is beschikbaar&#xA;post-conditie: informatie beoordeeld en beoordeling verwerkt">
+  <properties
+      key="ZIRA::Type"
+      value="Werkproces"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1066"/>
+</archimate:BusinessProcess>

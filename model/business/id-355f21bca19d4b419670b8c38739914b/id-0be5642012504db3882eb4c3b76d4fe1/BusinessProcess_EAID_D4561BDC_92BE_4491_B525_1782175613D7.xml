@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toewijzen aan zorgverlener"
+    id="EAID_D4561BDC_92BE_4491_B525_1782175613D7"
+    documentation="&quot;Zorgverlener&quot; van een (sub)specialisme toekennen aan de verwijzing als behandelaar.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1956"/>
+</archimate:BusinessProcess>

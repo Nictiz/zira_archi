@@ -1,0 +1,22 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZIRA v1.4 NL - Elementen en diagrammen"
+    id="EAPK_4FC82309_3561_4342_B013_400F6E3DAC62"
+    purpose="MDO proces verwerkt in alle modellen/views van de ZiRA"
+    version="5.0.0">
+  <properties
+      key="MAX::XSLTFile"
+      value="\\zkh\dfs\gebruikers08\ZelM\desktop\ZiRA\zira2sheet-3.xslt"/>
+  <properties
+      key="MAX::ExportDate"
+      value="26-7-2024 08:59:58"/>
+  <properties
+      key="MAX::ExportFile"
+      value="Z:\EAP\ZiRA v1.4\zira-1.4-elements-nl+en.max"/>
+  <properties
+      key="MAX::ImportDate"
+      value="13-1-2022 21:50:20"/>
+  <properties
+      key="MAX::ImportFile"
+      value="Z:\EAP\ZiRA\output3.max"/>
+</archimate:ArchimateModel>

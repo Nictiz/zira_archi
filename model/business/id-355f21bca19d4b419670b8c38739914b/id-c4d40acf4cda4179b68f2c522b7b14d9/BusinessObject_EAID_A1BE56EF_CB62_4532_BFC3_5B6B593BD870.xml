@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contra-indicatie"
+    id="EAID_A1BE56EF_CB62_4532_BFC3_5B6B593BD870"
+    documentation="Aandoening, ziekte of klacht, waarbij een bepaalde therapie, bijvoorbeeld medicatie, niet mag worden toegepast.">
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.270"/>
+  <properties
+      key="MAX::ID"
+      value="2148"/>
+</archimate:BusinessObject>

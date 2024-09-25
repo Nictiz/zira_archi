@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patientenlogistiek"
+    id="EAID_028C6788_2424_4b7a_821A_0CC3588CD9C8"
+    documentation="Functionaliteit voor de ondersteuning van het verplaatsen van mensen en middelen (bv transportlogistiek, route ondersteuning, track &amp; tracing, aanmeldregistratie, wachtrijmanagement, oproepfunctionaliteit en functionaliteit tbv sterilisatie van middelen)">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="ZiRA"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:ApplicationFunction>

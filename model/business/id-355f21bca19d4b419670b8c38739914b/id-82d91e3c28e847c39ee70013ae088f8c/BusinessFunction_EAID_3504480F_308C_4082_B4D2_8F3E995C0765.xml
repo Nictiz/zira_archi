@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MULTIDISCIPLINAIRE SAMENWERKING"
+    id="EAID_3504480F_308C_4082_B4D2_8F3E995C0765"
+    documentation="Samenwerking tussen meerdere specialistische disciplines ihkv passende zorg en netwerkzorg. Kan plaatsvinden in meerdere echelons en daarmee zowel intra- als transmuraal.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FUNCTIE ONDERZOEK"
+    id="EAID_04B66FEB_21DD_4f59_82CD_4CC545FC395E"
+    documentation="Het uitvoeren en verslagleggen van functieonderzoeken. ">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1567"/>
+</archimate:BusinessFunction>

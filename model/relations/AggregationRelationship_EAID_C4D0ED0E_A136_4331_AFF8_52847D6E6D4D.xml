@@ -1,0 +1,13 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="is onderdeel van"
+    id="EAID_C4D0ED0E_A136_4331_AFF8_52847D6E6D4D"
+    documentation="&#xA;&#x9;1. ">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_EAID_0899E8A0_D693_43b8_83FA_8C3FEF7E68EC.xml#EAID_0899E8A0_D693_43b8_83FA_8C3FEF7E68EC"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_EAID_4E56CAB8_0EE5_4301_863C_E287CD3453B2.xml#EAID_4E56CAB8_0EE5_4301_863C_E287CD3453B2"/>
+</archimate:AggregationRelationship>

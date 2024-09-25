@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Architectuur"
+    id="EAID_F587918C_7FD6_4d58_B055_2FDFC0A57E2D"
+    documentation="Een consistent geheel van principes en modellen dat richting geeft aan ontwerp en realisatie van de (processen, organisatorische inrichting,) informatievoorziening, softwareontwikkeling en technische infrastructuur van een organisatie.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.235"/>
+</archimate:BusinessObject>

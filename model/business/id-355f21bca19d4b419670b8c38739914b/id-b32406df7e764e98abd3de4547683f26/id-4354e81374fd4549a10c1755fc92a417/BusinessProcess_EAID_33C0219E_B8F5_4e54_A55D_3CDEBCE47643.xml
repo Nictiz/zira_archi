@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Behandelen (bp)"
+    id="EAID_33C0219E_B8F5_4e54_A55D_3CDEBCE47643"
+    documentation="WP &quot;Voorbereiden behandeling&quot; gaat vooraf aan iedere specifieke WP &quot;Uitvoeren *&quot;!&#xA;In de pre-condities is dat telkens specifiek beschreven.&#xA;&#xA;&quot;Behandelen&quot; is eigenlijk &quot;Uitvoeren behandelplan&quot;">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="854"/>
+</archimate:BusinessProcess>

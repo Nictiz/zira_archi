@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeren marktanalyse"
+    id="EAID_021102F7_A75E_4545_A8E0_988274A7CB53"
+    documentation="Onderzoek naar factoren die vraag en aanbod bepalen of daarop van invloed zijn.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.110"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

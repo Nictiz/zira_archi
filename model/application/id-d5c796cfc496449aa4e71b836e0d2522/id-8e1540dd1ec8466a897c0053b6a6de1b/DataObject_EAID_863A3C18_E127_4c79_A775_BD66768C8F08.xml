@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nl.zorg.AlgemeneMeting"
+    id="EAID_863A3C18_E127_4c79_A775_BD66768C8F08"
+    documentation="Een algemene meting legt de uitkomst vast van een meting of bepaling die bij een pati&amp;#235;nt is uitgevoerd. De bouwsteen wordt gebruikt om de uitslagen van metingen vast te leggen waarvoor geen specifieke bouwstenen zijn geformuleerd. De bouwsteen is niet bedoeld voor laboratorium bepalingen die uitgevoerd worden op materiaal dat bij de pati&amp;#235;nt is afgenomen.&#xA;{"/>

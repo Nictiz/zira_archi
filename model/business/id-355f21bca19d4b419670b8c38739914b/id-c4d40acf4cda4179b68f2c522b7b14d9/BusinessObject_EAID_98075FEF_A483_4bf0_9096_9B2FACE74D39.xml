@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overige P&amp;O"
+    id="EAID_98075FEF_A483_4bf0_9096_9B2FACE74D39"
+    documentation="Overige informatieobjecten voor P&amp;O omvat o.a. vacature, sollicitant, vrijwilliger en competentie.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.331"/>
+</archimate:BusinessObject>

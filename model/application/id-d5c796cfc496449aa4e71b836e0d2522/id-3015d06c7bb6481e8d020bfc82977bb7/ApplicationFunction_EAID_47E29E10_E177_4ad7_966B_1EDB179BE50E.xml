@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Patientbewaking"
+    id="EAID_47E29E10_E177_4ad7_966B_1EDB179BE50E"
+    documentation="Functionaliteit voor bewaking van de patienten (bv medische alarmering, monitoring, dwaaldetectie, valdetectie, e.d.)">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-64"/>
+</archimate:ApplicationFunction>

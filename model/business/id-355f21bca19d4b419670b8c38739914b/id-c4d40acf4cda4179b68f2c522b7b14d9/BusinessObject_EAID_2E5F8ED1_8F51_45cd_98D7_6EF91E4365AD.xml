@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksrapport, proefschrift, publicatie"
+    id="EAID_2E5F8ED1_8F51_45cd_98D7_6EF91E4365AD"
+    documentation="De resultaten uit registraties en analyse van het project verwerkt tot een eindrapportage (publicatie, proefschrift of presentatie).">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.312"/>
+</archimate:BusinessObject>

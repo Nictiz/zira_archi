@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorlichten patiënt"
+    id="EAID_69BA6427_763E_41e3_B7FC_CA6F2AFD1E54"
+    documentation="Aan de patiënt leveren van medisch-inhoudelijke en zorginformatie m.b.t. diens klachten of aandoening zowel tijdens een regulier consult als bijvoorbeeld op forums, bij patiëntverenigingen of via e-consult. Dit kan ook zijn op verzoek van de patiënt (bijvoorbeeld inzage in diens dossier)&#xA;&#xA;Dit is meer preventief dan bij informeren patient.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.118"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

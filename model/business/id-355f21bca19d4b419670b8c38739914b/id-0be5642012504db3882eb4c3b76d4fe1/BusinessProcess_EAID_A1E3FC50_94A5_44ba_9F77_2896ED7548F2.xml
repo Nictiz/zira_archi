@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identificeren patiënt"
+    id="EAID_A1E3FC50_94A5_44ba_9F77_2896ED7548F2"
+    documentation="Identificeren, kan leiden tot wijziging in patientgegevens.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="2191"/>
+</archimate:BusinessProcess>

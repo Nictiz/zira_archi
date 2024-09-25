@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Controleren aanmelding"
+    id="EAID_D9DDD03E_0C79_4af0_B8E5_9854994C06F1"
+    documentation="De ingediende aanmelding MDO wordt gecontroleerd op juistheid en volledigheid.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

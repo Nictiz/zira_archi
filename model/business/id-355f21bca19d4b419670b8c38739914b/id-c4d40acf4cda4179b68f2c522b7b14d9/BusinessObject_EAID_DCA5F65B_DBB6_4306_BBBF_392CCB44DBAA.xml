@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksvoorstel"
+    id="EAID_DCA5F65B_DBB6_4306_BBBF_392CCB44DBAA"
+    documentation="Beschrijving van de opzet van het onderzoek, de vraagstelling, doelstelling, etc.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.305"/>
+</archimate:BusinessObject>

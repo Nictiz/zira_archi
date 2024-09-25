@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vaststellen behandeladvies"
+    id="EAID_6BD088E9_988B_4752_A9AA_48ECCBF457E3"
+    documentation="Het behandeladvies en -beleid voor de patient wordt gezamenlijk vastgesteld en in het verslag vastgelegd.  Het advies betreft naast beleid ten aanzien van de behandeling eventuele nadere diagnostiek en eventuele deelname aan wetenschappelijke studies of trials.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

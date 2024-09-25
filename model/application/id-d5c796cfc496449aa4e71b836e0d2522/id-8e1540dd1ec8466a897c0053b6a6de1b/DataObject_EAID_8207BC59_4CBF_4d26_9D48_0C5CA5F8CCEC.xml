@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nl.zorg.Contact"
+    id="EAID_8207BC59_4CBF_4d26_9D48_0C5CA5F8CCEC"
+    documentation="Een contact is een interactie, onafhankelijk van de situatie, tussen een pati&amp;#235;nt en een zorgverlener, waarbij de zorgverlener de primaire verantwoordelijkheid heeft de conditie van de pati&amp;#235;nt te diagnosticeren, te evalueren, te behandelen en de pati&amp;#235;nt te informeren. Dit kunnen bezoeken, afspraken of niet face-to-face interacties zijn.&#xA;&#xA;Contacten kunnen huisarts- of praktijkbezoeken, thuisbezoeken, opnames (in bijvoorbeeld ziekenhuizen, verpleeg/verzorgingstehuizen, psychiatrische inrichtingen of revalidatieklinieken) of andere relevante contacten betreffen. Het betreft alleen historische contacten. De toekomstige contacten kunnen vastgelegd worden in de bouwsteen GeplandeZorgActiviteit.&#xA;{"/>

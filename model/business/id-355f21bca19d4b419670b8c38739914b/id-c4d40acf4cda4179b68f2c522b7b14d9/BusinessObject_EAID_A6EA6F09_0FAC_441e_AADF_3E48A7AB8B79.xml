@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ICT-dienst"
+    id="EAID_A6EA6F09_0FAC_441e_AADF_3E48A7AB8B79"
+    documentation="ICT-diensten zoals: helpdesk, gebruikersondersteuning. ICT-diensten zijn o.a. presentatieaggregatie (Portals), zoekengine, Business Intelligence (BI), web content beheer, kennis creatie en social media, e-mail en agenda, telefoon en video, spraakherkenning.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.352"/>
+</archimate:BusinessObject>

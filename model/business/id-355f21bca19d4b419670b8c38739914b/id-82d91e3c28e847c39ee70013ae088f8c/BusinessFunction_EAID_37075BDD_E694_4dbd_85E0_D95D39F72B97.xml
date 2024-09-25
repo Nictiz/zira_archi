@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ZORGLOGISTIEK"
+    id="EAID_37075BDD_E694_4dbd_85E0_D95D39F72B97"
+    documentation="Daadwerkelijk verplaatsen van personen en middelen">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1582"/>
+</archimate:BusinessFunction>

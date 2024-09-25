@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen Enterprise Architectuur"
+    id="EAID_954833DC_524E_4a2b_BF4A_F1DF446C22D0"
+    documentation="(Door)ontwikkelen (Bedrijfs-, Informatie- en Technologie-)architectuur aan de hand van gewenste innovaties.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.115"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

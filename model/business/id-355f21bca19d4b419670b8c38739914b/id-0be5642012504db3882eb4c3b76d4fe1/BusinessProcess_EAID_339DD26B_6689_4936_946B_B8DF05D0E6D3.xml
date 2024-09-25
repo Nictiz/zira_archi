@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afnemen verpleegkundige anamnese"
+    id="EAID_339DD26B_6689_4936_946B_B8DF05D0E6D3"
+    documentation="Door verpleegkundige uitgevoerde anamnese/lichamelijk onderzoek. Zie ook anamnese algemeen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.150"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

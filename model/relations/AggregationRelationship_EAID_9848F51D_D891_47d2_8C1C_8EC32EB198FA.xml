@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bevat"
+    id="EAID_9848F51D_D891_47d2_8C1C_8EC32EB198FA">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_EAID_0899E8A0_D693_43b8_83FA_8C3FEF7E68EC.xml#EAID_0899E8A0_D693_43b8_83FA_8C3FEF7E68EC"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_EAID_06E616A8_991A_4e53_946A_49FBF255FAED.xml#EAID_06E616A8_991A_4e53_946A_49FBF255FAED"/>
+</archimate:AggregationRelationship>

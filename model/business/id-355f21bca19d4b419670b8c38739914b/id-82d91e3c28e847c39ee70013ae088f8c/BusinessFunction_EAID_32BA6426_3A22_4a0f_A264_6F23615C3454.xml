@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BIOPSIE"
+    id="EAID_32BA6426_3A22_4a0f_A264_6F23615C3454"
+    documentation="Het uitvoeren en verslagleggen van biopsie.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bespreken patientcasus"
+    id="EAID_C81FF288_8990_49bf_B1BA_87C427E26554"
+    documentation="Bij de bespreking van de casus deelt elke deelnemer zijn inzichten en brengt de laatste stand van de wetenschap, praktijk en ervaringsdeskundigheid vanuit zijn specialisme in. Behandelopties worden besproken. Richtlijnen zijn leidend in de besluitvorming. Eventuele deelname van de patient aan een trial wordt op basis van in- en exclusiecriteria overwogen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

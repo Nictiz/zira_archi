@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Aanvragen activiteit"
+    id="EAID_5FD10931_248D_4d5c_8F31_D80B14C886B0"
+    documentation="Het aanvragen van interventies (ingrepen/behandelingen die je als behandelaar uitbesteedt aan andere specialismen of disciplines) horen daar ook bij).&#xA;&#xA;Vastleggen welke aanvraag gedaan wordt, deze voorzien van alle benodigde informatie en stukken en valideren op volledigheid">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.367"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

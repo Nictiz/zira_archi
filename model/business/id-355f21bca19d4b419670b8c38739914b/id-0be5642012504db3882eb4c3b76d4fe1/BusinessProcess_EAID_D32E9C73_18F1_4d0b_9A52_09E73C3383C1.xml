@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontwikkelen onderzoeksdataset"
+    id="EAID_D32E9C73_18F1_4d0b_9A52_09E73C3383C1"
+    documentation="Indien voor het onderzoek klinische data moet worden verzameld, ontwikkelen onderzoekers en datamanagers samen de dataset die daarvoor nodig is.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.185"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

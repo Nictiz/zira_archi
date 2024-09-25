@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Steriliseren van materialen, instrumenten en apparatuur"
+    id="EAID_A594A4E2_F78C_4d79_90E6_8DD4EE37CF36"
+    documentation="Materialen, instrumenten en apparatuur vrijmaken van micro-organismen om infecties te voorkomen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.359"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

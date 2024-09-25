@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Klachtenafhandeling"
+    id="EAID_972DB1F1_0644_458a_8B24_47E1B466D24F"
+    documentation="Functionaliteit die de afhandeling van klachten ondersteunt">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-130"/>
+</archimate:ApplicationFunction>

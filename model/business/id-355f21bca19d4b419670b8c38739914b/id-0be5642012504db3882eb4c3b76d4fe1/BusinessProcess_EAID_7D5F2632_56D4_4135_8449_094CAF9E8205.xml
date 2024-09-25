@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inhoudelijk toetsen onderwijs"
+    id="EAID_7D5F2632_56D4_4135_8449_094CAF9E8205"
+    documentation="Individuele toetsing van de kwaliteit van onderwijs (soms kwantiteit) op basis van vastgestelde criteria.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.177"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

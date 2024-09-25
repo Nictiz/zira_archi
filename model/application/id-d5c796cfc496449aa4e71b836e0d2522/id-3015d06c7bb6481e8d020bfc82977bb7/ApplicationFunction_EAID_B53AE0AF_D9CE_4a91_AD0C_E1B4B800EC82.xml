@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Database management"
+    id="EAID_B53AE0AF_D9CE_4a91_AD0C_E1B4B800EC82"
+    documentation="Functionaliteit voor het beheren van databases">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="AF-182"/>
+</archimate:ApplicationFunction>

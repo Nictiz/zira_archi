@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Medicatietoediening"
+    id="EAID_022731BE_467A_493a_A293_C12DBBA0EFF4"
+    documentation="Beschrijving van de daadwerkelijke toediening van een medicament aan een patiënt.">
+  <properties
+      key="RDZ_IO"
+      value="2.16.840.1.113883.2.4.3.11.29.4.268"/>
+  <properties
+      key="MAX::ID"
+      value="2150"/>
+</archimate:BusinessObject>

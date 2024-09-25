@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderwijsdeelnemer"
+    id="EAID_7134D55B_A263_4fac_8C97_45B6473117A5"
+    documentation="Een individu die aan onderwijsactiviteiten deelneemt.. (bron HORA)">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.301"/>
+</archimate:BusinessObject>

@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overdragen (bp)"
+    id="EAID_51D3C3F3_6BD3_473e_AA6F_80BC21E408E9">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="855"/>
+</archimate:BusinessProcess>

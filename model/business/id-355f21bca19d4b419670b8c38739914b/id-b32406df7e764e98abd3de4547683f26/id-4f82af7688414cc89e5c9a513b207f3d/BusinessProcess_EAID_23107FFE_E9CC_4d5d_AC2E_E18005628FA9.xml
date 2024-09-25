@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bespreken en verslagleggen MDO (wp)"
+    id="EAID_23107FFE_E9CC_4d5d_AC2E_E18005628FA9"
+    documentation="Het bespreken van de patientcasus, het vaststellen van de behandeladvies en de verslaglegging daarvan. Hierbij wordt ook vastgelegd wie aanwezig is. Niet alleen voor de inhoudelijke verantwoording, maar ook voor de financiele afhandeling. ">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

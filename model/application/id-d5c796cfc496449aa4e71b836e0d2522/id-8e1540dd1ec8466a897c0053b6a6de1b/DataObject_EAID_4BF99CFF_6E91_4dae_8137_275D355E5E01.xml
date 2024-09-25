@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="nl.zorg.Pijnscore"
+    id="EAID_4BF99CFF_6E91_4dae_8137_275D355E5E01"
+    documentation="De pijnscore is een algemene maat voor de pijnbeleving, geen beschrijving van specifieke, gelocaliseerde pijn.&#xA;Als goed reproduceerbare maat voor de beleving van pijn worden gebruikt:&#xA;1) NRS (Numeric Rating Scale) waarbij de pati&amp;#235;nt een cijfer geeft aan de pijn op een schaal van 1 (geen pijn) en 10 (ondraaglijke pijn).&#xA;2) VAS (Visual Analogue Score) , waarbij de pati&amp;#235;nt op een lat met een lijn aangeeft hoe de pijn ervaren wordt en op de achterkant van de lat staat een schaal van 0 (geen pijn) tot 10 (ondraaglijke pijn).&#xA;De uitslag van beide scores hebben dezelfde betekenis, maar de visueel analoge methode (VAS) wordt als betrouwbaarder aangemerkt dan de NRS pijnscore.&#xA;{"/>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verpleegkundige anamnese"
+    id="EAID_078AE4AB_6EDF_46d9_8C7F_152877F321AD"
+    documentation="Achtergrond en voorgeschiedenis van een patiënt, achterhaald via systematische ondervraging door een verpleegkundige">
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.273"/>
+  <properties
+      key="MAX::ID"
+      value="2014"/>
+</archimate:BusinessObject>

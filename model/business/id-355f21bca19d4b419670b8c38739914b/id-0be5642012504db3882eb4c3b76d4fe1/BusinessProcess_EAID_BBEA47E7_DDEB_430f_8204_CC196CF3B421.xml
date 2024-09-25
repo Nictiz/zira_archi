@@ -1,0 +1,18 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Voorbereiden contact"
+    id="EAID_BBEA47E7_DDEB_430f_8204_CC196CF3B421"
+    documentation="Het voorbereiden van het contact met de patiënt zodat dit contact zo prettig  kwalitatief en efficiënt verloopt.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.371"/>
+  <properties
+      key="NIEUW"
+      value="true"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

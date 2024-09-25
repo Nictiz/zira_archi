@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksdata"
+    id="EAID_12D4E35C_4E7F_47d2_95C2_BBA8D0FB63BE"
+    documentation="De tijdens het onderzoek verzamelde data.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.310"/>
+</archimate:BusinessObject>

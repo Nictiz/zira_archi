@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vaststellen behandelplan"
+    id="EAID_8D72FB54_6CF1_4764_B394_5E9604F0FD66"
+    documentation="Bepalen en vaststellen van een behandelplan (inclusief aanvragen van machtigingen (van verzekeraar)).">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.136"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

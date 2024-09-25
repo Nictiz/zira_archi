@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vervoersmiddel"
+    id="EAID_68152CB8_90B4_405c_BFA9_DF3FD1AE6499"
+    documentation="Vervoersmiddel met onderhoudstatus, type, identificatienummer, stalling/parkeergegevens, leasecontract">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.317"/>
+</archimate:BusinessObject>

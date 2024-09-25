@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Actueel medicatieoverzicht (AMO)"
+    id="EAID_5ABEAE16_E614_45d3_924D_A0F0D1B31175"
+    documentation="Vastlegging van het actuele medicatiegebruik door een patiënt.">
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.269"/>
+  <properties
+      key="MAX::ID"
+      value="1809"/>
+</archimate:BusinessObject>

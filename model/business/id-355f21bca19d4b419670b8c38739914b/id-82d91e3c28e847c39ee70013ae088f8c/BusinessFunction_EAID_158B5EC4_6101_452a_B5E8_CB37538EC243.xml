@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MEDISCHE TECHNOLOGIE"
+    id="EAID_158B5EC4_6101_452a_B5E8_CB37538EC243"
+    documentation="Onderhouden en ondersteunen van medische Technlogie">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1598"/>
+</archimate:BusinessFunction>

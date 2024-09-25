@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beheren kwaliteit en veiligheid"
+    id="EAID_E0BB9059_40CF_4b0f_B23F_8136CC551808"
+    documentation="Stimuleren van en toezicht houden op de naleving van de afspraken die zijn gemaakt en vastgelegd ten behoeve van borging en verhoging kwaliteit en veiligheid van zorg, onderzoek en onderwijs.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.364"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

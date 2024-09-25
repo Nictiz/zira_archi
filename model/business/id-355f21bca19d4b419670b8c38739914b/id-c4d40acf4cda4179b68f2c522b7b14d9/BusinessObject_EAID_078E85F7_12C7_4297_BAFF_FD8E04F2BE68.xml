@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Diagnose"
+    id="EAID_078E85F7_12C7_4297_BAFF_FD8E04F2BE68"
+    documentation="Vastlegging van de naam van de ziekte of aandoening waaraan iemand verondersteld wordt te lijden, gesteld door de arts.">
+  <properties
+      key="MAX::ID"
+      value="1983"/>
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.255"/>
+</archimate:BusinessObject>

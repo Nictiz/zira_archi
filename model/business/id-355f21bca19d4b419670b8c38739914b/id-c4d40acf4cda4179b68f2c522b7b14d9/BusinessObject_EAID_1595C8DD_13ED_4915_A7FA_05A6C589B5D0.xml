@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anamneseverslag"
+    id="EAID_1595C8DD_13ED_4915_A7FA_05A6C589B5D0"
+    documentation="Vastlegging van het vraaggesprek tussen zorgverlener en patiënt (of zijn / haar omgeving), waarbij de zorgverlener gerichte vragen n.a.v. de zorgvraag.">
+  <properties
+      key="MAX::ID"
+      value="1848"/>
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.253"/>
+</archimate:BusinessObject>

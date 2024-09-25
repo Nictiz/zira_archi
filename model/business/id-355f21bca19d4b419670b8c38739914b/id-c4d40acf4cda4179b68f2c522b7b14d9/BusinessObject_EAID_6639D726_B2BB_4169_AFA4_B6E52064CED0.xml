@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Jaarverslag"
+    id="EAID_6639D726_B2BB_4169_AFA4_B6E52064CED0"
+    documentation="Verantwoording van een organisatie over de gang van zaken in het afgelopen (boek)jaar.">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.230"/>
+</archimate:BusinessObject>

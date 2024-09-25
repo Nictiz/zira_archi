@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verzorgen patiënt"
+    id="EAID_CF9E150F_4404_465c_B6B9_CF61BDD7B0E4"
+    documentation="Omvat persoonlijke verzorging, hulp bij eten, observatie, rapportage.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.152"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

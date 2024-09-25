@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Terugkoppelen voor de patiënt relevante resultaten aan de patiënt"
+    id="EAID_426523A1_BC2D_41bb_AEAB_7E11F8EE6088"
+    documentation="Indien onverwachte, voor een individuele patiënt, relevante bevindingen worden gedaan tijdens het onderzoek (bv. een nog niet bekende aandoening) dan worden deze aan de patiënt of zijn behandelaar gemeld.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.191"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

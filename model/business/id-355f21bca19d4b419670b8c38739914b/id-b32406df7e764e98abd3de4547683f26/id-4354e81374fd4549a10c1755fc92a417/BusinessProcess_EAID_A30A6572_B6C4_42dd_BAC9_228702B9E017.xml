@@ -1,0 +1,14 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Diagnosticeren (bp)"
+    id="EAID_A30A6572_B6C4_42dd_BAC9_228702B9E017">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="850"/>
+</archimate:BusinessProcess>

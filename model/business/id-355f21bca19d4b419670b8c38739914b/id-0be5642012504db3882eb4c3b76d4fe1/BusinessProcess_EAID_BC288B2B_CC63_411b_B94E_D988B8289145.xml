@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plannen onderzoek"
+    id="EAID_BC288B2B_CC63_411b_B94E_D988B8289145"
+    documentation="Vastleggen van datum/tijd voor uitvoeren van een specifiek onderzoek.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.160"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

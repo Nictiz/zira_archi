@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ONDERZOEKS ONDERSTEUNING"
+    id="EAID_E3A676A5_44B5_4951_AF24_9B6CA75C099C"
+    documentation="Het administratief en inhoudelijk ondersteunen van onderzoeken.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1562"/>
+</archimate:BusinessFunction>

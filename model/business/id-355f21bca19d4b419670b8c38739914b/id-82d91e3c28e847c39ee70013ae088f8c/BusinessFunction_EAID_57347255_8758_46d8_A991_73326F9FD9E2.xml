@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MARKETING"
+    id="EAID_57347255_8758_46d8_A991_73326F9FD9E2"
+    documentation="optimale afstemming tussen vraag en aanbod van diensten, waaronder het onderzoeken van maatschappelijke ontwikkelingen die de vraag (gaan) bepalen, met als doel zoveel mogelijk waarde toe te kennen aan de bestaande dienstverlening en zo goed mogelijk in te spelen op wensen en mogelijkheden voor nieuwe of aangepaste diensten.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1552"/>
+</archimate:BusinessFunction>

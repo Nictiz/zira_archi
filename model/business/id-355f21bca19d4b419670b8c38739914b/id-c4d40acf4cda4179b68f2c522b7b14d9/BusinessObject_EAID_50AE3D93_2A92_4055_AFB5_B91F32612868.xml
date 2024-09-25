@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Complicatie"
+    id="EAID_50AE3D93_2A92_4055_AFB5_B91F32612868"
+    documentation="Vastlegging van de onbedoelde en ongewenste uitkomsten, tijdens of volgend op het handelen van een zorgverlener, die voor de gezondheid van de patiënt zodanig nadelig zijn dat aanpassing van het medisch (be)handelen noodzakelijk is, dan wel dat er sprake is van onherstelbare schade.">
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.263"/>
+  <properties
+      key="MAX::ID"
+      value="2196"/>
+</archimate:BusinessObject>

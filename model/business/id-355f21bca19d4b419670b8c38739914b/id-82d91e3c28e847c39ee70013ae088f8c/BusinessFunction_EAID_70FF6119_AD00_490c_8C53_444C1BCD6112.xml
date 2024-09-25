@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OPERATIE"
+    id="EAID_70FF6119_AD00_490c_8C53_444C1BCD6112"
+    documentation="chirurgische ingrepen als onderdeel van de behandeling van de patient">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1575"/>
+</archimate:BusinessFunction>

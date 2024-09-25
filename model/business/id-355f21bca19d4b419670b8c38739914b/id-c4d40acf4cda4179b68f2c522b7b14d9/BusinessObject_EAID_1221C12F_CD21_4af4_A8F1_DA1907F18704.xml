@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Balans"
+    id="EAID_1221C12F_CD21_4af4_A8F1_DA1907F18704"
+    documentation="Overzicht van alle bezittingen; aan de linkerkant (activa of debetzijde) en de schulden plus het eigen vermogen aan de rechter kant (passiva of creditzijde) op een bepaald moment">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.337"/>
+</archimate:BusinessObject>

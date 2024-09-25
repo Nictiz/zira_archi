@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="PARTICIPATIE"
+    id="EAID_8AC3251C_8E72_4eb4_A422_7A6E6B637C63"
+    documentation="participatie van de patiënt bij diens eigen zorgproces.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1553"/>
+</archimate:BusinessFunction>

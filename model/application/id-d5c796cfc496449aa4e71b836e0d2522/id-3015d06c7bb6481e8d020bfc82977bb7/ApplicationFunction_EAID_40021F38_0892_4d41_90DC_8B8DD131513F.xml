@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="(Workplace) Remote Access"
+    id="EAID_40021F38_0892_4d41_90DC_8B8DD131513F"
+    documentation="Functionaliteit voor toegang op afstand zoals inbelfaciliteiten">
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="AS.7.4 Support Remote Healthcare Services"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,12 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collegiaal Consult"
+    id="EAID_312E2FD7_938B_447e_A4DA_D84B03972BD8"
+    documentation="Verzoek tot opinie of advies van een collega/zorgverlener inzake diagnose of behandeling.">
+  <properties
+      key="MAX::ID"
+      value="1841"/>
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.251"/>
+</archimate:BusinessObject>

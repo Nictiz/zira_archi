@@ -1,0 +1,18 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ICT-change en servicemanagement"
+    id="EAID_0DB22888_D0ED_416a_A9DC_1D793D93BD33"
+    documentation="Functies voor het faciliteren van hulpvragen en oplossingen.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="ExternalReference"
+      value="CPS.10 Manage User Help"/>
+  <properties
+      key="showdecoration"
+      value="TRUE"/>
+</archimate:ApplicationFunction>

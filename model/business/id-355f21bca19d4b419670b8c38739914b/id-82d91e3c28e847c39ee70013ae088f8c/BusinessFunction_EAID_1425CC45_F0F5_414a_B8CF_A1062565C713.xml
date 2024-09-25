@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="STRATEGIE &amp; GOVERNANCE"
+    id="EAID_1425CC45_F0F5_414a_B8CF_A1062565C713"
+    documentation="Bepalen van de missie, visie, strategie en beleid inclusief de inrichting en de beheersing hiervan.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1547"/>
+</archimate:BusinessFunction>

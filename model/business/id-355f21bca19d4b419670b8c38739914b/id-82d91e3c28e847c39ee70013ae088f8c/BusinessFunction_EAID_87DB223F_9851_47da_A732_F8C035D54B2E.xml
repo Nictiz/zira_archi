@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADVISERING"
+    id="EAID_87DB223F_9851_47da_A732_F8C035D54B2E"
+    documentation="Het geven van behandel advies">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1571"/>
+</archimate:BusinessFunction>

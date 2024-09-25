@@ -1,0 +1,15 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontslag"
+    id="EAID_097191AA_20FE_4b1f_9354_26DF8A4BBF3F"
+    documentation="Verzoek tot beëindigen van de zorgverlening.&#xA;&#xA;Dit resulteert in een informatieobject Uitwisselingsinformatie of Overdrachtsinformatie">
+  <properties
+      key="MAX::ID"
+      value="1948"/>
+  <properties
+      key="ZiRA:isActiviteit"
+      value="1"/>
+  <properties
+      key="RDZ_ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.277"/>
+</archimate:BusinessObject>

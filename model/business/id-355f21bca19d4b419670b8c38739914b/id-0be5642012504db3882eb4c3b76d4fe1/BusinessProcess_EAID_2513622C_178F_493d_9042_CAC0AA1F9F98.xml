@@ -1,0 +1,15 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plannen afspraak"
+    id="EAID_2513622C_178F_493d_9042_CAC0AA1F9F98"
+    documentation="Vastleggen van datum/tijd/plaats, betrokken zorgverlener(s) en patiënt voor een contact/interactiemoment.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.3.159"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>

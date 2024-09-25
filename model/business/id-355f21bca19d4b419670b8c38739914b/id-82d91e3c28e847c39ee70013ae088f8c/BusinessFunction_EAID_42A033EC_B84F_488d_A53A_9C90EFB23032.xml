@@ -1,0 +1,18 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="INKOOP EN GOEDERENLOGISTIEK"
+    id="EAID_42A033EC_B84F_488d_A53A_9C90EFB23032"
+    documentation="Het verwerven van middelen en het bewaken van de afspraken hierover met de leverancier inclusief het beheer van de voorraden">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="rotation"
+      value="up"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="1590"/>
+</archimate:BusinessFunction>

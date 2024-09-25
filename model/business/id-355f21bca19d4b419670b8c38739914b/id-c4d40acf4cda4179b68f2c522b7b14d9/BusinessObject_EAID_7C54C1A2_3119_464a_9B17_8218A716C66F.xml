@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leveringsovereenkomst"
+    id="EAID_7C54C1A2_3119_464a_9B17_8218A716C66F"
+    documentation="Beschrijving van de leveringsvoorwaarden">
+  <properties
+      key="MAX::ID"
+      value="2.16.840.1.113883.2.4.3.11.29.4.322"/>
+</archimate:BusinessObject>

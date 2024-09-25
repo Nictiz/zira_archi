@@ -1,0 +1,12 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Formuleren vraagstelling"
+    id="EAID_C7781644_7E30_4aac_B502_AD3EC484BE7C"
+    documentation="Het opnemen van de vraagstelling van de casus om te bespreken op het MDO (evt. met voorlopige conclusie en voorstel beleid) door de (hoofd)behandelaar/aanvrager.">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+</archimate:BusinessProcess>
