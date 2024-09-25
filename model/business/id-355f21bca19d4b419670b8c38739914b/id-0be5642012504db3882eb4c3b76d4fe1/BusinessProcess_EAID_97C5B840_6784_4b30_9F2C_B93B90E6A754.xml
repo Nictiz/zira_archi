@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderhouden contacten"
     id="EAID_97C5B840_6784_4b30_9F2C_B93B90E6A754"
-    documentation="Onderhouden contacten met partners en belanghebbenden met als doel bestaande dienstverlening te promoten en feedback te krijgen over de aangeboden diensten.">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Onderhouden contacten met partners en belanghebbenden met als doel bestaande dienstverlening te promoten en feedback te krijgen over de aangeboden diensten.&lt;/nl-NL>&lt;en-US>Maintaining contact with partners and stakeholders with the aim of promoting existing services and obtaining feedback on the services offered.&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -12,4 +12,16 @@
   <properties
       key="showdecoration"
       value="true"/>
+  <properties
+      key="Name_nl"
+      value="Onderhouden contacten"/>
+  <properties
+      key="Name_en"
+      value="Maintain contacts"/>
+  <properties
+      key="Doc_nl"
+      value="Onderhouden contacten met partners en belanghebbenden met als doel bestaande dienstverlening te promoten en feedback te krijgen over de aangeboden diensten."/>
+  <properties
+      key="Doc_en"
+      value="Maintaining contact with partners and stakeholders with the aim of promoting existing services and obtaining feedback on the services offered."/>
 </archimate:BusinessProcess>

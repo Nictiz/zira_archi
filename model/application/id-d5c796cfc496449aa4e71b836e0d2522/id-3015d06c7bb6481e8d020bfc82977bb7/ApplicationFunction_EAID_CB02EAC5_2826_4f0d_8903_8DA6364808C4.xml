@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Marketing &amp; Contractmanagement"
     id="EAID_CB02EAC5_2826_4f0d_8903_8DA6364808C4"
-    documentation="Functionaliteit voor ondersteuning van marktanalyses en contractmanagement">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Functionaliteit voor ondersteuning van marktanalyses en contractmanagement&lt;/nl-NL>&lt;en-US>Functionality to support market analysis and contract management&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -15,4 +15,16 @@
   <properties
       key="MAX::ID"
       value="AF-26"/>
+  <properties
+      key="Name_nl"
+      value="Marketing &amp; Contractmanagement"/>
+  <properties
+      key="Name_en"
+      value="Marketing and contract management"/>
+  <properties
+      key="Doc_nl"
+      value="Functionaliteit voor ondersteuning van marktanalyses en contractmanagement"/>
+  <properties
+      key="Doc_en"
+      value="Functionality to support market analysis and contract management"/>
 </archimate:ApplicationFunction>

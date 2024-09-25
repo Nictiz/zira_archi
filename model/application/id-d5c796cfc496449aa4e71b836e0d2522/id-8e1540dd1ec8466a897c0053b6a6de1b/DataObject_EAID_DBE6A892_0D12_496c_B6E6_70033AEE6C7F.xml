@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.MedicatieGebruik"
     id="EAID_DBE6A892_0D12_496c_B6E6_70033AEE6C7F"
-    documentation="MedicatieGebruik beschrijft de inname of toediening van een medicament, veelal in relatie tot een voorschrift, maar ook op eigen initiatief. Het beschrijft het patroon van inname van medicatie, zoals gerapporteerd door de pati&amp;#235;nt zelf, een mantelzorger of een zorgverlener. Het vastleggen van medicatie gebruik geeft naast het gebruik van voorgeschreven medicatie ook inzicht in het gebruik van thuismedicatie.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>MedicatieGebruik beschrijft de inname of toediening van een medicament, veelal in relatie tot een voorschrift, maar ook op eigen initiatief. Het beschrijft het patroon van inname van medicatie, zoals gerapporteerd door de pati&amp;#235;nt zelf, een mantelzorger of een zorgverlener. Het vastleggen van medicatie gebruik geeft naast het gebruik van voorgeschreven medicatie ook inzicht in het gebruik van thuismedicatie.&#xA;{&lt;/nl-NL>&lt;en-US>MedicationUse describes taking or administering the medication, often in relation to a prescription, but also on the person's own initiative. This describes the pattern of medication use, as reported by the patient themselves, a caregiver or healthcare provider. Documenting medication use provides insight into the use of prescribed medication as well as the use of medication at home.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.MedicatieGebruik"/>
+  <properties
+      key="Name_en"
+      value="MedicationUse"/>
+  <properties
+      key="Doc_nl"
+      value="MedicatieGebruik beschrijft de inname of toediening van een medicament, veelal in relatie tot een voorschrift, maar ook op eigen initiatief. Het beschrijft het patroon van inname van medicatie, zoals gerapporteerd door de pati&amp;#235;nt zelf, een mantelzorg"/>
+  <properties
+      key="Doc_en"
+      value="MedicationUse describes taking or administering the medication, often in relation to a prescription, but also on the person's own initiative. This describes the pattern of medication use, as reported by the patient themselves, a caregiver or healthcare pr"/>
+  <properties
+      key="Doc_nl1"
+      value="er of een zorgverlener. Het vastleggen van medicatie gebruik geeft naast het gebruik van voorgeschreven medicatie ook inzicht in het gebruik van thuismedicatie. {"/>
+  <properties
+      key="Doc_en1"
+      value="ovider. Documenting medication use provides insight into the use of prescribed medication as well as the use of medication at home."/>
+</archimate:DataObject>

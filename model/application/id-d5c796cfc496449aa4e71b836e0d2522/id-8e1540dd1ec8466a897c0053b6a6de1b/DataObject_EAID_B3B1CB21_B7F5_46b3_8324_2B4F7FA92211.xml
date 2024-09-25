@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.VermogenTotToiletgang"
     id="EAID_B3B1CB21_B7F5_46b3_8324_2B4F7FA92211"
-    documentation="! Let op: deze bouwsteen ondergaat momenteel een substantiele revisie. Een nieuwe versie zal na de zomer beschikbaar zijn.&#xA;Zelfstandig kunnen zorgdragen voor urineren, defeceren en de zorg bij menstruatie is een onderdeel van zelfzorg. Beperkingen in dit vermogen duiden op een verminderde zelfredzaamheid op dit gebied.&#xA;Deze activiteit wordt samen met activiteiten zoals onder andere eten, zich kleden en zich wassen, ook aangeduid als algemene dagelijkse levensverrichtingen (ADL). Dit zijn de handelingen die mensen dagelijks in het gewone leven verrichten. De mate waarin een persoon al deze activiteiten zelfstandig kan verrichten zijn een maat voor de totale zelfredzaamheid.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>! Let op: deze bouwsteen ondergaat momenteel een substantiele revisie. Een nieuwe versie zal na de zomer beschikbaar zijn.&#xA;Zelfstandig kunnen zorgdragen voor urineren, defeceren en de zorg bij menstruatie is een onderdeel van zelfzorg. Beperkingen in dit vermogen duiden op een verminderde zelfredzaamheid op dit gebied.&#xA;Deze activiteit wordt samen met activiteiten zoals onder andere eten, zich kleden en zich wassen, ook aangeduid als algemene dagelijkse levensverrichtingen (ADL). Dit zijn de handelingen die mensen dagelijks in het gewone leven verrichten. De mate waarin een persoon al deze activiteiten zelfstandig kan verrichten zijn een maat voor de totale zelfredzaamheid.&#xA;{&lt;/nl-NL>&lt;en-US>! Attention: this information model is undergoing major revision. A new version will be available after summer.&#xA;Being able to urinate, defecate and keep up hygiene during a menstrual cycle independently is part of self-care. Limitations in this ability indicate a reduced ability to cope for oneself. &#xA;This activity and activities such as those including eating, getting dressed and bathing are also known as activities of daily living (ADL). These are the activities people go through in daily life. The extent to which a person is able to do all these activities by themselves is a measure for their total ability to do things independently.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.VermogenTotToiletgang"/>
+  <properties
+      key="Name_en"
+      value="AbilityToUseToilet"/>
+  <properties
+      key="Doc_nl"
+      value="&lt;font color= &quot;#ff0000&quot;>&lt;b>! Let op: deze bouwsteen ondergaat momenteel een substantiele revisie. Een nieuwe versie zal na de zomer beschikbaar zijn.&lt;/b>&lt;/font> Zelfstandig kunnen zorgdragen voor urineren, defeceren en de zorg bij menstruatie is een onder"/>
+  <properties
+      key="Doc_en"
+      value="&lt;font color= &quot;#ff0000&quot;>&lt;b>! Attention: this information model is undergoing major revision. A new version will be available after summer.&lt;/b>&lt;/font> Being able to urinate, defecate and keep up hygiene during a menstrual cycle independently is part of sel"/>
+</archimate:DataObject>

@@ -2,8 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Advies"
     id="EAID_06C399F1_EF42_4303_93BA_75E3193EA0C0"
-    documentation="Het advies van de zorgverlener aan de patiënt als resultaat van het consult en het diagnostisch traject (anders dan behandeling).">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Het advies van de zorgverlener aan de patiënt als resultaat van het consult en het diagnostisch traject (anders dan behandeling).&lt;/nl-NL>&lt;en-US>The healthcare provider's advice to the patient as a result of the consultation and the diagnostic process (other than treatment).&lt;/en-US>&lt;/languages>">
   <properties
       key="MAX::ID"
       value="2095"/>
+  <properties
+      key="Name_nl"
+      value="Advies"/>
+  <properties
+      key="Name_en"
+      value="Advice"/>
+  <properties
+      key="Doc_nl"
+      value="Het advies van de zorgverlener aan de patiënt als resultaat van het consult en het diagnostisch traject (anders dan behandeling)."/>
+  <properties
+      key="Doc_en"
+      value="The healthcare provider's advice to the patient as a result of the consultation and the diagnostic process (other than treatment)."/>
 </archimate:BusinessObject>

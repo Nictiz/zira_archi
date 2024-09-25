@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Zwangerschap"
     id="EAID_385D3FA2_2EC8_412c_8C7A_8A1998D7F45C"
-    documentation="Zwangerschap of graviditeit is de toestand waarin een vrouw een bevruchte eicel, en vervolgens embryo en foetus, in zich draagt. Een zwangerschapsduur tussen 37 en 42 weken wordt als normaal beschouwd. De periode van 37 tot 42 weken wordt de &quot;&amp;#224; terme periode&quot; genoemd. De term graviditeit wordt ook gebruikt voor het aantal malen dat een vrouw zwanger is geweest. Samen met de pariteit, het aantal keren dat een vrouw bevallen is, geeft dit inzicht in de obstetrische voorgeschiedenis van de pati&amp;#235;nt.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Zwangerschap of graviditeit is de toestand waarin een vrouw een bevruchte eicel, en vervolgens embryo en foetus, in zich draagt. Een zwangerschapsduur tussen 37 en 42 weken wordt als normaal beschouwd. De periode van 37 tot 42 weken wordt de &quot;&amp;#224; terme periode&quot; genoemd. De term graviditeit wordt ook gebruikt voor het aantal malen dat een vrouw zwanger is geweest. Samen met de pariteit, het aantal keren dat een vrouw bevallen is, geeft dit inzicht in de obstetrische voorgeschiedenis van de pati&amp;#235;nt.&#xA;{&lt;/nl-NL>&lt;en-US>Pregnancy or gravidity is the condition in which a woman carries a fertilized egg, which grows into an embryo and then a fetus. A pregnancy of between 37 and 42 weeks is considered normal. &quot;Term pregnancy&quot; is 37 to 42 weeks. The term gravidity is also used for the number of times a woman has been pregnant. This and parity - the number of times a woman has given birth - provides insight into the patient's obstetric history.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Zwangerschap"/>
+  <properties
+      key="Name_en"
+      value="Pregnacy"/>
+  <properties
+      key="Doc_nl"
+      value="Zwangerschap of graviditeit is de toestand waarin een vrouw een bevruchte eicel, en vervolgens embryo en foetus, in zich draagt. Een zwangerschapsduur tussen 37 en 42 weken wordt als normaal beschouwd. De periode van 37 tot 42 weken wordt de &quot;&amp;#224; terme"/>
+  <properties
+      key="Doc_en"
+      value="Pregnancy or gravidity is the condition in which a woman carries a fertilized egg, which grows into an embryo and then a fetus. A pregnancy of between 37 and 42 weeks is considered normal. &quot;Term pregnancy&quot; is 37 to 42 weeks. The term gravidity is also use"/>
+  <properties
+      key="Doc_en1"
+      value="d for the number of times a woman has been pregnant. This and parity - the number of times a woman has given birth - provides insight into the patient's obstetric history."/>
+</archimate:DataObject>

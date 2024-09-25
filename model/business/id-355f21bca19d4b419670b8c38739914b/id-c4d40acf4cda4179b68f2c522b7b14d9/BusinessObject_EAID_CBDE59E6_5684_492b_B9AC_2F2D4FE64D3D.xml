@@ -2,8 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Adviesverslag"
     id="EAID_CBDE59E6_5684_492b_B9AC_2F2D4FE64D3D"
-    documentation="Vastlegging van het gegeven advies.">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Vastlegging van het gegeven advies.&lt;/nl-NL>&lt;en-US>Recording of the advice given.&lt;/en-US>&lt;/languages>">
   <properties
       key="MAX::ID"
       value="2080"/>
+  <properties
+      key="Name_nl"
+      value="Adviesverslag"/>
+  <properties
+      key="Name_en"
+      value="Advisory report"/>
+  <properties
+      key="Doc_nl"
+      value="Vastlegging van het gegeven advies."/>
+  <properties
+      key="Doc_en"
+      value="Recording of the advice given."/>
 </archimate:BusinessObject>

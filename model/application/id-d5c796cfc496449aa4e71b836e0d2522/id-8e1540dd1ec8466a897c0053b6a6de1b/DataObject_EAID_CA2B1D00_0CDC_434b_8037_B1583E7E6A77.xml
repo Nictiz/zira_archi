@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.OverdrachtLaboratoriumUitslag"
     id="EAID_CA2B1D00_0CDC_434b_8037_B1583E7E6A77"
-    documentation="Een laboratoriumuitslag beschrijft het resultaat van een laboratoriumbepaling. &#xA;Behalve de uitkomsten van testen met een enkelvoudig resultaat kunnen ook de uitkomsten van meer complexe testen met meervoudige resultaten of 'panel' vastgelegd worden.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Een laboratoriumuitslag beschrijft het resultaat van een laboratoriumbepaling. &#xA;Behalve de uitkomsten van testen met een enkelvoudig resultaat kunnen ook de uitkomsten van meer complexe testen met meervoudige resultaten of 'panel' vastgelegd worden.&#xA;{&lt;/nl-NL>&lt;en-US>A laboratory result describes the result of a laboratory analysis.  &#xA;In addition to the results of tests with a singular result, the results of more complex tests with multiple results or a 'panel' can also be recorded.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.OverdrachtLaboratoriumUitslag"/>
+  <properties
+      key="Name_en"
+      value="LaboratoryTestResult"/>
+  <properties
+      key="Doc_nl"
+      value="Een laboratoriumuitslag beschrijft het resultaat van een laboratoriumbepaling. Behalve de uitkomsten van testen met een enkelvoudig resultaat kunnen ook de uitkomsten van meer complexe testen met meervoudige resultaten of 'panel' vastgelegd worden. {"/>
+  <properties
+      key="Doc_en"
+      value="A laboratory result describes the result of a laboratory analysis. In addition to the results of tests with a singular result, the results of more complex tests with multiple results or a 'panel' can also be recorded."/>
+</archimate:DataObject>

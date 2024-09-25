@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.MedischHulpmiddel"
     id="EAID_5E9BD9F2_D106_4d22_9EB2_618BE4FF2CF6"
-    documentation="Medische hulpmiddelen kunnen worden omschreven als de inwendig ge&amp;#239;mplanteerde en uitwendige apparatuur en/of hulpmiddelen die de pati&amp;#235;nt gebruikt of heeft gebruikt om de gevolgen van functionele beperkingen van orgaansystemen te verminderen of om de behandeling van een ziekte mogelijk te maken.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Medische hulpmiddelen kunnen worden omschreven als de inwendig ge&amp;#239;mplanteerde en uitwendige apparatuur en/of hulpmiddelen die de pati&amp;#235;nt gebruikt of heeft gebruikt om de gevolgen van functionele beperkingen van orgaansystemen te verminderen of om de behandeling van een ziekte mogelijk te maken.&#xA;{&lt;/nl-NL>&lt;en-US>Medical aids are any internally implanted and external devices and/or aids used by the patient (in the past) to reduce the effects of functional limitations in organ systems or to facilitate the treatment of a disease.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.MedischHulpmiddel"/>
+  <properties
+      key="Name_en"
+      value="MedicalDevice"/>
+  <properties
+      key="Doc_nl"
+      value="Medische hulpmiddelen kunnen worden omschreven als de inwendig ge&amp;#239;mplanteerde en uitwendige apparatuur en/of hulpmiddelen die de pati&amp;#235;nt gebruikt of heeft gebruikt om de gevolgen van functionele beperkingen van orgaansystemen te verminderen of o"/>
+  <properties
+      key="Doc_en"
+      value="Medical aids are any internally implanted and external devices and/or aids used by the patient (in the past) to reduce the effects of functional limitations in organ systems or to facilitate the treatment of a disease."/>
+  <properties
+      key="Doc_nl1"
+      value="m de behandeling van een ziekte mogelijk te maken. {"/>
+</archimate:DataObject>

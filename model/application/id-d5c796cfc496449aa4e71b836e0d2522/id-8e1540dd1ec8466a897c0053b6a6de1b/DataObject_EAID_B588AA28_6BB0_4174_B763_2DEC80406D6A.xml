@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.MedicatieToediening"
     id="EAID_B588AA28_6BB0_4174_B763_2DEC80406D6A"
-    documentation="Een medicatietoediening beschrijft de werkelijke toediening van een medicament. Dit kan gaan om het eenvoudig doorslikken van een tablet, het opbrengen van een zalf of pasta, of een langdurende infusie. &#xA;De toediening kan verwijzen naar een medicatievoorschrift, maar kan ook betrekking hebben op thuismedicatie.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Een medicatietoediening beschrijft de werkelijke toediening van een medicament. Dit kan gaan om het eenvoudig doorslikken van een tablet, het opbrengen van een zalf of pasta, of een langdurende infusie. &#xA;De toediening kan verwijzen naar een medicatievoorschrift, maar kan ook betrekking hebben op thuismedicatie.&#xA;{&lt;/nl-NL>&lt;en-US>Administration of medication describes the actual administration of the medication. This can be simply swallowing a tablet, applying ointment or paste, or an infusion that takes a considerable amount of time.  &#xA;The administration can refer to a medication prescription, but can also refer to home medication.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.MedicatieToediening"/>
+  <properties
+      key="Name_en"
+      value="MedicationAdministration"/>
+  <properties
+      key="Doc_nl"
+      value="Een medicatietoediening beschrijft de werkelijke toediening van een medicament. Dit kan gaan om het eenvoudig doorslikken van een tablet, het opbrengen van een zalf of pasta, of een langdurende infusie. De toediening kan verwijzen naar een medicatievoor"/>
+  <properties
+      key="Doc_en"
+      value="Administration of medication describes the actual administration of the medication. This can be simply swallowing a tablet, applying ointment or paste, or an infusion that takes a considerable amount of time. The administration can refer to a medicatio"/>
+  <properties
+      key="Doc_nl1"
+      value="schrift, maar kan ook betrekking hebben op thuismedicatie. {"/>
+  <properties
+      key="Doc_en1"
+      value="n prescription, but can also refer to home medication."/>
+</archimate:DataObject>

@@ -11,4 +11,10 @@
   <properties
       key="MAX::ID"
       value="850"/>
+  <properties
+      key="Name_nl"
+      value="Diagnosticeren (bp)"/>
+  <properties
+      key="Name_en"
+      value="Diagnose"/>
 </archimate:BusinessProcess>

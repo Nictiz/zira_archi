@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.BehandelAanwijzing"
     id="EAID_8C13F249_D648_4281_A515_CE41758F5859"
-    documentation="Een behandelaanwijzing bevat een afgesproken beperking in de behandeling gebaseerd op de mondelinge of schriftelijke wilsverklaring van de patiënt. &#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Een behandelaanwijzing bevat een afgesproken beperking in de behandeling gebaseerd op de mondelinge of schriftelijke wilsverklaring van de patiënt. &#xA;{&lt;/nl-NL>&lt;en-US>A treatment instruction includes an agreed constraint in the treatment based on the oral or written living will of the patient.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.BehandelAanwijzing"/>
+  <properties
+      key="Name_en"
+      value="TreatmentDirective"/>
+  <properties
+      key="Doc_nl"
+      value="Een behandelaanwijzing bevat een afgesproken beperking in de behandeling gebaseerd op de mondelinge of schriftelijke wilsverklaring van de patiënt. {"/>
+  <properties
+      key="Doc_en"
+      value="A treatment instruction includes an agreed constraint in the treatment based on the oral or written living will of the patient."/>
+</archimate:DataObject>

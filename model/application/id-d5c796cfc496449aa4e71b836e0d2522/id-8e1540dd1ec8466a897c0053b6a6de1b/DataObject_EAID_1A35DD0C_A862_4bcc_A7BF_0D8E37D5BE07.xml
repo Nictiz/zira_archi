@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.VrijheidsbeperkendeMaatregelen"
     id="EAID_1A35DD0C_A862_4bcc_A7BF_0D8E37D5BE07"
-    documentation="Vrijheidsbeperkende maatregelen zijn maatregelen (fysiek of verbaal) die gebruikt worden om de betrokkene bewust in zijn/haar vrijheid te beperken.&#xA;In het ziekenhuis gaat het meestal om het gebruik van bedhekken, een onrustband (band om de taille), pols- of enkelbanden of een tentbed. Meestal wordt in combinatie met vrijheidsbeperkende interventies ook rustgevende medicatie toegediend.&#xA;Het toepassen van vrijheidsbeperkende maatregelen is aan strikte voorwaarden gebonden. Voor het toepassen ervan in ziekenhuizen door verpleegkundigen heeft de Verpleegkundigen &amp; Verzorgenden Nederland (V&amp;VN) een richtlijn gepubliceerd.&#xA;Het risicogedrag van de betrokkene, dat de aanleiding vormt voor de maatregelen, wordt niet in dit concept beschreven."/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&#xA;&lt;nl-NL>Vrijheidsbeperkende maatregelen zijn maatregelen (fysiek of verbaal) die gebruikt worden om de betrokkene bewust in zijn/haar vrijheid te beperken.&#xA;In het ziekenhuis gaat het meestal om het gebruik van bedhekken, een onrustband (band om de taille), pols- of enkelbanden of een tentbed. Meestal wordt in combinatie met vrijheidsbeperkende interventies ook rustgevende medicatie toegediend.&#xA;Het toepassen van vrijheidsbeperkende maatregelen is aan strikte voorwaarden gebonden. Voor het toepassen ervan in ziekenhuizen door verpleegkundigen heeft de Verpleegkundigen &amp; Verzorgenden Nederland (V&amp;VN) een richtlijn gepubliceerd.&#xA;Het risicogedrag van de betrokkene, dat de aanleiding vormt voor de maatregelen, wordt niet in dit concept beschreven.&lt;/nl-NL>&#xA;&lt;en-US>Medical restraints are (physical or verbal) measures used to restrict the freedom of the patient in question. &#xA;In hospitals, these often include the use of side rails, a cushion belt (around the waist), limb restraints or a Posey bed. Medical restraints are often used in combination with sedatives. &#xA;Medical restraints may only be implemented under strict conditions. The Vereniging Verpleegkundigen &amp; Verzorgenden Nederland (V&amp;VN) [Dutch Nurses and Carers Association] published a set of guidelines for nurses to implement these restraints in hospitals. &#xA;The patient's high-risk behavior providing cause for the restraints is not described in this concept.&lt;/en-US>&#xA;&lt;/languages>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.VrijheidsbeperkendeMaatregelen"/>
+  <properties
+      key="Name_en"
+      value="FreedomRestrictingMeasures"/>
+  <properties
+      key="Doc_nl"
+      value="Vrijheidsbeperkende maatregelen zijn maatregelen (fysiek of verbaal) die gebruikt worden om de betrokkene bewust in zijn/haar vrijheid te beperken. In het ziekenhuis gaat het meestal om het gebruik van bedhekken, een onrustband (band om de taille), pols-"/>
+  <properties
+      key="Doc_en"
+      value="Medical restraints are (physical or verbal) measures used to restrict the freedom of the patient in question. In hospitals, these often include the use of side rails, a cushion belt (around the waist), limb restraints or a Posey bed. Medical restraints"/>
+</archimate:DataObject>

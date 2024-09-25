@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Brandwond"
     id="EAID_EB988181_D242_43e9_9C24_7751750E0271"
-    documentation="Een brandwond is een verwonding door invloed van hitte op de huid gedurende een bepaalde tijd en boven een bepaalde kritische temperatuur. Boven deze kritische temperatuur (+/- 40 graden Celsius) treedt beschadiging van de huid op. Er zijn verschillende soorten brandwonden en deze worden  ingedeeld naar de diepte van de brandwond. &#xA;De diepte van de brandwond hangt af van: &#xA;- de temperatuur van de inwerkende hitte;&#xA;- de tijd dat de hitte inwerkt op de huid; &#xA;- de oorzaak van de verbranding (bijvoorbeeld hete vloeistof, vuur).&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Een brandwond is een verwonding door invloed van hitte op de huid gedurende een bepaalde tijd en boven een bepaalde kritische temperatuur. Boven deze kritische temperatuur (+/- 40 graden Celsius) treedt beschadiging van de huid op. Er zijn verschillende soorten brandwonden en deze worden  ingedeeld naar de diepte van de brandwond. &#xA;De diepte van de brandwond hangt af van: &#xA;- de temperatuur van de inwerkende hitte;&#xA;- de tijd dat de hitte inwerkt op de huid; &#xA;- de oorzaak van de verbranding (bijvoorbeeld hete vloeistof, vuur).&#xA;{&lt;/nl-NL>&lt;en-US>A burn wound is a wound caused by skin being exposed to heat for a certain time above a certain critical temperature. Heat above this critical temperature (+/- 40 degrees Celsius) will cause damage to the skin. There are different types of burn wounds, which are categorized according to the depth of the burn wound.  &#xA;The depth of the burn wound depends on:  &#xA;- the temperature of the impacting heat; &#xA;- the duration of the impact of heat on the skin;  &#xA;- the source of the burn (e.g. fire, fluid).&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Brandwond"/>
+  <properties
+      key="Name_en"
+      value="Burnwound"/>
+  <properties
+      key="Doc_nl"
+      value="Een brandwond is een verwonding door invloed van hitte op de huid gedurende een bepaalde tijd en boven een bepaalde kritische temperatuur. Boven deze kritische temperatuur (+/- 40 graden Celsius) treedt beschadiging van de huid op. Er zijn verschillende s"/>
+  <properties
+      key="Doc_en"
+      value="A burn wound is a wound caused by skin being exposed to heat for a certain time above a certain critical temperature. Heat above this critical temperature (+/- 40 degrees Celsius) will cause damage to the skin. There are different types of burn wounds, wh"/>
+  <properties
+      key="Doc_en1"
+      value="ich are categorized according to the depth of the burn wound. The depth of the burn wound depends on: - the temperature of the impacting heat; - the duration of the impact of heat on the skin; - the source of the burn (e.g. fire, fluid)."/>
+</archimate:DataObject>

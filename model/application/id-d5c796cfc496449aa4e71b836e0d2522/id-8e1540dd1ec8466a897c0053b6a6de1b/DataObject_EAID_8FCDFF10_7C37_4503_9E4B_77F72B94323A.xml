@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.DecubitusWond"
     id="EAID_8FCDFF10_7C37_4503_9E4B_77F72B94323A"
-    documentation="Een decubituswond is een gelokaliseerde beschadiging van de huid en/of onderliggend weefsel, meestal ter hoogte van een botuitsteeksel, als gevolg van druk of druk in samenhang met schuifkracht.&#xA;Decubitus gaat gepaard met veel ziektelast en vermindert de kwaliteit van leven voor patiënten. Adequate risico-inschatting, preventie en behandeling van decubitus leiden tot een lagere incidentie en prevalentie van decubitus. &#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Een decubituswond is een gelokaliseerde beschadiging van de huid en/of onderliggend weefsel, meestal ter hoogte van een botuitsteeksel, als gevolg van druk of druk in samenhang met schuifkracht.&#xA;Decubitus gaat gepaard met veel ziektelast en vermindert de kwaliteit van leven voor patiënten. Adequate risico-inschatting, preventie en behandeling van decubitus leiden tot een lagere incidentie en prevalentie van decubitus. &#xA;{&lt;/nl-NL>&lt;en-US>A decubitus wound is localized damage to the skin and/or underlying tissue, often over a bony prominence, as a result of pressure or pressure combined with friction. &#xA;A decubitus wound involves a major disease burden and reduces the quality of life for a patient. Adequate risk evaluation, prevention and treatment of decubitus wounds can lead to a fewer incidences and prevalence of decubitus wounds.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.DecubitusWond"/>
+  <properties
+      key="Name_en"
+      value="PressureUlcer"/>
+  <properties
+      key="Doc_nl"
+      value="Een decubituswond is een gelokaliseerde beschadiging van de huid en/of onderliggend weefsel, meestal ter hoogte van een botuitsteeksel, als gevolg van druk of druk in samenhang met schuifkracht. Decubitus gaat gepaard met veel ziektelast en vermindert de"/>
+  <properties
+      key="Doc_en"
+      value="A decubitus wound is localized damage to the skin and/or underlying tissue, often over a bony prominence, as a result of pressure or pressure combined with friction. A decubitus wound involves a major disease burden and reduces the quality of life for a"/>
+  <properties
+      key="Doc_nl1"
+      value="kwaliteit van leven voor patiënten. Adequate risico-inschatting, preventie en behandeling van decubitus leiden tot een lagere incidentie en prevalentie van decubitus. {"/>
+  <properties
+      key="Doc_en1"
+      value="patient. Adequate risk evaluation, prevention and treatment of decubitus wounds can lead to a fewer incidences and prevalence of decubitus wounds."/>
+</archimate:DataObject>

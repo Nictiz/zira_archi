@@ -2,11 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Delen MDO informatie"
     id="EAID_7706F075_58B7_420e_BCE3_37EF9CA7CF67"
-    documentation="De deelnemers worden geinformeerd over de patientcasus op de bespreeklijst en (toegang verleend tot) de beschikbaargestelde informatie over de casus.">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>De deelnemers worden ge&amp;#239;nformeerd over de pati&amp;#235;ntcasus op de bespreeklijst en (toegang verleend tot) de beschikbaargestelde informatie over de casus.&lt;/nl-NL>&lt;en-US>The participants will be informed about the patient case on the consultation list and (given access to) the information made available about the case.&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
   <properties
       key="showdecoration"
       value="true"/>
+  <properties
+      key="Name_nl"
+      value="Delen MDO informatie"/>
+  <properties
+      key="Name_en"
+      value="Share MDC information"/>
+  <properties
+      key="Doc_nl"
+      value="De deelnemers worden ge&amp;#239;nformeerd over de pati&amp;#235;ntcasus op de bespreeklijst en (toegang verleend tot) de beschikbaargestelde informatie over de casus."/>
+  <properties
+      key="Doc_en"
+      value="The participants will be informed about the patient case on the consultation list and (given access to) the information made available about the case."/>
 </archimate:BusinessProcess>

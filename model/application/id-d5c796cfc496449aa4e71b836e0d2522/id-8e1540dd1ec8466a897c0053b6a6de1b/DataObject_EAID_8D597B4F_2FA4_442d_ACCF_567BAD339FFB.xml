@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Woonsituatie"
     id="EAID_8D597B4F_2FA4_442d_ACCF_567BAD339FFB"
-    documentation="De woonsituatie is de fysieke omgeving waarin de patiënt normaliter woont, slaapt, kleding bewaart, enz.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>De woonsituatie is de fysieke omgeving waarin de patiënt normaliter woont, slaapt, kleding bewaart, enz.&#xA;{&lt;/nl-NL>&lt;en-US>The living situation is the physical environment in which the patient normally lives, sleeps, keeps their clothing, etc.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Woonsituatie"/>
+  <properties
+      key="Name_en"
+      value="LivingSituation"/>
+  <properties
+      key="Doc_nl"
+      value="De woonsituatie is de fysieke omgeving waarin de patiënt normaliter woont, slaapt, kleding bewaart, enz. {"/>
+  <properties
+      key="Doc_en"
+      value="The living situation is the physical environment in which the patient normally lives, sleeps, keeps their clothing, etc."/>
+</archimate:DataObject>

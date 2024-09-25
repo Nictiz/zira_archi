@@ -5,4 +5,10 @@
   <properties
       key="SortKey"
       value="FB"/>
+  <properties
+      key="Name_nl"
+      value="DATACENTER"/>
+  <properties
+      key="Name_en"
+      value="DATACENTER"/>
 </archimate:Grouping>

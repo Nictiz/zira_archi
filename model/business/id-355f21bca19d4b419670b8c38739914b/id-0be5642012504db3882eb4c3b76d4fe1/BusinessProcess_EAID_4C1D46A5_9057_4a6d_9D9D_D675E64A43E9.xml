@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanmelden patientcasus"
     id="EAID_4C1D46A5_9057_4a6d_9D9D_D675E64A43E9"
-    documentation="Het aanmelden van de patientcasus door de (hoofd)behandelaar voor bespreking in een MDO. Dit kan een casus van een externe patient betreffen en/of door een externe aanvrager gebeuren.">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Het aanmelden van de pati&amp;#235;ntcasus door de (hoofd)behandelaar voor bespreking in een MDO. Dit kan een casus van een externe pati&amp;#235;nt betreffen en/of door een externe aanvrager gebeuren.&lt;/nl-NL>&lt;en-US>Registration of the patient case by the (main) practitioner for discussion in an MDC. This can be a case of an external patient and/or done by an external applicant.. &lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -12,4 +12,16 @@
   <properties
       key="sortkey"
       value="1"/>
+  <properties
+      key="Name_nl"
+      value="Aanmelden patientcasus"/>
+  <properties
+      key="Name_en"
+      value="Register patient case"/>
+  <properties
+      key="Doc_nl"
+      value="Het aanmelden van de pati&amp;#235;ntcasus door de (hoofd)behandelaar voor bespreking in een MDO. Dit kan een casus van een externe pati&amp;#235;nt betreffen en/of door een externe aanvrager gebeuren."/>
+  <properties
+      key="Doc_en"
+      value="Registration of the patient case by the (main) practitioner for discussion in an MDC. This can be a case of an external patient and/or done by an external applicant.."/>
 </archimate:BusinessProcess>

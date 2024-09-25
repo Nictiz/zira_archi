@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.SNAQScore"
     id="EAID_2F690EE4_77C5_43e3_B02F_B0E8050E7879"
-    documentation="De Short Nutritional Assessment Questionnaire (SNAQ) is een (gevalideerd) meetinstrument voor het bepalen van de mate van ondervoeding van de pati&amp;#235;nt. Het instrument bestaat uit drie vragen waaraan een score wordt toegekend. De totaalsom van deze score bepaalt de mate van ondervoeding. De SNAQ ondersteunt het vroegtijdig herkennen en behandelen van ondervoeding.&#xA;Er zijn drie varianten van het meetinstrument voor verschillende zorgsettingen ontwikkeld, te weten ziekenhuis, verzorgings- en verpleeghuizen en zelfstandig wonende ouderen. Dit concept beschrijft het instrument dat bedoeld is voor de ziekenhuissetting.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>De Short Nutritional Assessment Questionnaire (SNAQ) is een (gevalideerd) meetinstrument voor het bepalen van de mate van ondervoeding van de pati&amp;#235;nt. Het instrument bestaat uit drie vragen waaraan een score wordt toegekend. De totaalsom van deze score bepaalt de mate van ondervoeding. De SNAQ ondersteunt het vroegtijdig herkennen en behandelen van ondervoeding.&#xA;Er zijn drie varianten van het meetinstrument voor verschillende zorgsettingen ontwikkeld, te weten ziekenhuis, verzorgings- en verpleeghuizen en zelfstandig wonende ouderen. Dit concept beschrijft het instrument dat bedoeld is voor de ziekenhuissetting.&#xA;{&lt;/nl-NL>&lt;en-US>The Short Nutritional Assessment Questionnaire (SNAQ) is a (validated) measuring tool for determining the extent of a patient's malnutrition. The tool comprises three questions, each of which is assigned a score. The total score determines the extent of malnutrition. The SNAQ helps to recognize and treat malnutrition at an early stage. &#xA;Three varieties of the measuring tool were developed for different care settings: hospitals, nursing and retirement homes and independently living seniors. This concept describes the tool intended for the hospital setting.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.SNAQScore"/>
+  <properties
+      key="Name_en"
+      value="SNAQScore"/>
+  <properties
+      key="Doc_nl"
+      value="De Short Nutritional Assessment Questionnaire (SNAQ) is een (gevalideerd) meetinstrument voor het bepalen van de mate van ondervoeding van de pati&amp;#235;nt. Het instrument bestaat uit drie vragen waaraan een score wordt toegekend. De totaalsom van deze sco"/>
+  <properties
+      key="Doc_en"
+      value="The Short Nutritional Assessment Questionnaire (SNAQ) is a (validated) measuring tool for determining the extent of a patient's malnutrition. The tool comprises three questions, each of which is assigned a score. The total score determines the extent of m"/>
+</archimate:DataObject>

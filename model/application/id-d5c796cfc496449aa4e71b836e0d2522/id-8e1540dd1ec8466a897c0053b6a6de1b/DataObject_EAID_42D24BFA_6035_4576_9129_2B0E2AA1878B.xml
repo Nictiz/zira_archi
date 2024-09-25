@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Polsfrequentie"
     id="EAID_42D24BFA_6035_4576_9129_2B0E2AA1878B"
-    documentation="De polsfrequentie is het aantal palpaties per minuut gemeten aan een slagader.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>De polsfrequentie is het aantal palpaties per minuut gemeten aan een slagader.&#xA;{&lt;/nl-NL>&lt;en-US>The pulse rate is the number of palpations per minute measured at an artery.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Polsfrequentie"/>
+  <properties
+      key="Name_en"
+      value="PulseRate"/>
+  <properties
+      key="Doc_nl"
+      value="De polsfrequentie is het aantal palpaties per minuut gemeten aan een slagader. {"/>
+  <properties
+      key="Doc_en"
+      value="The pulse rate is the number of palpations per minute measured at an artery."/>
+</archimate:DataObject>

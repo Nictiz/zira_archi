@@ -5,4 +5,10 @@
   <properties
       key="MAX::ID"
       value="862"/>
+  <properties
+      key="Name_nl"
+      value="Overdracht"/>
+  <properties
+      key="Name_en"
+      value="Transfer"/>
 </archimate:BusinessService>

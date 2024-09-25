@@ -11,4 +11,10 @@
   <properties
       key="MAX::ID"
       value="851"/>
+  <properties
+      key="Name_nl"
+      value="Uitvoeren aanvullend Onderzoek (bp)"/>
+  <properties
+      key="Name_en"
+      value="Conduct additional diagnostic testing"/>
 </archimate:BusinessProcess>

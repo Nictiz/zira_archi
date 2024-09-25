@@ -5,4 +5,10 @@
   <properties
       key="SortKey"
       value="CAB"/>
+  <properties
+      key="Name_nl"
+      value="Multidisciplinaire samenwerking"/>
+  <properties
+      key="Name_en"
+      value="Multidisciplinairy collaboration"/>
 </archimate:Grouping>

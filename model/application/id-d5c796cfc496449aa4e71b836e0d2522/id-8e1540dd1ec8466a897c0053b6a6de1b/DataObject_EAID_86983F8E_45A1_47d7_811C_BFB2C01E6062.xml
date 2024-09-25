@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.FunctioneleOfMentaleStatus"
     id="EAID_86983F8E_45A1_47d7_811C_BFB2C01E6062"
-    documentation="De functionele of mentale status geeft inzicht in de functionele en mentale beperkingen van de pati&amp;#235;nt.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>De functionele of mentale status geeft inzicht in de functionele en mentale beperkingen van de pati&amp;#235;nt.&#xA;{&lt;/nl-NL>&lt;en-US>The functional or mental status provides insight into the patient's functional and mental limitations.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.FunctioneleOfMentaleStatus"/>
+  <properties
+      key="Name_en"
+      value="FunctionalOrMentalStatus"/>
+  <properties
+      key="Doc_nl"
+      value="De functionele of mentale status geeft inzicht in de functionele en mentale beperkingen van de pati&amp;#235;nt. {"/>
+  <properties
+      key="Doc_en"
+      value="The functional or mental status provides insight into the patient's functional and mental limitations."/>
+</archimate:DataObject>

@@ -11,4 +11,10 @@
   <properties
       key="MAX::ID"
       value="852"/>
+  <properties
+      key="Name_nl"
+      value="Adviseren (bp)"/>
+  <properties
+      key="Name_en"
+      value="Advise"/>
 </archimate:BusinessProcess>

@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.PijnBeleving"
     id="EAID_33E6D611_A658_4f8e_81B7_FF6A415EC3E6"
-    documentation="Pijnbeleving geeft een zo compleet mogelijk beeld van de door de patiënt ervaren pijn. Daartoe wordt niet alleen de mate van pijn maar ook de context waarin de pijn ervaren wordt beschreven. De mate van pijn wordt vastgelegd met de Numeric Rating Scale (NRS) of de Visual Analogue Score (VAS).&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Pijnbeleving geeft een zo compleet mogelijk beeld van de door de patiënt ervaren pijn. Daartoe wordt niet alleen de mate van pijn maar ook de context waarin de pijn ervaren wordt beschreven. De mate van pijn wordt vastgelegd met de Numeric Rating Scale (NRS) of de Visual Analogue Score (VAS).&#xA;{&lt;/nl-NL>&lt;en-US>Pain experience provides an indication of the pain experienced by the patient that is as comprehensive as possible. This includes not only the extent of the pain but also the context in which the pain is experienced. The extent of pain is recorded using the Numeric Rating Scale (NRS) or the Visual Analogue Score (VAS).&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.PijnBeleving"/>
+  <properties
+      key="Name_en"
+      value="PainPerception"/>
+  <properties
+      key="Doc_nl"
+      value="Pijnbeleving geeft een zo compleet mogelijk beeld van de door de patiënt ervaren pijn. Daartoe wordt niet alleen de mate van pijn maar ook de context waarin de pijn ervaren wordt beschreven. De mate van pijn wordt vastgelegd met de Numeric Rating Scale (N"/>
+  <properties
+      key="Doc_en"
+      value="Pain experience provides an indication of the pain experienced by the patient that is as comprehensive as possible. This includes not only the extent of the pain but also the context in which the pain is experienced. The extent of pain is recorded using t"/>
+  <properties
+      key="Doc_nl1"
+      value="RS) of de Visual Analogue Score (VAS). {"/>
+  <properties
+      key="Doc_en1"
+      value="he Numeric Rating Scale (NRS) or the Visual Analogue Score (VAS)."/>
+</archimate:DataObject>

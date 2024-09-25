@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Lichaamsgewicht"
     id="EAID_813771AE_BC5B_4abb_8027_4A4D2ABE4105"
-    documentation="Lichaamsgewicht is de gangbare benaming voor de massa van het (menselijk) lichaam.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Lichaamsgewicht is de gangbare benaming voor de massa van het (menselijk) lichaam.&#xA;{&lt;/nl-NL>&lt;en-US>Body weight is the common name for (human) body mass.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Lichaamsgewicht"/>
+  <properties
+      key="Name_en"
+      value="BodyWeight"/>
+  <properties
+      key="Doc_nl"
+      value="Lichaamsgewicht is de gangbare benaming voor de massa van het (menselijk) lichaam. {"/>
+  <properties
+      key="Doc_en"
+      value="Body weight is the common name for (human) body mass."/>
+</archimate:DataObject>

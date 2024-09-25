@@ -5,4 +5,10 @@
   <properties
       key="SortKey"
       value="FD"/>
+  <properties
+      key="Name_nl"
+      value="WERKPLEK &amp; SAMENWERKING"/>
+  <properties
+      key="Name_en"
+      value="WORKPLACE &amp; COLLABORATION"/>
 </archimate:Grouping>

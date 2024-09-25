@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Wond"
     id="EAID_9F032D0C_9CD3_40fd_AC1D_308128AEBA86"
-    documentation="Een wond is een onderbreking van de continu&amp;#239;teit van de huid, veelal veroorzaakt door externe invloeden.&#xA;Een veelgebruikte model om de wondkenmerken vast te leggen is het TIME ('Tissue', 'Infection', 'Moisture', 'Edge') model, waarbij de wond systematisch wordt beschreven. Bij wondweefsel (T uit het TIME model) wordt gebruik gemaakt van de indeling van het WCS model (Woundcare Consultant Society,  WCS Kenniscentrum Wondzorg). Het WCS model is niet geschikt voor de beschrijving oncologische ulcera. Hiervoor bestaat een andere classificatie.&#xA;Oncologische ulcera zijn huiddefecten die zijn ontstaan door het tumorproces. Zij onderscheiden zich van oncologische wonden die ontstaan ten gevolge van de behandeling van kanker, bijvoorbeeld radiotherapie, chemotherapie of chirurgie.&#xA;Het concept beschrijft geen decubituswonden en brandwonden. Hiervoor kunnen de betreffende bouwstenen gebruikt worden.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Een wond is een onderbreking van de continu&amp;#239;teit van de huid, veelal veroorzaakt door externe invloeden.&#xA;Een veelgebruikte model om de wondkenmerken vast te leggen is het TIME ('Tissue', 'Infection', 'Moisture', 'Edge') model, waarbij de wond systematisch wordt beschreven. Bij wondweefsel (T uit het TIME model) wordt gebruik gemaakt van de indeling van het WCS model (Woundcare Consultant Society,  WCS Kenniscentrum Wondzorg). Het WCS model is niet geschikt voor de beschrijving oncologische ulcera. Hiervoor bestaat een andere classificatie.&#xA;Oncologische ulcera zijn huiddefecten die zijn ontstaan door het tumorproces. Zij onderscheiden zich van oncologische wonden die ontstaan ten gevolge van de behandeling van kanker, bijvoorbeeld radiotherapie, chemotherapie of chirurgie.&#xA;Het concept beschrijft geen decubituswonden en brandwonden. Hiervoor kunnen de betreffende bouwstenen gebruikt worden.&#xA;{&lt;/nl-NL>&lt;en-US>A wound is an interruption of the continuity of the skin, often caused by external influences. &#xA;A commonly used model for documenting the wound properties is the TIME ('Tissue', 'Infection', 'Moisture', 'Edge') model, which can be used to systematically describe the wound. For wound tissue (T in the TIME model), the structure of the WCS model (Woundcare Consultant Society, WCS Kenniscentrum Wondzorg) is used. The WCS model is not suited for describing oncological ulcers. There is a separate classification for that. &#xA;Oncological ulcers are skin defects which result from the tumor process. They are different from wounds resulting from cancer treatment, such as radiotherapy, chemotherapy or surgery. &#xA;The concept does not describe decubitus wounds and burn wounds. For these, the relevant information models can be used.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Wond"/>
+  <properties
+      key="Name_en"
+      value="Wound"/>
+  <properties
+      key="Doc_nl"
+      value="Een wond is een onderbreking van de continu&amp;#239;teit van de huid, veelal veroorzaakt door externe invloeden. Een veelgebruikte model om de wondkenmerken vast te leggen is het TIME ('Tissue', 'Infection', 'Moisture', 'Edge') model, waarbij de wond system"/>
+  <properties
+      key="Doc_en"
+      value="A wound is an interruption of the continuity of the skin, often caused by external influences. A commonly used model for documenting the wound properties is the TIME ('Tissue', 'Infection', 'Moisture', 'Edge') model, which can be used to systematically"/>
+</archimate:DataObject>

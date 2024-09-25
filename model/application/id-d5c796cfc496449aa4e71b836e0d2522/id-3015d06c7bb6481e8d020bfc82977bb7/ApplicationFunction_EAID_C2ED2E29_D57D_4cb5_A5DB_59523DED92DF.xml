@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DNS &amp; IP Adress management"
     id="EAID_C2ED2E29_D57D_4cb5_A5DB_59523DED92DF"
-    documentation="Functionaliteit voor het beheren van DNS en IP adressen">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Functionaliteit voor het beheren van DNS en IP adressen&lt;/nl-NL>&lt;en-US>Functionality for managing DNS and IP addresses&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -15,4 +15,16 @@
   <properties
       key="MAX::ID"
       value="AF-194"/>
+  <properties
+      key="Name_nl"
+      value="DNS &amp; IP Adress management"/>
+  <properties
+      key="Name_en"
+      value="DNS and IP address management"/>
+  <properties
+      key="Doc_nl"
+      value="Functionaliteit voor het beheren van DNS en IP adressen"/>
+  <properties
+      key="Doc_en"
+      value="Functionality for managing DNS and IP addresses"/>
 </archimate:ApplicationFunction>

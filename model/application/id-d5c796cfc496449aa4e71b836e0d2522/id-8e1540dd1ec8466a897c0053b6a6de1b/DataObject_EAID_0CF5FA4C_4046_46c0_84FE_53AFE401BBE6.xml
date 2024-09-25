@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Familieanamnese"
     id="EAID_0CF5FA4C_4046_46c0_84FE_53AFE401BBE6"
-    documentation="De familieanamnese beschrijft de gezondheidsproblemen van biologische verwanten die relevant zijn. De familieanamnese bevat informatie over de medische aandoeningen van het familielid en de biologische relatie tussen de patiënt en het beschreven familielid.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>De familieanamnese beschrijft de gezondheidsproblemen van biologische verwanten die relevant zijn. De familieanamnese bevat informatie over de medische aandoeningen van het familielid en de biologische relatie tussen de patiënt en het beschreven familielid.&#xA;{&lt;/nl-NL>&lt;en-US>The family history describes any health problems of biological relatives that may be relevant. The family history contains information on the medical disorders of the family member and the biological relationship between the patient and the described family member.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Familieanamnese"/>
+  <properties
+      key="Name_en"
+      value="FamilyHistory"/>
+  <properties
+      key="Doc_nl"
+      value="De familieanamnese beschrijft de gezondheidsproblemen van biologische verwanten die relevant zijn. De familieanamnese bevat informatie over de medische aandoeningen van het familielid en de biologische relatie tussen de patiënt en het beschreven familieli"/>
+  <properties
+      key="Doc_en"
+      value="The family history describes any health problems of biological relatives that may be relevant. The family history contains information on the medical disorders of the family member and the biological relationship between the patient and the described fami"/>
+  <properties
+      key="Doc_nl1"
+      value="d. {"/>
+  <properties
+      key="Doc_en1"
+      value="ly member."/>
+</archimate:DataObject>

@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.OverdrachtVerrichting"
     id="EAID_F4BFFB4E_8AB1_4c5e_9A0D_FF90BEAB2852"
-    documentation="Het concept Verrichting vermeldt een therapeutische verrichting, die de patiënt heeft ondergaan. Indien relevant kunnen ook diagnostische verrichtingen vermeld worden. &#xA;Een verrichting kan een simpele bloeddrukmeting zijn maar ook een complexe hartoperatie.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Het concept Verrichting vermeldt een therapeutische verrichting, die de patiënt heeft ondergaan. Indien relevant kunnen ook diagnostische verrichtingen vermeld worden. &#xA;Een verrichting kan een simpele bloeddrukmeting zijn maar ook een complexe hartoperatie.&#xA;{&lt;/nl-NL>&lt;en-US>The concept Procedure indicates a therapeutic procedure undergone by the patient. If relevant, diagnostic procedures can be listed as well.  &#xA;A procedure can be a simple blood pressure measurement, but also a complex heart surgery.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.OverdrachtVerrichting"/>
+  <properties
+      key="Name_en"
+      value="Procedure"/>
+  <properties
+      key="Doc_nl"
+      value="Het concept Verrichting vermeldt een therapeutische verrichting, die de patiënt heeft ondergaan. Indien relevant kunnen ook diagnostische verrichtingen vermeld worden. Een verrichting kan een simpele bloeddrukmeting zijn maar ook een complexe hartoperat"/>
+  <properties
+      key="Doc_en"
+      value="The concept Procedure indicates a therapeutic procedure undergone by the patient. If relevant, diagnostic procedures can be listed as well. A procedure can be a simple blood pressure measurement, but also a complex heart surgery."/>
+  <properties
+      key="Doc_nl1"
+      value="ie. {"/>
+</archimate:DataObject>

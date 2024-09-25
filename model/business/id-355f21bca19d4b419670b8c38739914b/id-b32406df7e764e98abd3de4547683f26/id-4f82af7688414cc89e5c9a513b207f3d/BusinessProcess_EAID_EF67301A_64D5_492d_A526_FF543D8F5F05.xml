@@ -2,11 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aanmelden MDO (wp)"
     id="EAID_EF67301A_64D5_492d_A526_FF543D8F5F05"
-    documentation="Het aanmelden van de patient voor een MDO overleg. De specifieke patientcasus wordt bij de aanmelding toegelicht. ">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Het aanmelden van de pati&amp;#235;nt voor een MDO overleg. De specifieke pati&amp;#235;ntcasus wordt bij de aanmelding toegelicht. &lt;/nl-NL>&lt;en-US>Registering the patient for an MDC consultation. The specific patient case will be explained at the time of registration. &lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
   <properties
       key="showdecoration"
       value="true"/>
+  <properties
+      key="Name_nl"
+      value="Aanmelden MDO (wp)"/>
+  <properties
+      key="Name_en"
+      value="Register MDC (wp)"/>
+  <properties
+      key="Doc_nl"
+      value="Het aanmelden van de pati&amp;#235;nt voor een MDO overleg. De specifieke pati&amp;#235;ntcasus wordt bij de aanmelding toegelicht."/>
+  <properties
+      key="Doc_en"
+      value="Registering the patient for an MDC consultation. The specific patient case will be explained at the time of registration."/>
 </archimate:BusinessProcess>

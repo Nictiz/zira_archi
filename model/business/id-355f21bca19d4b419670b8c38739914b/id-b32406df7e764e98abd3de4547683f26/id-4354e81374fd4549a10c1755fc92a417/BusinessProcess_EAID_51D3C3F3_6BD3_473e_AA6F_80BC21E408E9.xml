@@ -11,4 +11,10 @@
   <properties
       key="MAX::ID"
       value="855"/>
+  <properties
+      key="Name_nl"
+      value="Overdragen (bp)"/>
+  <properties
+      key="Name_en"
+      value="Transfer"/>
 </archimate:BusinessProcess>

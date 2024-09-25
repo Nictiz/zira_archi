@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Communicatievaardigheden"
     id="EAID_B3880E5B_9897_4876_B237_377920E6BC45"
-    documentation="! Let op: deze bouwsteen ondergaat momenteel een substantiele revisie. Een nieuwe versie zal na de zomer beschikbaar zijn.&#xA;Communicatievaardigheden zijn de vaardigheden van pati&amp;#235;nt m.b.t. het delen van informatie (zowel verbaal als non-verbaal), waarbij een  onderscheid wordt gemaakt tussen het begrijpen van de gecommuniceerde informatie en het zich kunnen uiten, zowel verbaal als non-verbaal. &#xA;Beperkingen in communicatievaardigheden  kunnen verschillende oorzaken hebben. Het kan een gevolg zijn van hersenletsel, zoals afasie, of een stoornis in de mentale functies. Dit kan een grote impact hebben op de mate waarin iemand informatie begrijpt of de manier waarop iemand zich kan uiten. Ook pati&amp;#235;nten die slechthorend zijn kunnen moeite hebben met communicatie.&#xA;Mate van taalbeheersing is geen onderdeel van communicatievaardigheden.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>! Let op: deze bouwsteen ondergaat momenteel een substantiele revisie. Een nieuwe versie zal na de zomer beschikbaar zijn.&#xA;Communicatievaardigheden zijn de vaardigheden van pati&amp;#235;nt m.b.t. het delen van informatie (zowel verbaal als non-verbaal), waarbij een  onderscheid wordt gemaakt tussen het begrijpen van de gecommuniceerde informatie en het zich kunnen uiten, zowel verbaal als non-verbaal. &#xA;Beperkingen in communicatievaardigheden  kunnen verschillende oorzaken hebben. Het kan een gevolg zijn van hersenletsel, zoals afasie, of een stoornis in de mentale functies. Dit kan een grote impact hebben op de mate waarin iemand informatie begrijpt of de manier waarop iemand zich kan uiten. Ook pati&amp;#235;nten die slechthorend zijn kunnen moeite hebben met communicatie.&#xA;Mate van taalbeheersing is geen onderdeel van communicatievaardigheden.&#xA;{&lt;/nl-NL>&lt;en-US>! Attention: this information model is undergoing major revision. A new version will be available after summer.&#xA;Communication skills are a patient's skills in terms of sharing information (both verbally and non-verbally), with a distinction between understanding the communicated information and the ability to express oneself, both verbally and non-verbally.  &#xA;Limitations in communication skills can have various causes. They can result from brain damage, such as aphasia, or mental function disorders. This can have a major impact on the extent to which a person is able to understand information or the way in which a person can express themselves. Hearing impaired patients can also have difficulty in communication. &#xA;Linguistic competence is not a part of communication skills.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Communicatievaardigheden"/>
+  <properties
+      key="Name_en"
+      value="CommunicationSkills"/>
+  <properties
+      key="Doc_nl"
+      value="&lt;font color=&quot;#ff0000&quot;>&lt;b>! Let op: deze bouwsteen ondergaat momenteel een substantiele revisie. Een nieuwe versie zal na de zomer beschikbaar zijn.&lt;/b>&lt;/font> Communicatievaardigheden zijn de vaardigheden van pati&amp;#235;nt m.b.t. het delen van informatie"/>
+  <properties
+      key="Doc_en"
+      value="&lt;font color=&quot;#ff0000&quot;>&lt;b>! Attention: this information model is undergoing major revision. A new version will be available after summer.&lt;/b>&lt;/font> Communication skills are a patient's skills in terms of sharing information (both verbally and non-verball"/>
+</archimate:DataObject>

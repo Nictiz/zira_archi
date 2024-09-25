@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Wilsverklaring"
     id="EAID_3F587FD1_AA2D_4091_9882_35974108C8F6"
-    documentation="Een wilsverklaring is een mondelinge of schriftelijke omschrijving van de wens van de pati&amp;#235;nt ten aanzien van toekomstig medisch handelen of het levenseinde. Een wilsverklaring is vooral voor situaties waarin de pati&amp;#235;nt niet meer over deze beslissingen kan praten met de zorgverlener.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Een wilsverklaring is een mondelinge of schriftelijke omschrijving van de wens van de pati&amp;#235;nt ten aanzien van toekomstig medisch handelen of het levenseinde. Een wilsverklaring is vooral voor situaties waarin de pati&amp;#235;nt niet meer over deze beslissingen kan praten met de zorgverlener.&#xA;{&lt;/nl-NL>&lt;en-US>A living will is a verbal or written description of the patient's wishes with regard to future medical action or end of their life. A living will is mainly used for situations in which the patient is no longer able to speak about these decisions with their healthcare provider.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Wilsverklaring"/>
+  <properties
+      key="Name_en"
+      value="AdvanceDirecrtive"/>
+  <properties
+      key="Doc_nl"
+      value="Een wilsverklaring is een mondelinge of schriftelijke omschrijving van de wens van de pati&amp;#235;nt ten aanzien van toekomstig medisch handelen of het levenseinde. Een wilsverklaring is vooral voor situaties waarin de pati&amp;#235;nt niet meer over deze besli"/>
+  <properties
+      key="Doc_en"
+      value="A living will is a verbal or written description of the patient's wishes with regard to future medical action or end of their life. A living will is mainly used for situations in which the patient is no longer able to speak about these decisions with thei"/>
+  <properties
+      key="Doc_en1"
+      value="r healthcare provider."/>
+  <properties
+      key="Doc_nl1"
+      value="ssingen kan praten met de zorgverlener. {"/>
+</archimate:DataObject>

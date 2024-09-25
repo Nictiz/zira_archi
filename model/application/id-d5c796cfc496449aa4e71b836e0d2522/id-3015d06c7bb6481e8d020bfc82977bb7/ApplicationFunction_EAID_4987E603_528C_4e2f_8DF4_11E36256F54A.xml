@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kwaliteitsinformatiemanagement"
     id="EAID_4987E603_528C_4e2f_8DF4_11E36256F54A"
-    documentation="Functionaliteit voor de ondersteuning van het maken, verwerken en beheren van kwaliteitsdocumenten (inclusief protocollen)">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Functionaliteit voor de ondersteuning van het maken, verwerken en beheren van kwaliteitsdocumenten (inclusief protocollen)&lt;/nl-NL>&lt;en-US>Functionality to support the creation, processing and management of quality documents (including protocols)&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -15,4 +15,16 @@
   <properties
       key="MAX::ID"
       value="AF-22"/>
+  <properties
+      key="Name_nl"
+      value="Kwaliteitsinformatiemanagement"/>
+  <properties
+      key="Name_en"
+      value="Quality information management"/>
+  <properties
+      key="Doc_nl"
+      value="Functionaliteit voor de ondersteuning van het maken, verwerken en beheren van kwaliteitsdocumenten (inclusief protocollen)"/>
+  <properties
+      key="Doc_en"
+      value="Functionality to support the creation, processing and management of quality documents (including protocols)"/>
 </archimate:ApplicationFunction>

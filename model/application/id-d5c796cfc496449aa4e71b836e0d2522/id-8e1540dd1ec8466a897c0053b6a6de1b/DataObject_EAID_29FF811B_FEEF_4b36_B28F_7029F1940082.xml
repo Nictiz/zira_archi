@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Behandeldoel"
     id="EAID_29FF811B_FEEF_4b36_B28F_7029F1940082"
-    documentation="Het behandeldoel omschrijft het gewenste resultaat van de behandeling/interventies met betrekking tot het benoemde probleem van de pati&amp;#235;nt. Naast de streefwaarde wordt bij het te bereiken doel ook een streefdatum aangegeven. Vergelijking van het behandeldoel met de uitkomsten van zorg geeft inzicht in de effectiviteit van de behandeling/interventies. &#xA;Voor het verpleegkundig proces wordt het probleem uitgedrukt als verpleegkundige diagnose. Het behandeldoel is samen met verpleegkundige diagnoses, verpleegkundige interventies en uitkomsten van zorg, onderdeel van het verpleegkundig proces.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Het behandeldoel omschrijft het gewenste resultaat van de behandeling/interventies met betrekking tot het benoemde probleem van de pati&amp;#235;nt. Naast de streefwaarde wordt bij het te bereiken doel ook een streefdatum aangegeven. Vergelijking van het behandeldoel met de uitkomsten van zorg geeft inzicht in de effectiviteit van de behandeling/interventies. &#xA;Voor het verpleegkundig proces wordt het probleem uitgedrukt als verpleegkundige diagnose. Het behandeldoel is samen met verpleegkundige diagnoses, verpleegkundige interventies en uitkomsten van zorg, onderdeel van het verpleegkundig proces.&#xA;{&lt;/nl-NL>&lt;en-US>The treatment goal describes the desired result of the treatment/interventions in terms of the patient's diagnosed problem. The goal and target date are entered in addition to the target value. Comparing the healthcare results to the treatment goal provides insight into the effectivity of the treatment/interventions.  &#xA;In the nursing process, the problem is expressed as a nursing diagnosis. The treatment goal, nursing diagnoses, nursing interventions and healthcare results are part of the nursing process.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Behandeldoel"/>
+  <properties
+      key="Name_en"
+      value="TreatmentObjective"/>
+  <properties
+      key="Doc_nl"
+      value="Het behandeldoel omschrijft het gewenste resultaat van de behandeling/interventies met betrekking tot het benoemde probleem van de pati&amp;#235;nt. Naast de streefwaarde wordt bij het te bereiken doel ook een streefdatum aangegeven. Vergelijking van het beha"/>
+  <properties
+      key="Doc_en"
+      value="The treatment goal describes the desired result of the treatment/interventions in terms of the patient's diagnosed problem. The goal and target date are entered in addition to the target value. Comparing the healthcare results to the treatment goal provid"/>
+</archimate:DataObject>

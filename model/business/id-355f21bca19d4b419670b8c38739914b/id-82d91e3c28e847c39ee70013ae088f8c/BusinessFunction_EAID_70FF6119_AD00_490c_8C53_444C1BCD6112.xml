@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OPERATIE"
     id="EAID_70FF6119_AD00_490c_8C53_444C1BCD6112"
-    documentation="chirurgische ingrepen als onderdeel van de behandeling van de patient">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>chirurgische ingrepen als onderdeel van de behandeling van de patient&lt;/nl-NL>&lt;en-US>Surgical procedures as part of the patient's treatment&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -15,4 +15,16 @@
   <properties
       key="MAX::ID"
       value="1575"/>
+  <properties
+      key="Name_nl"
+      value="OPERATIE"/>
+  <properties
+      key="Name_en"
+      value="SURGERY"/>
+  <properties
+      key="Doc_nl"
+      value="chirurgische ingrepen als onderdeel van de behandeling van de patient"/>
+  <properties
+      key="Doc_en"
+      value="Surgical procedures as part of the patient's treatment"/>
 </archimate:BusinessFunction>

@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Contact"
     id="EAID_8207BC59_4CBF_4d26_9D48_0C5CA5F8CCEC"
-    documentation="Een contact is een interactie, onafhankelijk van de situatie, tussen een pati&amp;#235;nt en een zorgverlener, waarbij de zorgverlener de primaire verantwoordelijkheid heeft de conditie van de pati&amp;#235;nt te diagnosticeren, te evalueren, te behandelen en de pati&amp;#235;nt te informeren. Dit kunnen bezoeken, afspraken of niet face-to-face interacties zijn.&#xA;&#xA;Contacten kunnen huisarts- of praktijkbezoeken, thuisbezoeken, opnames (in bijvoorbeeld ziekenhuizen, verpleeg/verzorgingstehuizen, psychiatrische inrichtingen of revalidatieklinieken) of andere relevante contacten betreffen. Het betreft alleen historische contacten. De toekomstige contacten kunnen vastgelegd worden in de bouwsteen GeplandeZorgActiviteit.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Een contact is een interactie, onafhankelijk van de situatie, tussen een pati&amp;#235;nt en een zorgverlener, waarbij de zorgverlener de primaire verantwoordelijkheid heeft de conditie van de pati&amp;#235;nt te diagnosticeren, te evalueren, te behandelen en de pati&amp;#235;nt te informeren. Dit kunnen bezoeken, afspraken of niet face-to-face interacties zijn.&#xA;&#xA;Contacten kunnen huisarts- of praktijkbezoeken, thuisbezoeken, opnames (in bijvoorbeeld ziekenhuizen, verpleeg/verzorgingstehuizen, psychiatrische inrichtingen of revalidatieklinieken) of andere relevante contacten betreffen. Het betreft alleen historische contacten. De toekomstige contacten kunnen vastgelegd worden in de bouwsteen GeplandeZorgActiviteit.&#xA;{&lt;/nl-NL>&lt;en-US>A contact is any interaction, regardless of the situation, between a patient and the healthcare provider, in which the healthcare provider has primary responsibility for diagnosing, evaluating and treating the patient's condition and informing the patient. These can be visits, appointments or non face-to-face interactions. &#xA;&#xA;Contacts can be visits to the general practitioner or other practices, home visits, admissions (in hospitals, nursing homes or care homes, psychiatric institutions or convalescent homes) or other relevant contacts. This only includes past contacts. Future contacts can be documented in the PlannedCareActivity information model.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Contact"/>
+  <properties
+      key="Name_en"
+      value="Encounter"/>
+  <properties
+      key="Doc_nl"
+      value="Een contact is een interactie, onafhankelijk van de situatie, tussen een pati&amp;#235;nt en een zorgverlener, waarbij de zorgverlener de primaire verantwoordelijkheid heeft de conditie van de pati&amp;#235;nt te diagnosticeren, te evalueren, te behandelen en de"/>
+  <properties
+      key="Doc_en"
+      value="A contact is any interaction, regardless of the situation, between a patient and the healthcare provider, in which the healthcare provider has primary responsibility for diagnosing, evaluating and treating the patient's condition and informing the patient"/>
+</archimate:DataObject>

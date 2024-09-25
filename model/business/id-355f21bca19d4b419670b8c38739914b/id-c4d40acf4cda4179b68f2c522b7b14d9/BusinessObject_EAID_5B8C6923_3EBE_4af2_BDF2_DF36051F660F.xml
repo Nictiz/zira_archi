@@ -2,8 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verstrekkingsverzoek"
     id="EAID_5B8C6923_3EBE_4af2_BDF2_DF36051F660F"
-    documentation="Medicatievoorschrift van een arts aan een apotheker om de patiënt van een bepaald medicijn te voorzien.">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Medicatievoorschrift van een arts aan een apotheker om de patiënt van een bepaald medicijn te voorzien.&lt;/nl-NL>&lt;en-US>Medication prescription from a doctor to a pharmacist to provide the patient with a specific medication.&lt;/en-US>&lt;/languages>">
   <properties
       key="MAX::ID"
       value="2149"/>
+  <properties
+      key="Name_nl"
+      value="Verstrekkingsverzoek"/>
+  <properties
+      key="Name_en"
+      value="Provision request"/>
+  <properties
+      key="Doc_nl"
+      value="Medicatievoorschrift van een arts aan een apotheker om de patiënt van een bepaald medicijn te voorzien."/>
+  <properties
+      key="Doc_en"
+      value="Medication prescription from a doctor to a pharmacist to provide the patient with a specific medication."/>
 </archimate:BusinessObject>

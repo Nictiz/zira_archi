@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Voedingsadvies"
     id="EAID_E62D63B4_1C85_429a_BC53_0DBD9903C32A"
-    documentation="Een voedingsadvies is een beschrijving van voeding voor de pati&amp;#235;nt, die aan specifieke eisen moet voldoen in verband met de gezondheidstoestand van de pati&amp;#235;nt. Allergie&amp;#235;n en overgevoeligheden of kauw- en slikproblemen kunnen aanleiding zijn voor speciale voeding.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Een voedingsadvies is een beschrijving van voeding voor de pati&amp;#235;nt, die aan specifieke eisen moet voldoen in verband met de gezondheidstoestand van de pati&amp;#235;nt. Allergie&amp;#235;n en overgevoeligheden of kauw- en slikproblemen kunnen aanleiding zijn voor speciale voeding.&#xA;{&lt;/nl-NL>&lt;en-US>A nutritional advice is a description of nourishment for the patient, which must meet specific requirements in view of the health condition of the patient. Allergies and food intolerances or chewing and swallowing problems may be a reason for special nutrition.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Voedingsadvies"/>
+  <properties
+      key="Name_en"
+      value="NutritionAdvice"/>
+  <properties
+      key="Doc_nl"
+      value="Een voedingsadvies is een beschrijving van voeding voor de pati&amp;#235;nt, die aan specifieke eisen moet voldoen in verband met de gezondheidstoestand van de pati&amp;#235;nt. Allergie&amp;#235;n en overgevoeligheden of kauw- en slikproblemen kunnen aanleiding zijn"/>
+  <properties
+      key="Doc_en"
+      value="A nutritional advice is a description of nourishment for the patient, which must meet specific requirements in view of the health condition of the patient. Allergies and food intolerances or chewing and swallowing problems may be a reason for special nutr"/>
+  <properties
+      key="Doc_nl1"
+      value="voor speciale voeding. {"/>
+  <properties
+      key="Doc_en1"
+      value="ition."/>
+</archimate:DataObject>

@@ -2,11 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitwisselingsinformatie"
     id="EAID_EFF36DA2_B39D_4ec0_9905_5DA259CCAB7C"
-    documentation="Informatie die tussen zorgverleners / -instellingen wordt uitgewisseld. Specifieke vormen zijn Verwijsinformatie en Overdrachtsinformatie.">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Informatie die tussen zorgverleners / -instellingen wordt uitgewisseld. Specifieke vormen zijn Verwijsinformatie en Overdrachtsinformatie.&lt;/nl-NL>&lt;en-US>Information that is exchanged between healthcare providers / institutions. Specific instances are ”referral information” and “transfer information.”&lt;/en-US>&lt;/languages>">
   <properties
       key="MAX::ID"
       value="1938"/>
   <properties
       key="RDZ_ID"
       value="2.16.840.1.113883.2.4.3.11.29.4.244"/>
+  <properties
+      key="Name_nl"
+      value="Uitwisselingsinformatie"/>
+  <properties
+      key="Name_en"
+      value="Exchange information"/>
+  <properties
+      key="Doc_nl"
+      value="Informatie die tussen zorgverleners / -instellingen wordt uitgewisseld. Specifieke vormen zijn Verwijsinformatie en Overdrachtsinformatie."/>
+  <properties
+      key="Doc_en"
+      value="Information that is exchanged between healthcare providers / institutions. Specific instances are ”referral information” and “transfer information.”"/>
 </archimate:BusinessObject>

@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Contactpersoon"
     id="EAID_98898F64_38BF_4c6e_9FFC_67C2CBD958AA"
-    documentation="Een contactpersoon is een persoon anders dan zorgverleners, die betrokken zijn bij de zorg voor de pati&amp;#235;nt, zoals familieleden, mantelzorgers, geestelijke verzorgers, voogden en wettelijkelijk vertegenwoordigers.&#xA;&#xA;Naast identificerende gegevens als naam kunnen ook adres- en contactgegevens worden toegevoegd. Daarnaast kan relatie tot de pati&amp;#235;nt en rol die de persoon heeft, meegegeven worden.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Een contactpersoon is een persoon anders dan zorgverleners, die betrokken zijn bij de zorg voor de pati&amp;#235;nt, zoals familieleden, mantelzorgers, geestelijke verzorgers, voogden en wettelijkelijk vertegenwoordigers.&#xA;&#xA;Naast identificerende gegevens als naam kunnen ook adres- en contactgegevens worden toegevoegd. Daarnaast kan relatie tot de pati&amp;#235;nt en rol die de persoon heeft, meegegeven worden.&#xA;{&lt;/nl-NL>&lt;en-US>A contact is a different person than a healthcare provider who is involved in the patient's care, such as family members, caregivers, mental caretakers, guardians and legal representatives. &#xA;&#xA;In addition to identification information such as the name, address and contact information can also be entered. The relationship to the patient and the role this person has can be entered as well.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Contactpersoon"/>
+  <properties
+      key="Name_en"
+      value="ContactPerson"/>
+  <properties
+      key="Doc_nl"
+      value="Een contactpersoon is een persoon anders dan zorgverleners, die betrokken zijn bij de zorg voor de pati&amp;#235;nt, zoals familieleden, mantelzorgers, geestelijke verzorgers, voogden en wettelijkelijk vertegenwoordigers. Naast identificerende gegevens als"/>
+  <properties
+      key="Doc_en"
+      value="A contact is a different person than a healthcare provider who is involved in the patient's care, such as family members, caregivers, mental caretakers, guardians and legal representatives. In addition to identification information such as the name, a"/>
+  <properties
+      key="Doc_nl1"
+      value="naam kunnen ook adres- en contactgegevens worden toegevoegd. Daarnaast kan relatie tot de pati&amp;#235;nt en rol die de persoon heeft, meegegeven worden. {"/>
+  <properties
+      key="Doc_en1"
+      value="ddress and contact information can also be entered. The relationship to the patient and the role this person has can be entered as well."/>
+</archimate:DataObject>

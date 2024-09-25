@@ -1,4 +1,11 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MDO"
-    id="EAID_C03BEEF6_F73D_43a4_8F96_465C4E8A0AB5"/>
+    id="EAID_C03BEEF6_F73D_43a4_8F96_465C4E8A0AB5">
+  <properties
+      key="Name_nl"
+      value="MDO"/>
+  <properties
+      key="Name_en"
+      value="MDC"/>
+</archimate:BusinessService>

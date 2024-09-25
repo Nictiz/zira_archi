@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.O2Saturatie"
     id="EAID_EF6745B6_0787_4b3a_A226_9D0E01F8B0AB"
-    documentation="De arteri&amp;#235;le zuurstofsaturatie, kortweg saturatie, is een graadmeter voor de hoeveelheid zuurstof die aan het hemoglobine in de rode bloedcellen in de arteri&amp;#235;n of slagaders gebonden is. De meting wordt meestal uitgevoerd als een transcutane meting met een saturatiemeter of pulsoximeter. De saturatie wordt uitgedrukt als een percentage en is bij gezonde personen meer dan 95%. &#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>De arteri&amp;#235;le zuurstofsaturatie, kortweg saturatie, is een graadmeter voor de hoeveelheid zuurstof die aan het hemoglobine in de rode bloedcellen in de arteri&amp;#235;n of slagaders gebonden is. De meting wordt meestal uitgevoerd als een transcutane meting met een saturatiemeter of pulsoximeter. De saturatie wordt uitgedrukt als een percentage en is bij gezonde personen meer dan 95%. &#xA;{&lt;/nl-NL>&lt;en-US>Arterial oxygen saturation, also referred to as saturation, is an indicator for the amount of oxygen bound to the hemoglobin in the red blood cells of the arteries. The measurement is usually carried out as a transcutaneous measurement with a blood oxygen monitor or pulse oximeter. The saturation level is expressed as a percentage and should be over 95% in healthy people.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.O2Saturatie"/>
+  <properties
+      key="Name_en"
+      value="O2Saturation"/>
+  <properties
+      key="Doc_nl"
+      value="De arteri&amp;#235;le zuurstofsaturatie, kortweg saturatie, is een graadmeter voor de hoeveelheid zuurstof die aan het hemoglobine in de rode bloedcellen in de arteri&amp;#235;n of slagaders gebonden is. De meting wordt meestal uitgevoerd als een transcutane meti"/>
+  <properties
+      key="Doc_en"
+      value="Arterial oxygen saturation, also referred to as saturation, is an indicator for the amount of oxygen bound to the hemoglobin in the red blood cells of the arteries. The measurement is usually carried out as a transcutaneous measurement with a blood oxygen"/>
+  <properties
+      key="Doc_nl1"
+      value="ng met een saturatiemeter of pulsoximeter. De saturatie wordt uitgedrukt als een percentage en is bij gezonde personen meer dan 95%. {"/>
+  <properties
+      key="Doc_en1"
+      value="monitor or pulse oximeter. The saturation level is expressed as a percentage and should be over 95% in healthy people."/>
+</archimate:DataObject>

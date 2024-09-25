@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Medisch ethische toetsing (METC)"
     id="EAID_B11F86A6_53A7_4b4b_83F6_08EA6CA919B3"
-    documentation="De Research Commissie / Medisch Ethische Commissie toetst de onderzoeksaanvraag aan externe en interne kaders en de plaats binnen of tussen lopende onderzoeksprojecten.">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>De Research Commissie / Medisch Ethische Commissie toetst de onderzoeksaanvraag aan externe en interne kaders en de plaats binnen of tussen lopende onderzoeksprojecten.&lt;/nl-NL>&lt;en-US>The Research Committee/Medical Ethics Committee assesses the research application using external and internal frameworks and its relation to current research projects.&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -12,4 +12,16 @@
   <properties
       key="showdecoration"
       value="true"/>
+  <properties
+      key="Name_nl"
+      value="Medisch ethische toetsing (METC)"/>
+  <properties
+      key="Name_en"
+      value="Medical Ethics Review"/>
+  <properties
+      key="Doc_nl"
+      value="De Research Commissie / Medisch Ethische Commissie toetst de onderzoeksaanvraag aan externe en interne kaders en de plaats binnen of tussen lopende onderzoeksprojecten."/>
+  <properties
+      key="Doc_en"
+      value="The Research Committee/Medical Ethics Committee assesses the research application using external and internal frameworks and its relation to current research projects."/>
 </archimate:BusinessProcess>

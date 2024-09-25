@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.OverdrachtTekstUitslag"
     id="EAID_47703088_48BF_4cfa_85B7_8B171860DA4A"
-    documentation="Een tekstuitslag beschrijft de bevindingen en interpretatie van diagnostische of therapeutische verrichtingen, uitgevoerd op patiënten of monsters afkomstig van de patiënt. &#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Een tekstuitslag beschrijft de bevindingen en interpretatie van diagnostische of therapeutische verrichtingen, uitgevoerd op patiënten of monsters afkomstig van de patiënt. &#xA;{&lt;/nl-NL>&lt;en-US>Textual results describe the findings and interpretation of diagnostic or therapeutic procedures carried out on patients or on specimens from the patient.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.OverdrachtTekstUitslag"/>
+  <properties
+      key="Name_en"
+      value="TextResult"/>
+  <properties
+      key="Doc_nl"
+      value="Een tekstuitslag beschrijft de bevindingen en interpretatie van diagnostische of therapeutische verrichtingen, uitgevoerd op patiënten of monsters afkomstig van de patiënt. {"/>
+  <properties
+      key="Doc_en"
+      value="Textual results describe the findings and interpretation of diagnostic or therapeutic procedures carried out on patients or on specimens from the patient."/>
+</archimate:DataObject>

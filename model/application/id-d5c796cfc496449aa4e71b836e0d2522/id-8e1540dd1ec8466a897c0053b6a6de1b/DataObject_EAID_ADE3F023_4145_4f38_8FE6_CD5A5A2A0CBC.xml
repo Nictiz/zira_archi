@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Huidaandoening"
     id="EAID_ADE3F023_4145_4f38_8FE6_CD5A5A2A0CBC"
-    documentation="Een huidaandoening is een door een nader aan te duiden oorzaak ontstane verstoring van het orgaan huid.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Een huidaandoening is een door een nader aan te duiden oorzaak ontstane verstoring van het orgaan huid.&#xA;{&lt;/nl-NL>&lt;en-US>A skin condition is a disturbance of the organ skin caused by a source to be specified later on.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Huidaandoening"/>
+  <properties
+      key="Name_en"
+      value="SkinDisorder"/>
+  <properties
+      key="Doc_nl"
+      value="Een huidaandoening is een door een nader aan te duiden oorzaak ontstane verstoring van het orgaan huid. {"/>
+  <properties
+      key="Doc_en"
+      value="A skin condition is a disturbance of the organ skin caused by a source to be specified later on."/>
+</archimate:DataObject>

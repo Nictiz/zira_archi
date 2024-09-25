@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Ademhaling"
     id="EAID_CF0E1D8E_80E9_406e_BBC1_BD020291D6D3"
-    documentation="Bij de ademhaling of respiratie stroomt er lucht naar en van de longen, waar de gasuitwisseling plaatsvindt, waarbij zuurstof vanuit de lucht wordt opgenomen in het bloed en koolstofdioxide wordt afgegeven aan de lucht. Observaties van de spontane ademhaling zoals deze meestal geregistreerd worden als onderdeel van de observatie van de vitale functies.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Bij de ademhaling of respiratie stroomt er lucht naar en van de longen, waar de gasuitwisseling plaatsvindt, waarbij zuurstof vanuit de lucht wordt opgenomen in het bloed en koolstofdioxide wordt afgegeven aan de lucht. Observaties van de spontane ademhaling zoals deze meestal geregistreerd worden als onderdeel van de observatie van de vitale functies.&#xA;{&lt;/nl-NL>&lt;en-US> During breathing or respiration, air flows to and from the lungs, where gas exchange occurs, absorbing oxygen from the air into the blood and exhaling carbon dioxide into the air. Observations of spontaneous breathing, usually registered as part of the observation of vital functions.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Ademhaling"/>
+  <properties
+      key="Name_en"
+      value="Respiration"/>
+  <properties
+      key="Doc_nl"
+      value="Bij de ademhaling of respiratie stroomt er lucht naar en van de longen, waar de gasuitwisseling plaatsvindt, waarbij zuurstof vanuit de lucht wordt opgenomen in het bloed en koolstofdioxide wordt afgegeven aan de lucht. Observaties van de spontane ademhal"/>
+  <properties
+      key="Doc_en"
+      value="During breathing or respiration, air flows to and from the lungs, where gas exchange occurs, absorbing oxygen from the air into the blood and exhaling carbon dioxide into the air. Observations of spontaneous breathing, usually registered as part of the o"/>
+  <properties
+      key="Doc_nl1"
+      value="ing zoals deze meestal geregistreerd worden als onderdeel van de observatie van de vitale functies. {"/>
+  <properties
+      key="Doc_en1"
+      value="bservation of vital functions."/>
+</archimate:DataObject>

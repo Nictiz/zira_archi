@@ -2,11 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitslag lichamelijk onderzoek"
     id="EAID_BA935077_5A21_4560_8091_8002321E81F5"
-    documentation="Bevindingen van de observaties van onderzochte lichamelijke functies.">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Bevindingen van de observaties van onderzochte lichamelijke functies.&#xA;&lt;/nl-NL>&lt;en-US>Findings from the observations of examined bodily functions.&lt;/en-US>&lt;/languages>">
   <properties
       key="MAX::ID"
       value="1821"/>
   <properties
       key="RDZ_IO"
       value="2.16.840.1.113883.2.4.3.11.29.4.254"/>
+  <properties
+      key="Name_nl"
+      value="Uitslag lichamelijk onderzoek"/>
+  <properties
+      key="Name_en"
+      value="Physical examination result"/>
+  <properties
+      key="Doc_nl"
+      value="Bevindingen van de observaties van onderzochte lichamelijke functies."/>
+  <properties
+      key="Doc_en"
+      value="Findings from the observations of examined bodily functions."/>
 </archimate:BusinessObject>

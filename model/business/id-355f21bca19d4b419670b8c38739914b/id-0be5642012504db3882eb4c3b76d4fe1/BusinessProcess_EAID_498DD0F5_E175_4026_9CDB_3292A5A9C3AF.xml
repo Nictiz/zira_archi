@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Controleren materiaalgegevens"
     id="EAID_498DD0F5_E175_4026_9CDB_3292A5A9C3AF"
-    documentation="Ontvangen en verifiëren van materiaalgegevens.">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Ontvangen en verifiëren van materiaalgegevens.&lt;/nl-NL>&lt;en-US>Receiving and verifying material data.&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -15,4 +15,16 @@
   <properties
       key="showdecoration"
       value="true"/>
+  <properties
+      key="Name_nl"
+      value="Controleren materiaalgegevens"/>
+  <properties
+      key="Name_en"
+      value="Check specimen data"/>
+  <properties
+      key="Doc_nl"
+      value="Ontvangen en verifiëren van materiaalgegevens."/>
+  <properties
+      key="Doc_en"
+      value="Receiving and verifying material data."/>
 </archimate:BusinessProcess>

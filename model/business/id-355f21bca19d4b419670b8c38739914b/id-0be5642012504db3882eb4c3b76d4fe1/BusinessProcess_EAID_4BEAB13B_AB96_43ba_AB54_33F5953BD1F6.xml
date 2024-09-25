@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inhoudelijk ondersteunen van het onderzoek (assistentie)"
     id="EAID_4BEAB13B_AB96_43ba_AB54_33F5953BD1F6"
-    documentation="Hulp bij onderzoek omvat literatuuronderzoek, laboratoriumvoorbereiding, werving van onderwerpen, analyse van bevindingen, voorbereiding van manuscripten en andere werkproducten, enz.">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Hulp bij onderzoek omvat literatuuronderzoek, laboratoriumvoorbereiding, werving van onderwerpen, analyse van bevindingen, voorbereiding van manuscripten en andere werkproducten, enz.&lt;/nl-NL>&lt;en-US>Research assistance includes literature review, laboratory preparation, subject recruitment, analysis of findings, preparation of manuscripts and other work products, etc.&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -12,4 +12,16 @@
   <properties
       key="MAX::ID"
       value="2281"/>
+  <properties
+      key="Name_nl"
+      value="Inhoudelijk ondersteunen van het onderzoek (assistentie)"/>
+  <properties
+      key="Name_en"
+      value="Substantive support of the research (assistance)"/>
+  <properties
+      key="Doc_nl"
+      value="Hulp bij onderzoek omvat literatuuronderzoek, laboratoriumvoorbereiding, werving van onderwerpen, analyse van bevindingen, voorbereiding van manuscripten en andere werkproducten, enz."/>
+  <properties
+      key="Doc_en"
+      value="Research assistance includes literature review, laboratory preparation, subject recruitment, analysis of findings, preparation of manuscripts and other work products, etc."/>
 </archimate:BusinessProcess>

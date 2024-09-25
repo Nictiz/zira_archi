@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Learning Content Management"
     id="EAID_D1979451_463D_468e_9646_DC17E4AEF384"
-    documentation="Functionaliteit creatie en beheer van onderwijscontent">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Functionaliteit creatie en beheer van onderwijscontent&lt;/nl-NL>&lt;en-US>Functionality creation and management of educational content&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -15,4 +15,16 @@
   <properties
       key="MAX::ID"
       value="AF-106"/>
+  <properties
+      key="Name_nl"
+      value="Learning Content Management"/>
+  <properties
+      key="Name_en"
+      value="Learning content management"/>
+  <properties
+      key="Doc_nl"
+      value="Functionaliteit creatie en beheer van onderwijscontent"/>
+  <properties
+      key="Doc_en"
+      value="Functionality creation and management of educational content"/>
 </archimate:ApplicationFunction>

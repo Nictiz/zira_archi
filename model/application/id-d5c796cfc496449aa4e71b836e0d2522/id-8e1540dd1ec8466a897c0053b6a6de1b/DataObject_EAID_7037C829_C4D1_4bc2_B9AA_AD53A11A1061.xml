@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.FunctieZintuiglijkeWaarneming"
     id="EAID_7037C829_C4D1_4bc2_B9AA_AD53A11A1061"
-    documentation="! Let op: deze bouwsteen ondergaat momenteel een substantiele revisie. Een nieuwe versie zal na de zomer beschikbaar zijn.&#xA;Zintuiglijke waarneming, ook wel perceptie genoemd, is het proces van het verwerven, registreren, interpreteren, selecteren en ordenen van zintuiglijke informatie.&#xA;De waarneming treedt op bij het aanbieden van externe prikkels aan prikkel-specifieke receptoren, de zintuigen. Voorbeelden van prikkels zijn geuren, warmte en druk.&#xA;Het concept beperkt zich tot de functie van de zintuigen en eventuele stoornis van deze functie en omvat niet de interpretatie van de waarneming in de hersenen.&#xA;Voor de gehoorfunctie en visuele functie zijn aparte bouwstenen beschikbaar.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>! Let op: deze bouwsteen ondergaat momenteel een substantiele revisie. Een nieuwe versie zal na de zomer beschikbaar zijn.&#xA;Zintuiglijke waarneming, ook wel perceptie genoemd, is het proces van het verwerven, registreren, interpreteren, selecteren en ordenen van zintuiglijke informatie.&#xA;De waarneming treedt op bij het aanbieden van externe prikkels aan prikkel-specifieke receptoren, de zintuigen. Voorbeelden van prikkels zijn geuren, warmte en druk.&#xA;Het concept beperkt zich tot de functie van de zintuigen en eventuele stoornis van deze functie en omvat niet de interpretatie van de waarneming in de hersenen.&#xA;Voor de gehoorfunctie en visuele functie zijn aparte bouwstenen beschikbaar.&#xA;{&lt;/nl-NL>&lt;en-US>! Attention: this information model is undergoing major revision. A new version will be available after summer.&#xA;Sensory observation, also known as perception, is the process of obtaining, registering, interpreting, selecting and ordering sensory information. &#xA;The observation occurs when offering external stimuli to stimulus-specific receptors: the senses. Examples of stimuli include smells, heat and pressure. &#xA;The concept is limited to the function of the senses and any disorders of this function and does not include the interpretation of the observation in the brain. &#xA;Other information models are available for the hearing function and visual function.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.FunctieZintuiglijkeWaarneming"/>
+  <properties
+      key="Name_en"
+      value="SensoryObservationFunction"/>
+  <properties
+      key="Doc_nl"
+      value="&lt;font color= &quot;#ff0000&quot;>&lt;b>! Let op: deze bouwsteen ondergaat momenteel een substantiele revisie. Een nieuwe versie zal na de zomer beschikbaar zijn.&lt;/b>&lt;/font> Zintuiglijke waarneming, ook wel perceptie genoemd, is het proces van het verwerven, registrer"/>
+  <properties
+      key="Doc_en"
+      value="&lt;font color= &quot;#ff0000&quot;>&lt;b>! Attention: this information model is undergoing major revision. A new version will be available after summer.&lt;/b>&lt;/font> Sensory observation, also known as perception, is the process of obtaining, registering, interpreting, se"/>
+</archimate:DataObject>

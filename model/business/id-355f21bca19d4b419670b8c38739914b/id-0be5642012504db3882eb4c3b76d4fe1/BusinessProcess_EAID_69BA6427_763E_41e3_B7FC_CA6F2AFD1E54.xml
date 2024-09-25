@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voorlichten patiënt"
     id="EAID_69BA6427_763E_41e3_B7FC_CA6F2AFD1E54"
-    documentation="Aan de patiënt leveren van medisch-inhoudelijke en zorginformatie m.b.t. diens klachten of aandoening zowel tijdens een regulier consult als bijvoorbeeld op forums, bij patiëntverenigingen of via e-consult. Dit kan ook zijn op verzoek van de patiënt (bijvoorbeeld inzage in diens dossier)&#xA;&#xA;Dit is meer preventief dan bij informeren patient.">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Aan de patiënt leveren van medisch-inhoudelijke en zorginformatie m.b.t. diens klachten of aandoening zowel tijdens een regulier consult als bijvoorbeeld op forums, bij patiëntverenigingen of via e-consult. Dit kan ook zijn op verzoek van de patiënt (bijvoorbeeld inzage in diens dossier)&#xA;&#xA;Dit is meer preventief dan bij informeren patient.&lt;/nl-NL>&lt;en-US>Providing the patient with medical and healthcare information regarding their complaints or conditions.&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -12,4 +12,19 @@
   <properties
       key="showdecoration"
       value="true"/>
+  <properties
+      key="Name_nl"
+      value="Voorlichten patiënt"/>
+  <properties
+      key="Name_en"
+      value="Educate patient"/>
+  <properties
+      key="Doc_en"
+      value="Providing the patient with medical and healthcare information regarding their complaints or conditions."/>
+  <properties
+      key="Doc_nl"
+      value="Aan de patiënt leveren van medisch-inhoudelijke en zorginformatie m.b.t. diens klachten of aandoening zowel tijdens een regulier consult als bijvoorbeeld op forums, bij patiëntverenigingen of via e-consult. Dit kan ook zijn op verzoek van de patiënt (bijv"/>
+  <properties
+      key="Doc_nl1"
+      value="oorbeeld inzage in diens dossier) Dit is meer preventief dan bij informeren patient."/>
 </archimate:BusinessProcess>

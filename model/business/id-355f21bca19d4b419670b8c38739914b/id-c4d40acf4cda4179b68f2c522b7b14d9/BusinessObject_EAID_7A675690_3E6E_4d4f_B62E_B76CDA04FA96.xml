@@ -2,8 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Declaratie"
     id="EAID_7A675690_3E6E_4d4f_B62E_B76CDA04FA96"
-    documentation="Rekening voor de gemaakte kosten of geleverde diensten">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Rekening voor de gemaakte kosten of geleverde diensten&lt;/nl-NL>&lt;en-US>Account for costs incurred or services rendered&lt;/en-US>&lt;/languages>">
   <properties
       key="MAX::ID"
       value="2.16.840.1.113883.2.4.3.11.29.4.335"/>
+  <properties
+      key="Name_nl"
+      value="Declaratie"/>
+  <properties
+      key="Name_en"
+      value="Declaration"/>
+  <properties
+      key="Doc_nl"
+      value="Rekening voor de gemaakte kosten of geleverde diensten"/>
+  <properties
+      key="Doc_en"
+      value="Account for costs incurred or services rendered"/>
 </archimate:BusinessObject>

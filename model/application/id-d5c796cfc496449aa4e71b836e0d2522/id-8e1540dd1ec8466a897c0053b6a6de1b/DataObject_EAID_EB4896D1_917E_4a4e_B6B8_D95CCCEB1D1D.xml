@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.AlcoholGebruik"
     id="EAID_EB4896D1_917E_4a4e_B6B8_D95CCCEB1D1D"
-    documentation="Alcohol is in de context van deze bouwsteen de verzamelnaam voor alcoholische dranken die als genotsmiddel genuttigd worden. Deze bouwsteen beschrijft de bij de patiënt uitgevraagde gegevens over het gebruik van alcohol.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Alcohol is in de context van deze bouwsteen de verzamelnaam voor alcoholische dranken die als genotsmiddel genuttigd worden. Deze bouwsteen beschrijft de bij de patiënt uitgevraagde gegevens over het gebruik van alcohol.&#xA;{&lt;/nl-NL>&lt;en-US>In the context of this information model, alcohol is the collective term for alcoholic beverages consumed as a leisure product. This information model describes the information asked of the patient about their alcohol use.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.AlcoholGebruik"/>
+  <properties
+      key="Name_en"
+      value="AlcoholUse"/>
+  <properties
+      key="Doc_nl"
+      value="Alcohol is in de context van deze bouwsteen de verzamelnaam voor alcoholische dranken die als genotsmiddel genuttigd worden. Deze bouwsteen beschrijft de bij de patiënt uitgevraagde gegevens over het gebruik van alcohol. {"/>
+  <properties
+      key="Doc_en"
+      value="In the context of this information model, alcohol is the collective term for alcoholic beverages consumed as a leisure product. This information model describes the information asked of the patient about their alcohol use."/>
+</archimate:DataObject>

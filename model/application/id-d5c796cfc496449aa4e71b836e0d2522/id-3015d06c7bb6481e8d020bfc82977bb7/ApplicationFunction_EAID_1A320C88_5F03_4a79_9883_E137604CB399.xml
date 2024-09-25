@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Personeelbeheer"
     id="EAID_1A320C88_5F03_4a79_9883_E137604CB399"
-    documentation="Functionaliteit die het administreren en managen van medewerkers ondersteunt.">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Functionaliteit die het administreren en managen van medewerkers ondersteunt.&lt;/nl-NL>&lt;en-US>Functionality that supports the administration and management of employees.&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -15,4 +15,16 @@
   <properties
       key="MAX::ID"
       value="AF-132"/>
+  <properties
+      key="Name_nl"
+      value="Personeelbeheer"/>
+  <properties
+      key="Name_en"
+      value="Personnel management"/>
+  <properties
+      key="Doc_nl"
+      value="Functionaliteit die het administreren en managen van medewerkers ondersteunt."/>
+  <properties
+      key="Doc_en"
+      value="Functionality that supports the administration and management of employees."/>
 </archimate:ApplicationFunction>

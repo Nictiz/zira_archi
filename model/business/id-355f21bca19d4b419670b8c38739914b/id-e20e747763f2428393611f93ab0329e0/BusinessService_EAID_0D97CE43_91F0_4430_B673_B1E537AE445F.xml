@@ -5,4 +5,10 @@
   <properties
       key="MAX::ID"
       value="856"/>
+  <properties
+      key="Name_nl"
+      value="Bepalen Zorgbehoefte"/>
+  <properties
+      key="Name_en"
+      value="Determine healthcare needs"/>
 </archimate:BusinessService>

@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Gezinssituatie"
     id="EAID_32689E62_5253_4d7e_9F5F_7D99A8262F6C"
-    documentation="Traditioneel is een gezin gedefinieerd als een leefverband van een of meer volwassenen die verantwoordelijkheid dragen voor de verzorging en de opvoeding van een of meer kinderen.&#xA;Tegenwoordig wordt de term breder gebruikt voor alle samenlevingsvormen die een herkenbare sociale eenheid vormen, met al dan niet verwante personen die duurzame en affectieve banden hebben en elkaar onderling steun en verzorging verlenen.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Traditioneel is een gezin gedefinieerd als een leefverband van een of meer volwassenen die verantwoordelijkheid dragen voor de verzorging en de opvoeding van een of meer kinderen.&#xA;Tegenwoordig wordt de term breder gebruikt voor alle samenlevingsvormen die een herkenbare sociale eenheid vormen, met al dan niet verwante personen die duurzame en affectieve banden hebben en elkaar onderling steun en verzorging verlenen.&#xA;{&lt;/nl-NL>&lt;en-US>Traditionally, a family is defined as a group of people of one or more adults who carry responsibility for caring for and raising one or more children. &#xA;Currently, the term is used more broadly for all forms of cohabitation which form a recognizable social unit, of people who are or who are not related and who have long-lasting, affective bonds and provide each other with support and care.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Gezinssituatie"/>
+  <properties
+      key="Name_en"
+      value="FamilySituation"/>
+  <properties
+      key="Doc_nl"
+      value="Traditioneel is een gezin gedefinieerd als een leefverband van een of meer volwassenen die verantwoordelijkheid dragen voor de verzorging en de opvoeding van een of meer kinderen. Tegenwoordig wordt de term breder gebruikt voor alle samenlevingsvormen di"/>
+  <properties
+      key="Doc_en"
+      value="Traditionally, a family is defined as a group of people of one or more adults who carry responsibility for caring for and raising one or more children. Currently, the term is used more broadly for all forms of cohabitation which form a recognizable soci"/>
+  <properties
+      key="Doc_nl1"
+      value="e een herkenbare sociale eenheid vormen, met al dan niet verwante personen die duurzame en affectieve banden hebben en elkaar onderling steun en verzorging verlenen. {"/>
+  <properties
+      key="Doc_en1"
+      value="al unit, of people who are or who are not related and who have long-lasting, affective bonds and provide each other with support and care."/>
+</archimate:DataObject>

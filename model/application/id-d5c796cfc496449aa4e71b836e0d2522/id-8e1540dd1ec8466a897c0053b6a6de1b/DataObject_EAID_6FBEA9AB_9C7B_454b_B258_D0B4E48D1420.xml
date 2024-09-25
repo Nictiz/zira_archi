@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Taalvaardigheid"
     id="EAID_6FBEA9AB_9C7B_454b_B258_D0B4E48D1420"
-    documentation="Taalvaardigheid is het vermogen zich uit te drukken in een taal en mededelingen gedaan in die taal te begrijpen. Het gaat daarbij zowel om mondelinge als schriftelijke communicatie.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Taalvaardigheid is het vermogen zich uit te drukken in een taal en mededelingen gedaan in die taal te begrijpen. Het gaat daarbij zowel om mondelinge als schriftelijke communicatie.&#xA;{&lt;/nl-NL>&lt;en-US>Linguistic competence is the ability to express oneself in a certain language and understand statements made in that language. This includes both oral and written communication.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Taalvaardigheid"/>
+  <properties
+      key="Name_en"
+      value="LanguageProficiency"/>
+  <properties
+      key="Doc_nl"
+      value="Taalvaardigheid is het vermogen zich uit te drukken in een taal en mededelingen gedaan in die taal te begrijpen. Het gaat daarbij zowel om mondelinge als schriftelijke communicatie. {"/>
+  <properties
+      key="Doc_en"
+      value="Linguistic competence is the ability to express oneself in a certain language and understand statements made in that language. This includes both oral and written communication."/>
+</archimate:DataObject>

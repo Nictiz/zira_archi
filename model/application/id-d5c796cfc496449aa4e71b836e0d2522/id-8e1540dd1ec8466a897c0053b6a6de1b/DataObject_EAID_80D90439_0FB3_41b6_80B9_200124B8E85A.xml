@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.SondeSysteem"
     id="EAID_80D90439_0FB3_41b6_80B9_200124B8E85A"
-    documentation="Een sonde is een speciale katheter die gebruikt wordt om:&#xA;&#x9;- vloeibare voeding toe te dienen aan mensen die niet op een normale manier kunnen eten of drinken,&#xA;&#x9;- medicatie toe te dienen,&#xA;&#x9;- maagsap af te laten lopen (hevelen) of af te zuigen.&#xA;Sondes kunnen op verschillende wijzen ingebracht worden. Een sonde kan, via de neus, worden ingebracht in de maag of darm (duodenum, jejunum).  &#xA;Percutane endoscopische gastrostomie (PEG) is een techniek om een sondeslang in de maag te leggen via de buikwand. Deze dunne slang wordt gebruikt om een pati&amp;#235;nt te voeden die gedurende lange tijd geen voeding  op de normale wijze tot zich kan nemen (PEG-sonde).&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Een sonde is een speciale katheter die gebruikt wordt om:&#xA; - vloeibare voeding toe te dienen aan mensen die niet op een normale manier kunnen eten of drinken,&#xA; - medicatie toe te dienen,&#xA; - maagsap af te laten lopen (hevelen) of af te zuigen.&#xA;Sondes kunnen op verschillende wijzen ingebracht worden. Een sonde kan, via de neus, worden ingebracht in de maag of darm (duodenum, jejunum).  &#xA;Percutane endoscopische gastrostomie (PEG) is een techniek om een sondeslang in de maag te leggen via de buikwand. Deze dunne slang wordt gebruikt om een pati&amp;#235;nt te voeden die gedurende lange tijd geen voeding  op de normale wijze tot zich kan nemen (PEG-sonde).&#xA;{&lt;/nl-NL>&lt;en-US>A feeding tube is a special catheter used to: &#xA; - administer liquid food to people who are incapable of oral intake of food or liquid,&#xA; - administer medication,&#xA; - drain (siphon) or pump out gastric juice.&#xA;There are different ways to place a feeding tube. A feeding tube can be inserted through the nose, in the stomach or in the intestines (duodenum, jejunum). Percutaneous endoscopic gastrostomy (PEG) is a technique in which a feeding tube is placed into the stomach through the abdominal wall. This thin tube (PEG tube) is used to feed a patient who is incapable of oral food intake for a prolonged period of time.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.SondeSysteem"/>
+  <properties
+      key="Name_en"
+      value="FeedingTubeSystem"/>
+  <properties
+      key="Doc_nl"
+      value="Een sonde is een speciale katheter die gebruikt wordt om: &lt;ul> &lt;li>vloeibare voeding toe te dienen aan mensen die niet op een normale manier kunnen eten of drinken,&lt;/li> &lt;li>medicatie toe te dienen,&lt;/li> &lt;li>maagsap af te laten lopen (hevelen) of a"/>
+  <properties
+      key="Doc_en"
+      value="A feeding tube is a special catheter used to: &lt;ul> &lt;li>administer liquid food to people who are incapable of oral intake of food or liquid,&lt;/li> &lt;li>administer medication,&lt;/li> &lt;li>drain (siphon) or pump out gastric juice.&lt;/li> &lt;/ul> There are d"/>
+</archimate:DataObject>

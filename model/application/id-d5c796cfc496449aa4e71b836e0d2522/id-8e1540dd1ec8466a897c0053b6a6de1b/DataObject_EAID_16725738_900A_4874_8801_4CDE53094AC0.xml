@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Lichaamslengte"
     id="EAID_16725738_900A_4874_8801_4CDE53094AC0"
-    documentation="De lichaamslengte van een persoon.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>De lichaamslengte van een persoon.&#xA;{&lt;/nl-NL>&lt;en-US>A person's body height.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Lichaamslengte"/>
+  <properties
+      key="Name_en"
+      value="BodyHeight"/>
+  <properties
+      key="Doc_nl"
+      value="De lichaamslengte van een persoon. {"/>
+  <properties
+      key="Doc_en"
+      value="A person's body height."/>
+</archimate:DataObject>

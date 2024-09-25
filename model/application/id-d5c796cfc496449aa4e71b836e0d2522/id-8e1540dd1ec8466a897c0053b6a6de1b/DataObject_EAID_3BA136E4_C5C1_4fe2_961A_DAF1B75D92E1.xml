@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Burgerlijkestaat"
     id="EAID_3BA136E4_C5C1_4fe2_961A_DAF1B75D92E1"
-    documentation="Burgerlijke staat is de formele positie van een mens in de zin en betekenis van het burgerlijk wetboek. Te onderscheiden vallen huwelijkse staat en partnerregistratie (geregistreerd partnerschap).&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Burgerlijke staat is de formele positie van een mens in de zin en betekenis van het burgerlijk wetboek. Te onderscheiden vallen huwelijkse staat en partnerregistratie (geregistreerd partnerschap).&#xA;{&lt;/nl-NL>&lt;en-US>Marital status is a person's formal position as defined by the Dutch civil code. There is a distinction between marriage and civil union.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Burgerlijkestaat"/>
+  <properties
+      key="Name_en"
+      value="MaritalStatus"/>
+  <properties
+      key="Doc_nl"
+      value="Burgerlijke staat is de formele positie van een mens in de zin en betekenis van het burgerlijk wetboek. Te onderscheiden vallen huwelijkse staat en partnerregistratie (geregistreerd partnerschap). {"/>
+  <properties
+      key="Doc_en"
+      value="Marital status is a person's formal position as defined by the Dutch civil code. There is a distinction between marriage and civil union."/>
+</archimate:DataObject>

@@ -5,4 +5,10 @@
   <properties
       key="MAX::ID"
       value="860"/>
+  <properties
+      key="Name_nl"
+      value="Behandelplan"/>
+  <properties
+      key="Name_en"
+      value="Treatment plan"/>
 </archimate:BusinessService>

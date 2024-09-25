@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.HulpBijMedicatie"
     id="EAID_69F8332F_DDEE_48a3_8C62_099FB96A9CAE"
-    documentation="Hulp bij medicatie beschrijft de mate waarin de patiënt zelfstandig in staat is om medicatie te gebruiken en is een onderdeel van zelfverzorging. Het gaat hierbij uitsluitend om het aspect van zelfredzaamheid en niet om de specificatie van de medicatie.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Hulp bij medicatie beschrijft de mate waarin de patiënt zelfstandig in staat is om medicatie te gebruiken en is een onderdeel van zelfverzorging. Het gaat hierbij uitsluitend om het aspect van zelfredzaamheid en niet om de specificatie van de medicatie.&#xA;{&lt;/nl-NL>&lt;en-US>Help with medication describes the extent to which the patient is independently capable of using medication and is a part of self-care. This only concerns the aspect of independence and not the specifications of the medication.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.HulpBijMedicatie"/>
+  <properties
+      key="Name_en"
+      value="HelpWithMedication"/>
+  <properties
+      key="Doc_nl"
+      value="Hulp bij medicatie beschrijft de mate waarin de patiënt zelfstandig in staat is om medicatie te gebruiken en is een onderdeel van zelfverzorging. Het gaat hierbij uitsluitend om het aspect van zelfredzaamheid en niet om de specificatie van de medicatie."/>
+  <properties
+      key="Doc_en"
+      value="Help with medication describes the extent to which the patient is independently capable of using medication and is a part of self-care. This only concerns the aspect of independence and not the specifications of the medication."/>
+  <properties
+      key="Doc_nl1"
+      value="{"/>
+</archimate:DataObject>

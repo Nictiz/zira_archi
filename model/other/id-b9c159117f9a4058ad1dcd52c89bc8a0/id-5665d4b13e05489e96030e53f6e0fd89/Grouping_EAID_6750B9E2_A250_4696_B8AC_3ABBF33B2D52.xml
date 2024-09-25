@@ -5,4 +5,10 @@
   <properties
       key="SortKey"
       value="FA"/>
+  <properties
+      key="Name_nl"
+      value="CONNECTIVITEIT"/>
+  <properties
+      key="Name_en"
+      value="CONNECTIVITY"/>
 </archimate:Grouping>

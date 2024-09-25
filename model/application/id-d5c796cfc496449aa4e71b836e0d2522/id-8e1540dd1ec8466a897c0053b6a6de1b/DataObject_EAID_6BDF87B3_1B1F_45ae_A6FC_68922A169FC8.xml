@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Bloeddruk"
     id="EAID_6BDF87B3_1B1F_45ae_A6FC_68922A169FC8"
-    documentation="De bloeddruk is een parameter om de toestand van de bloedsomloop vast te leggen en wordt uitgedrukt in de systolische en diastolische druk in mmHg.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>De bloeddruk is een parameter om de toestand van de bloedsomloop vast te leggen en wordt uitgedrukt in de systolische en diastolische druk in mmHg.&#xA;{&lt;/nl-NL>&lt;en-US>The blood pressure is a parameter for determining the condition of the blood circulation and is expressed in systolic and diastolic pressure in mmHg.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Bloeddruk"/>
+  <properties
+      key="Name_en"
+      value="BloodPressure"/>
+  <properties
+      key="Doc_nl"
+      value="De bloeddruk is een parameter om de toestand van de bloedsomloop vast te leggen en wordt uitgedrukt in de systolische en diastolische druk in mmHg. {"/>
+  <properties
+      key="Doc_en"
+      value="The blood pressure is a parameter for determining the condition of the blood circulation and is expressed in systolic and diastolic pressure in mmHg."/>
+</archimate:DataObject>

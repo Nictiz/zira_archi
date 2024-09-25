@@ -2,4 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.OverdrachtValrisico"
     id="EAID_A0469A09_8A56_47a8_883A_613F93255906"
-    documentation="Vallen is de meest voorkomende oorzaak van letsel door een ongeval bij ouderen. Wanneer een patiënt eenmaal gevallen is, loopt hij een groter risico om opnieuw te vallen. Met de juiste aanpak kan het valrisico bij ouderen effectief verlaagd worden. &#xA; &#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Vallen is de meest voorkomende oorzaak van letsel door een ongeval bij ouderen. Wanneer een patiënt eenmaal gevallen is, loopt hij een groter risico om opnieuw te vallen. Met de juiste aanpak kan het valrisico bij ouderen effectief verlaagd worden. &#xA; &#xA;{&lt;/nl-NL>&lt;en-US>Falling is the most common cause of damage resulting from accidents among seniors. Once a patient has fallen, they run a higher risk of falling again. The right approach can effectively reduce the risk of falling among seniors.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.OverdrachtValrisico"/>
+  <properties
+      key="Name_en"
+      value="FallRisk"/>
+  <properties
+      key="Doc_nl"
+      value="Vallen is de meest voorkomende oorzaak van letsel door een ongeval bij ouderen. Wanneer een patiënt eenmaal gevallen is, loopt hij een groter risico om opnieuw te vallen. Met de juiste aanpak kan het valrisico bij ouderen effectief verlaagd worden. {"/>
+  <properties
+      key="Doc_en"
+      value="Falling is the most common cause of damage resulting from accidents among seniors. Once a patient has fallen, they run a higher risk of falling again. The right approach can effectively reduce the risk of falling among seniors."/>
+</archimate:DataObject>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Geven juridisch advies"
     id="EAID_BA893DF0_7EAE_4abe_AE31_336F88D83CF9"
-    documentation="Adviseren over het toepassen van juridisch beleid bijvoorbeeld m.b.t. medisch-ethische zaken en het juridisch ondersteunen bij de afhandeling van klachten en bezwaren.">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Adviseren over het toepassen van juridisch beleid bijvoorbeeld m.b.t. medisch-ethische zaken en het juridisch ondersteunen bij de afhandeling van klachten en bezwaren.&lt;/nl-NL>&lt;en-US>Advising on the application of legal policy, for example with regard to medical ethical matters and providing legal support in the settlement of complaints and objections.&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -12,4 +12,16 @@
   <properties
       key="showdecoration"
       value="true"/>
+  <properties
+      key="Name_nl"
+      value="Geven juridisch advies"/>
+  <properties
+      key="Name_en"
+      value="Provide legal advice"/>
+  <properties
+      key="Doc_nl"
+      value="Adviseren over het toepassen van juridisch beleid bijvoorbeeld m.b.t. medisch-ethische zaken en het juridisch ondersteunen bij de afhandeling van klachten en bezwaren."/>
+  <properties
+      key="Doc_en"
+      value="Advising on the application of legal policy, for example with regard to medical ethical matters and providing legal support in the settlement of complaints and objections."/>
 </archimate:BusinessProcess>

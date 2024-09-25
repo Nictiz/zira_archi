@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hosting servercapaciteit"
     id="EAID_B625CB90_9CED_4d4b_8928_7D9E76860CFC"
-    documentation="Functionaliteit t.b.v. het leveren van serverinfrastructuur (CPU power)">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Functionaliteit t.b.v. het leveren van serverinfrastructuur (CPU power)&lt;/nl-NL>&lt;en-US>Functionality for the provision of server infrastructure (CPU power)&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -15,4 +15,16 @@
   <properties
       key="MAX::ID"
       value="AF-172"/>
+  <properties
+      key="Name_nl"
+      value="Hosting servercapaciteit"/>
+  <properties
+      key="Name_en"
+      value="Hosting server capacity"/>
+  <properties
+      key="Doc_nl"
+      value="Functionaliteit t.b.v. het leveren van serverinfrastructuur (CPU power)"/>
+  <properties
+      key="Doc_en"
+      value="Functionality for the provision of server infrastructure (CPU power)"/>
 </archimate:ApplicationFunction>

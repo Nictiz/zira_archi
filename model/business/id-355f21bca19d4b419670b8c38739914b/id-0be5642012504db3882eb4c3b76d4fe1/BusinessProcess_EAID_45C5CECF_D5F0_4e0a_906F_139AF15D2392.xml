@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Controleren  wet- en regelgeving"
     id="EAID_45C5CECF_D5F0_4e0a_906F_139AF15D2392"
-    documentation="Verantwoording afleggen over de mate waarin voldaan wordt aan wet- en regelgeving (Compliancy).">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Verantwoording afleggen over de mate waarin voldaan wordt aan wet- en regelgeving (Compliancy).&lt;/nl-NL>&lt;en-US>To be accountable for compliance with applicable legislation and regulations.&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -12,4 +12,16 @@
   <properties
       key="showdecoration"
       value="true"/>
+  <properties
+      key="Name_nl"
+      value="Controleren  wet- en regelgeving"/>
+  <properties
+      key="Name_en"
+      value="Comply with laws and regulations"/>
+  <properties
+      key="Doc_nl"
+      value="Verantwoording afleggen over de mate waarin voldaan wordt aan wet- en regelgeving (Compliancy)."/>
+  <properties
+      key="Doc_en"
+      value="To be accountable for compliance with applicable legislation and regulations."/>
 </archimate:BusinessProcess>

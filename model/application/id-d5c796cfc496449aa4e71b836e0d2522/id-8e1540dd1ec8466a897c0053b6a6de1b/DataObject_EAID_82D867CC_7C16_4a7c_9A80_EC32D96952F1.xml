@@ -2,4 +2,23 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.Darmfunctie"
     id="EAID_82D867CC_7C16_4a7c_9A80_EC32D96952F1"
-    documentation="! Let op: deze bouwsteen ondergaat momenteel een substantiele revisie. Een nieuwe versie zal na de zomer beschikbaar zijn.&#xA;Een belangrijke functie van met name de endeldarm is de tijdelijke opslag van ontlasting en het uitscheiden hiervan, zodra daar een gelegenheid voor is. Verstoring van de darmfunctie kan leiden tot ontlastingsincontinentie en obstipatie.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>! Let op: deze bouwsteen ondergaat momenteel een substantiele revisie. Een nieuwe versie zal na de zomer beschikbaar zijn.&#xA;Een belangrijke functie van met name de endeldarm is de tijdelijke opslag van ontlasting en het uitscheiden hiervan, zodra daar een gelegenheid voor is. Verstoring van de darmfunctie kan leiden tot ontlastingsincontinentie en obstipatie.&#xA;{&lt;/nl-NL>&lt;en-US>! Attention: this information model is undergoing major revision. A new version will be available after summer.&#xA;An important function of the rectum in particular is the temporary storage and excretion of feces, at the moment there is cause to do so. Disrupting the bowel functions can lead to fecal incontinence and constipation.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.Darmfunctie"/>
+  <properties
+      key="Name_en"
+      value="BowerlFunction"/>
+  <properties
+      key="Doc_nl"
+      value="&lt;font color= &quot;#ff0000&quot;>&lt;b>! Let op: deze bouwsteen ondergaat momenteel een substantiele revisie. Een nieuwe versie zal na de zomer beschikbaar zijn.&lt;/b>&lt;/font> Een belangrijke functie van met name de endeldarm is de tijdelijke opslag van ontlasting en he"/>
+  <properties
+      key="Doc_en"
+      value="&lt;font color= &quot;#ff0000&quot;>&lt;b>! Attention: this information model is undergoing major revision. A new version will be available after summer.&lt;/b>&lt;/font> An important function of the rectum in particular is the temporary storage and excretion of feces, at the"/>
+  <properties
+      key="Doc_nl1"
+      value="t uitscheiden hiervan, zodra daar een gelegenheid voor is. Verstoring van de darmfunctie kan leiden tot ontlastingsincontinentie en obstipatie. {"/>
+  <properties
+      key="Doc_en1"
+      value="moment there is cause to do so. Disrupting the bowel functions can lead to fecal incontinence and constipation."/>
+</archimate:DataObject>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voorbereiden verzorging"
     id="EAID_AFCCC394_F27F_4e58_986C_382632D922C4"
-    documentation="Het verzamelen van de middelen die nodig zijn om op de zorgvraag te reageren.">
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Het verzamelen van de middelen die nodig zijn om op de zorgvraag te reageren.&lt;/nl-NL>&lt;en-US>Gathering the resources necessary to respond to the care request.&lt;/en-US>&lt;/languages>">
   <properties
       key="atomic"
       value="false"/>
@@ -15,4 +15,16 @@
   <properties
       key="showdecoration"
       value="true"/>
+  <properties
+      key="Name_nl"
+      value="Voorbereiden verzorging"/>
+  <properties
+      key="Name_en"
+      value="Prepare for care"/>
+  <properties
+      key="Doc_nl"
+      value="Het verzamelen van de middelen die nodig zijn om op de zorgvraag te reageren."/>
+  <properties
+      key="Doc_en"
+      value="Gathering the resources necessary to respond to the care request."/>
 </archimate:BusinessProcess>

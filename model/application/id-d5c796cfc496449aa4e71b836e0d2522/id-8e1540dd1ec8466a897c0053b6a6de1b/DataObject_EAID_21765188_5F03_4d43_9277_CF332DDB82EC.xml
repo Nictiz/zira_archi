@@ -2,4 +2,20 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="nl.zorg.ParticipatieInMaatschappij"
     id="EAID_21765188_5F03_4d43_9277_CF332DDB82EC"
-    documentation="Participatie in de maatschappij gaat in op deelname aan maatschappelijke activiteiten die pati&amp;#235;nt in het dagelijks leven onderneemt, zoals het uitoefenen van een beroep en hobby activiteiten. Daarnaast beschrijft participatie in de maatschappij het sociale netwerk van de pati&amp;#235;nt.&#xA;{"/>
+    documentation="&lt;languages xml:space=&quot;preserve&quot;>&lt;nl-NL>Participatie in de maatschappij gaat in op deelname aan maatschappelijke activiteiten die pati&amp;#235;nt in het dagelijks leven onderneemt, zoals het uitoefenen van een beroep en hobby activiteiten. Daarnaast beschrijft participatie in de maatschappij het sociale netwerk van de pati&amp;#235;nt.&#xA;{&lt;/nl-NL>&lt;en-US>Participation in society pertains to the patient's initiative to participate in social activities in daily life, such as practicing a profession and hobbies. Participation in society also describes the patient's social network.&lt;/en-US>&lt;/language>">
+  <properties
+      key="Name_nl"
+      value="nl.zorg.ParticipatieInMaatschappij"/>
+  <properties
+      key="Name_en"
+      value="ParticipationInSociety"/>
+  <properties
+      key="Doc_nl"
+      value="Participatie in de maatschappij gaat in op deelname aan maatschappelijke activiteiten die pati&amp;#235;nt in het dagelijks leven onderneemt, zoals het uitoefenen van een beroep en hobby activiteiten. Daarnaast beschrijft participatie in de maatschappij het s"/>
+  <properties
+      key="Doc_en"
+      value="Participation in society pertains to the patient's initiative to participate in social activities in daily life, such as practicing a profession and hobbies. Participation in society also describes the patient's social network."/>
+  <properties
+      key="Doc_nl1"
+      value="ociale netwerk van de pati&amp;#235;nt. {"/>
+</archimate:DataObject>

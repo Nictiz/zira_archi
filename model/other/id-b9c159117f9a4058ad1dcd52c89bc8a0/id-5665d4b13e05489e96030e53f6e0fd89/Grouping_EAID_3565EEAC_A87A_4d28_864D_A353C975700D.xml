@@ -5,4 +5,10 @@
   <properties
       key="SortKey"
       value="FC"/>
+  <properties
+      key="Name_nl"
+      value="IDENTITEIT, TOEGANG EN BEVEILIGING"/>
+  <properties
+      key="Name_en"
+      value="IDENTITY, ACCESS AND SECURITY"/>
 </archimate:Grouping>
