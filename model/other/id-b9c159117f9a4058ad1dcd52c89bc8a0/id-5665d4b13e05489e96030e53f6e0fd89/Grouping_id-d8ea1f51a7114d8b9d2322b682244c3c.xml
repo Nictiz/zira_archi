@@ -1,4 +1,11 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SAMENWERKING"
-    id="id-d8ea1f51a7114d8b9d2322b682244c3c"/>
+    id="id-d8ea1f51a7114d8b9d2322b682244c3c">
+  <properties
+      key="Name_en"
+      value="COLLABORATION"/>
+  <properties
+      key="Name_nl"
+      value="SAMENWERKING"/>
+</archimate:Grouping>

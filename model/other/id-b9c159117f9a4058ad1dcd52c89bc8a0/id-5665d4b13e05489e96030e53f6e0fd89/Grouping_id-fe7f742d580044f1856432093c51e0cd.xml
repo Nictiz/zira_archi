@@ -1,4 +1,11 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ONDERZOEK"
-    id="id-fe7f742d580044f1856432093c51e0cd"/>
+    id="id-fe7f742d580044f1856432093c51e0cd">
+  <properties
+      key="Name_en"
+      value="RESEARCH"/>
+  <properties
+      key="Name_nl"
+      value="ONDERZOEK"/>
+</archimate:Grouping>

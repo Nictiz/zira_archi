@@ -1,4 +1,11 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BEDRIJFSONDERSTEUNING"
-    id="id-3bfeff3c03ee4842a554af69544370cb"/>
+    id="id-3bfeff3c03ee4842a554af69544370cb">
+  <properties
+      key="Name_en"
+      value="BUSINESS SUPPORT"/>
+  <properties
+      key="Name_nl"
+      value="BEDRIJFSONDERSTEUNING"/>
+</archimate:Grouping>

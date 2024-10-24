@@ -1,4 +1,11 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="STURING"
-    id="id-84da1ba3f4a8472e8872f1582d566879"/>
+    id="id-84da1ba3f4a8472e8872f1582d566879">
+  <properties
+      key="Name_en"
+      value="MANAGEMENT"/>
+  <properties
+      key="Name_nl"
+      value="STURING"/>
+</archimate:Grouping>

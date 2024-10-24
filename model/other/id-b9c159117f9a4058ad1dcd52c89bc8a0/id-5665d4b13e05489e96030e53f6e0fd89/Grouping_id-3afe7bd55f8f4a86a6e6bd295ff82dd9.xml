@@ -1,4 +1,11 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ZORG"
-    id="id-3afe7bd55f8f4a86a6e6bd295ff82dd9"/>
+    id="id-3afe7bd55f8f4a86a6e6bd295ff82dd9">
+  <properties
+      key="Name_en"
+      value="CARE"/>
+  <properties
+      key="Name_nl"
+      value="ZORG"/>
+</archimate:Grouping>
