@@ -1,0 +1,20 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Diagnosticeren (bp) (copy)"
+    id="id-b7f2c7b06b794b3f957bb1d9a1e2791c">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="850"/>
+  <properties
+      key="Name_nl"
+      value="Diagnosticeren (bp)"/>
+  <properties
+      key="Name_en"
+      value="Diagnose"/>
+</archimate:BusinessProcess>

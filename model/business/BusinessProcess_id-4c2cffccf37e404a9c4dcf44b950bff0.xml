@@ -1,0 +1,20 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeren aanvullend Onderzoek (bp) (copy)"
+    id="id-4c2cffccf37e404a9c4dcf44b950bff0">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="851"/>
+  <properties
+      key="Name_nl"
+      value="Uitvoeren aanvullend Onderzoek (bp)"/>
+  <properties
+      key="Name_en"
+      value="Conduct additional diagnostic testing"/>
+</archimate:BusinessProcess>

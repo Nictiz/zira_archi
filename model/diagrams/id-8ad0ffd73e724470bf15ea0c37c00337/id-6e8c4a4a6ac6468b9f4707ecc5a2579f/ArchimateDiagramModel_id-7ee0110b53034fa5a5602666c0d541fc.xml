@@ -1,0 +1,46 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Bedrijfsproces Leeg"
+    id="id-7ee0110b53034fa5a5602666c0d541fc">
+  <children
+      xsi:type="archimate:DiagramModelGroup"
+      id="id-ba18f0bda77344c592ea0c3f26481ea9"
+      name="Group"
+      lineWidth="2"
+      textAlignment="1"
+      alpha="0"
+      textPosition="1"
+      borderType="1">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <features
+        name="labelExpression"
+        value=" "/>
+    <bounds
+        x="28"
+        y="10"
+        width="1361"
+        height="781"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-ee628e565ca44f24aafdef7498b4daa3"
+      textPosition="1">
+    <features
+        name="deriveElementLineColor"
+        value="false"/>
+    <features
+        name="labelExpression"
+        value="Terug naar procesmodel"/>
+    <bounds
+        x="70"
+        y="32"
+        width="190"
+        height="80"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-cb10b852acfe41d5bb1af67f66d7e2fd.xml#id-cb10b852acfe41d5bb1af67f66d7e2fd"/>
+  </children>
+</archimate:ArchimateDiagramModel>

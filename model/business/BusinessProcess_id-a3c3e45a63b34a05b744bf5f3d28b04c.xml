@@ -1,0 +1,20 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Overdragen (bp) (copy)"
+    id="id-a3c3e45a63b34a05b744bf5f3d28b04c">
+  <properties
+      key="atomic"
+      value="false"/>
+  <properties
+      key="showdecoration"
+      value="true"/>
+  <properties
+      key="MAX::ID"
+      value="855"/>
+  <properties
+      key="Name_nl"
+      value="Overdragen (bp)"/>
+  <properties
+      key="Name_en"
+      value="Transfer"/>
+</archimate:BusinessProcess>

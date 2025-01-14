@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Diagnostisch therapeutische cyclus"
+    id="id-694e7b493c944b9ab2e4402e10a3ec49">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f802c94e92084a058794ce60cfeee877.xml#id-f802c94e92084a058794ce60cfeee877"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-5353061db2a842eb836b25e71e1e3d5c.xml#id-5353061db2a842eb836b25e71e1e3d5c"/>
+</archimate:FlowRelationship>
