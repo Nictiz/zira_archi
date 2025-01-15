@@ -1550,5 +1550,6 @@
         href="Grouping_id-ab861a748b7f4299a568f966b56481d6.xml#id-ab861a748b7f4299a568f966b56481d6"/>
   </children>
   <properties
-      key="English"/>
+      key="English"
+      value="yes"/>
 </archimate:ArchimateDiagramModel>
