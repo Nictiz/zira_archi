@@ -3,6 +3,12 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Diagnostisch therapeutische cyclus"
     id="id-e08d4cbda0024d66b631f48329338849">
+  <properties
+      key="Name_nl"
+      value="Diagnostisch therapeutische cyclus"/>
+  <properties
+      key="Name_en"
+      value="Diagnostic therapeutic cycle"/>
   <source
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_EAID_33C0219E_B8F5_4e54_A55D_3CDEBCE47643.xml#EAID_33C0219E_B8F5_4e54_A55D_3CDEBCE47643"/>

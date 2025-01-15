@@ -29,6 +29,9 @@
         targetConnections="id-fcda62945ce04bdd8823ecb12e14a033"
         textPosition="1"
         type="1">
+      <features
+          name="labelExpression"
+          value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
       <bounds
           x="361"
           y="30"
@@ -41,6 +44,9 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5caeac2aa768471e80fbd83eb1a313a8">
+      <features
+          name="labelExpression"
+          value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-fcda62945ce04bdd8823ecb12e14a033"
@@ -77,6 +83,9 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-c9a11928855648d6bbbcd4b2976d0be7"
           targetConnections="id-45ca54cb754c41e48004b3e0c126ab39">
+        <features
+            name="labelExpression"
+            value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-d802d62697cb46e497f54ba5370e0ac3"
@@ -114,6 +123,9 @@
             id="id-b0b79ab5d18941e3805573b2ed72eccd"
             targetConnections="id-70561b4153cb4e1a88fbf087bfd6a52e"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="id-8654a95da6234627b42791a0835529ea"
@@ -137,6 +149,9 @@
             id="id-8c9ad013cf9b496d85f3669cda46741c"
             targetConnections="id-8654a95da6234627b42791a0835529ea id-2d4c9ba88a344ca0a5947e4611c4e9f8"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="400"
               y="50"
@@ -154,6 +169,9 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-ffca010680ca437a890f63fb4c269c55"
           targetConnections="id-d802d62697cb46e497f54ba5370e0ac3 id-a5f23f02084745baa649bc47d8e8b12a">
+        <features
+            name="labelExpression"
+            value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-e96bfa3014fa4637859508449e4b7d79"
@@ -191,6 +209,9 @@
             id="id-b95925e5825445209dd3cb64e62e1b41"
             targetConnections="id-e96bfa3014fa4637859508449e4b7d79"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="id-b22c47d9324940d5967abfd029d50747"
@@ -214,6 +235,9 @@
             id="id-56ea4a554f194d1baf5e8672463dcc38"
             targetConnections="id-b22c47d9324940d5967abfd029d50747 id-7bf9d1e9a6db444fa596be37ee11100a"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="id-b23060316fb743a5a776421aa6c794b4"
@@ -237,6 +261,9 @@
             id="id-e6c79c6db8454140830ad9d1b7afeace"
             targetConnections="id-b23060316fb743a5a776421aa6c794b4 id-93e78f56bdff4bc59836e5b97a7d4b5d"
             textPosition="1">
+          <features
+              name="labelExpression"
+              value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="520"
               y="50"
@@ -263,7 +290,7 @@
           value="false"/>
       <features
           name="labelExpression"
-          value="Terug naar procesmodel"/>
+          value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
       <bounds
           x="40"
           y="30"
@@ -274,4 +301,9 @@
           href="ArchimateDiagramModel_id-cb10b852acfe41d5bb1af67f66d7e2fd.xml#id-cb10b852acfe41d5bb1af67f66d7e2fd"/>
     </children>
   </children>
+  <properties
+      key="English"/>
+  <properties
+      key="English"/>
+  <properties/>
 </archimate:ArchimateDiagramModel>
