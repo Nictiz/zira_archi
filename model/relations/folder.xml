@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Relations"
     id="id-af09769b320946138fdb82e2da900038"
-    type="relations"/>
+    type="relations">
+  <properties
+      key="_hide_from_export_"
+      value="true"/>
+</archimate:Folder>

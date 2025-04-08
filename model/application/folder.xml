@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application"
     id="id-e4b010f91e8d4605b93145ff1a62e390"
-    type="application"/>
+    type="application">
+  <properties
+      key="_hide_from_export_"
+      value="true"/>
+</archimate:Folder>

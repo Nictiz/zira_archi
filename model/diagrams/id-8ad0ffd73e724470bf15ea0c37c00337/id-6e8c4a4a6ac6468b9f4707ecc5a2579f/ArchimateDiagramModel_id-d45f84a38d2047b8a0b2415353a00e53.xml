@@ -31,7 +31,7 @@
         type="1">
       <features
           name="labelExpression"
-          value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
+          value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
       <bounds
           x="361"
           y="30"
@@ -46,7 +46,7 @@
         id="id-5caeac2aa768471e80fbd83eb1a313a8">
       <features
           name="labelExpression"
-          value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
+          value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-fcda62945ce04bdd8823ecb12e14a033"
@@ -85,7 +85,7 @@
           targetConnections="id-45ca54cb754c41e48004b3e0c126ab39">
         <features
             name="labelExpression"
-            value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-d802d62697cb46e497f54ba5370e0ac3"
@@ -125,7 +125,7 @@
             textPosition="1">
           <features
               name="labelExpression"
-              value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="id-8654a95da6234627b42791a0835529ea"
@@ -151,7 +151,7 @@
             textPosition="1">
           <features
               name="labelExpression"
-              value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="400"
               y="50"
@@ -171,7 +171,7 @@
           targetConnections="id-d802d62697cb46e497f54ba5370e0ac3 id-a5f23f02084745baa649bc47d8e8b12a">
         <features
             name="labelExpression"
-            value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-e96bfa3014fa4637859508449e4b7d79"
@@ -211,7 +211,7 @@
             textPosition="1">
           <features
               name="labelExpression"
-              value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="id-b22c47d9324940d5967abfd029d50747"
@@ -237,7 +237,7 @@
             textPosition="1">
           <features
               name="labelExpression"
-              value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <sourceConnections
               xsi:type="archimate:DiagramModelArchimateConnection"
               id="id-b23060316fb743a5a776421aa6c794b4"
@@ -263,7 +263,7 @@
             textPosition="1">
           <features
               name="labelExpression"
-              value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="520"
               y="50"
@@ -290,7 +290,7 @@
           value="false"/>
       <features
           name="labelExpression"
-          value="${if:$view{property:English}:${property:Name_en}:${property:Name_nl}}"/>
+          value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
       <bounds
           x="40"
           y="30"
@@ -301,9 +301,4 @@
           href="ArchimateDiagramModel_id-cb10b852acfe41d5bb1af67f66d7e2fd.xml#id-cb10b852acfe41d5bb1af67f66d7e2fd"/>
     </children>
   </children>
-  <properties
-      key="English"/>
-  <properties
-      key="English"/>
-  <properties/>
 </archimate:ArchimateDiagramModel>
