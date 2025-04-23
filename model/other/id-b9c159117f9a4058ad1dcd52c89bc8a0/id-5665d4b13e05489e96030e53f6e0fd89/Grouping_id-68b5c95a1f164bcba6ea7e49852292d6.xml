@@ -1,4 +1,11 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zorglogistiek"
-    id="id-68b5c95a1f164bcba6ea7e49852292d6"/>
+    id="id-68b5c95a1f164bcba6ea7e49852292d6">
+  <properties
+      key="Name_en"
+      value="Care logistics"/>
+  <properties
+      key="Name_nl"
+      value="Zorglogistiek"/>
+</archimate:Grouping>

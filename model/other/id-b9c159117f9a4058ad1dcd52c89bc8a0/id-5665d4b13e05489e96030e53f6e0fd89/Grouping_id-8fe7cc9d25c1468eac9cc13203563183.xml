@@ -1,4 +1,11 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Zorgfacturatie"
-    id="id-8fe7cc9d25c1468eac9cc13203563183"/>
+    id="id-8fe7cc9d25c1468eac9cc13203563183">
+  <properties
+      key="Name_en"
+      value="Care billing"/>
+  <properties
+      key="Name_nl"
+      value="Zorgfacturatie"/>
+</archimate:Grouping>

@@ -1,4 +1,11 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verwijzing en overdracht"
-    id="id-121cd2a08e0c4930a1018d5f4b9abcd2"/>
+    id="id-121cd2a08e0c4930a1018d5f4b9abcd2">
+  <properties
+      key="Name_en"
+      value="Referrals &amp; Transfers"/>
+  <properties
+      key="Name_nl"
+      value="Verwijzing en overdracht"/>
+</archimate:Grouping>

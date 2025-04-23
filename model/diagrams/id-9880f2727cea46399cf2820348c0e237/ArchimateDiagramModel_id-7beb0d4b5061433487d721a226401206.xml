@@ -7,6 +7,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-746470fee2a042d9bbc93a3b62b1c04c"
       textAlignment="1">
+    <features
+        name="labelExpression"
+        value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-2dcda35e3f264ce6a620878843017d49"
@@ -62,6 +65,9 @@
         id="id-4cf238d0eb6e4f5fb20d1614210989dc"
         targetConnections="id-0615ab0ce2a64acdb4be1206c7155987"
         textAlignment="1">
+      <features
+          name="labelExpression"
+          value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-2f61f6b3634144908badf08c1b57fe9c"
@@ -99,6 +105,9 @@
           id="id-03cd4c2a565e41279d76b74060300fa6"
           targetConnections="id-c6d4682784834f62876df37249ab2a06"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-8eeb7caedc824fd3acce9d5caa091c61"
@@ -171,6 +180,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-0aab5cc5c77a4663a1908d534a34c8df"
             targetConnections="id-8eeb7caedc824fd3acce9d5caa091c61">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="19"
               y="27"
@@ -184,6 +196,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-69896ca2b5464733b854220139ea535c"
             targetConnections="id-921c99028e184878959eb471badb4a28">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="19"
               y="96"
@@ -197,6 +212,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-d0a122b50f384f2fa8bc5770331b1eda"
             targetConnections="id-91e1dc5eba124cab8c999b2443db9bf7">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="27"
@@ -210,6 +228,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-b6c39a71424a4239a4046aa3aec172a2"
             targetConnections="id-91c4dbc8f1c64a13bc5a69ceb19fcba5">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="96"
@@ -223,6 +244,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-d3d54156b3c149f5b08dfdd674c475eb"
             targetConnections="id-b4483dadac344714851828ea7004b55d">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="288"
               y="27"
@@ -236,6 +260,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-beffa88fb9e645c5af76073a6ee22273"
             targetConnections="id-4f91bbcc0592472ea61c72df01891bf1">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="420"
               y="96"
@@ -249,6 +276,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-42a23a4f932c46929b4fa1af37059bd7"
             targetConnections="id-b18466c9f90648cda2a5cf2625bb9a75">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="288"
               y="96"
@@ -267,6 +297,9 @@
           id="id-c34461c9daaf49f1893a99ef8391e1fe"
           targetConnections="id-2f61f6b3634144908badf08c1b57fe9c"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-2d744400a3344fd394cc46fdd5178400"
@@ -294,6 +327,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-6423e285ac584df3b7bf2b15aea1ff85"
             targetConnections="id-2d744400a3344fd394cc46fdd5178400">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="12"
               y="36"
@@ -307,6 +343,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-4016369a31654ea18b6f0fc53138d5a0"
             targetConnections="id-2ff544e018da462fb5624eca16cc926b">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="144"
               y="36"
@@ -325,6 +364,9 @@
           id="id-99161750708343c494e2b10160744760"
           targetConnections="id-ffa43890cf464ceba42319fe6dc5c1a8"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-6c4d11b513944080931c3527fe9d0f62"
@@ -415,6 +457,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-9c28317b238b48afbbfd641b9814679f"
             targetConnections="id-6c4d11b513944080931c3527fe9d0f62">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="12"
               y="24"
@@ -428,6 +473,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-ed58c6c8d77040ada5e53a0c760d8c1c"
             targetConnections="id-cc4bd7cd637b40f3b82152fa7cc863cc">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="12"
               y="96"
@@ -441,6 +489,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-caec24cfdf114526b6d09e425325fdbf"
             targetConnections="id-19466b8b968d49e6b5a87f92b0193fdc">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="144"
               y="96"
@@ -454,6 +505,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-8eae034cc64f42db8d22a8b1ea55ae76"
             targetConnections="id-e0e16c9c7a3e45a8a244b0e99add9ff7">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="144"
               y="24"
@@ -467,6 +521,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-84cf7b71f73a4c40ab3602e745eea155"
             targetConnections="id-8b5284b1771f45f4bafef09ec66a2943">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="276"
               y="24"
@@ -480,6 +537,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-52a949297dba47d09d8b1e5d4a106e41"
             targetConnections="id-c3dad21a619648c6b451c99e33ca088a">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="276"
               y="96"
@@ -493,6 +553,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-00532bac3a9249dbb52c2c12c1b83a27"
             targetConnections="id-1a0af1acfe8549e0aa99261ef77b4cf3">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="408"
               y="24"
@@ -506,6 +569,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-e84afd323c5d4f0ea64301f1cfda9c49"
             targetConnections="id-bb37076a208f480e963bd7898dfacd47">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="408"
               y="96"
@@ -519,6 +585,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-79260122622d47c89d05c5561ae0b18f"
             targetConnections="id-baa7b04aa65740d986c979d4024c963d">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="540"
               y="24"
@@ -541,6 +610,9 @@
         id="id-7485fa3bd59744d193d3204fb9c1d1fd"
         targetConnections="id-e21ff5e2e3b0442e8f752ef82b61c8c8"
         textAlignment="1">
+      <features
+          name="labelExpression"
+          value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-58b7baf7063143689a63a6774e6d9b0c"
@@ -578,6 +650,9 @@
           id="id-85436938cbc54c569906b5b64102be84"
           targetConnections="id-e4d89da3dad2400dab810040d40a4718"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-764ba27d38984a31b87c4df9fb53191a"
@@ -740,6 +815,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-b40ddeeff0904313afd9c071f63d524d"
             targetConnections="id-764ba27d38984a31b87c4df9fb53191a">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="12"
               y="24"
@@ -753,6 +831,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-3f6a2685b3a045eea859440cd0ef0ee7"
             targetConnections="id-28204d1bbc3842dbb78a4cf7d134644a">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="12"
               y="96"
@@ -766,6 +847,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-60414645039a4c0e81f0f114cb6bdcfe"
             targetConnections="id-3bf553a4bd2b403b9d9d841743a02a59">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="12"
               y="240"
@@ -779,6 +863,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-4b5c3722f0d240eea6cb2f2452afb6a4"
             targetConnections="id-ac181c1e846245c392a55ce4589396c1">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="12"
               y="168"
@@ -792,6 +879,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-d377353ae80844e08556ae8c60c1a870"
             targetConnections="id-c9acb90c6c464a40a447779a34b6f502">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="12"
               y="312"
@@ -805,6 +895,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-8c943f4878ce41fcb4607ee2cde4eb75"
             targetConnections="id-0f394ffd7171484f87edb17db3b3f976">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="12"
               y="384"
@@ -818,6 +911,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-576461e58d614be287bc4f60cc4c18f4"
             targetConnections="id-69c65bdbfac749bbbdde40707efdadea">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="168"
               y="24"
@@ -831,6 +927,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-7533c0f891fd4fca82c4f25dedf9dcbe"
             targetConnections="id-97deedda36194fd990d03ce38c110c5b">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="168"
               y="96"
@@ -844,6 +943,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-6bc2f715d8464d609000a595db5683d3"
             targetConnections="id-8c72d51f8f974af595a3b33098d3c246">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="168"
               y="384"
@@ -857,6 +959,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-97fa2db39b6647c69d837558ed1fcb92"
             targetConnections="id-64df8164e885437ab13167d6f556956a">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="312"
               y="168"
@@ -870,6 +975,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-bdd1b7d689e24378aca50b01e0d90c38"
             targetConnections="id-e0901cd7a02f43d680acc4ad5aed95e8">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="312"
               y="312"
@@ -883,6 +991,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-4a99d72afa2047ba8d3e866a353c1fa5"
             targetConnections="id-7c09249f15704afebdf1f9a58c008607">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="168"
               y="312"
@@ -896,6 +1007,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-760dd56d1ac0484cb3bc38a94c38e7c6"
             targetConnections="id-c76d556c6b57439f871a36fcc3875d1f">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="168"
               y="168"
@@ -909,6 +1023,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-21fc01f0fdf4484ca1ab2c97e075cdcc"
             targetConnections="id-45dd9e0370444c0e8f7ab46624523b86">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="312"
               y="24"
@@ -922,6 +1039,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-c94f1485f7f14e83bb917b27b7f635c5"
             targetConnections="id-2f6d1accafd04522a0ecd150c44ee7d8">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="312"
               y="96"
@@ -935,6 +1055,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-c4148ca454354e3f825d31b2a3cbb258"
             targetConnections="id-33e818492bb649b0aff4897efe6a265d">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="312"
               y="240"
@@ -948,6 +1071,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-8b4054224e5b4f64876d1e6db8effbee"
             targetConnections="id-846e257246c64d23ba95b2733247d23c">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="168"
               y="240"
@@ -966,6 +1092,9 @@
           id="id-d7a4ce54ab364aeb9ba52a7594e3886e"
           targetConnections="id-58b7baf7063143689a63a6774e6d9b0c"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-9803d00d6218427bb4f1bbd7cbfce61a"
@@ -993,6 +1122,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-71447450f45d412a961c9ded35484ab0"
             targetConnections="id-9803d00d6218427bb4f1bbd7cbfce61a">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="36"
               y="24"
@@ -1006,6 +1138,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-72034022772440eda3c7396850ed62cd"
             targetConnections="id-8f766fce13ff4701abc8eeb120f987f6">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="36"
               y="96"
@@ -1024,6 +1159,9 @@
           id="id-24eddb6dbd0e4448a2d0cd92d9ca0963"
           targetConnections="id-b9e1dac702df4a04b38a1f6a249edba9"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-04c9b5b1c2324bbb8b35f99d4c15257f"
@@ -1060,6 +1198,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-e5204bf81afa4c3682b60b31920aca0a"
             targetConnections="id-04c9b5b1c2324bbb8b35f99d4c15257f">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="36"
               y="108"
@@ -1073,6 +1214,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-bc4ab77838ce434999ddf48724dd1033"
             targetConnections="id-ef14c6df81924971b519013591b52b68">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="36"
               y="34"
@@ -1086,6 +1230,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-64f2dca1d5614f1da9d033579f3407e3"
             targetConnections="id-67fe39b663c64f15bfb6cd1ef89a343e">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="36"
               y="180"
@@ -1108,6 +1255,9 @@
         id="id-680b112fea6347d3927ae3aa72733416"
         targetConnections="id-5b4d4819694c475eb6d26119c4c1145b"
         textAlignment="1">
+      <features
+          name="labelExpression"
+          value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-6032f28cc52740ad8a34afbe817f04ad"
@@ -1127,6 +1277,9 @@
           id="id-397fbbb1fbc24572aac2b29a9c7086b6"
           targetConnections="id-6032f28cc52740ad8a34afbe817f04ad"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-9c18547755854b9e986b0ce7ef43cf9e"
@@ -1181,6 +1334,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-9b3e7d5fa3b643b59743fa3a6910239d"
             targetConnections="id-2531926625da4b5e985182daa43b801e">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="96"
               y="21"
@@ -1194,6 +1350,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-e48616c0cfd249a3866f4f09cf068f0f"
             targetConnections="id-e492fb9c3367470e83fe9310670480af">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="576"
               y="21"
@@ -1207,6 +1366,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-6845db9840a248c395945fe212240275"
             targetConnections="id-66a0fd1f07084fc5a11abbf76d47663a">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="1140"
               y="21"
@@ -1220,6 +1382,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-d8597f3b4a044506a21dbe19f00d98b7"
             targetConnections="id-fdedef2bffb64561b327abb40f325e05">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="324"
               y="21"
@@ -1233,6 +1398,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-f0445f5cf1ad49749d9b515baba5b536"
             targetConnections="id-9c18547755854b9e986b0ce7ef43cf9e">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="828"
               y="21"
@@ -1255,6 +1423,9 @@
         id="id-b920f62558ca42838ff80440ff790618"
         targetConnections="id-2dcda35e3f264ce6a620878843017d49"
         textAlignment="1">
+      <features
+          name="labelExpression"
+          value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-75ca9e268f934799a57690be300b8ee0"
@@ -1310,6 +1481,9 @@
           id="id-f869ce8d6a6345c4a7a24ab38e89b34c"
           targetConnections="id-64ae1094c06d4e38b2ddcedbf95582ef"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-56ef410c873340109383cfb32a8aa3fb"
@@ -1346,6 +1520,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-7ecb7e21a00a45a38b3e19151696c0da"
             targetConnections="id-56ef410c873340109383cfb32a8aa3fb">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="12"
               y="36"
@@ -1359,6 +1536,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-96b32bd76ce9427c86fad6437ece6f1b"
             targetConnections="id-ae184fd0dcba467d8a6bb851a3819824">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="12"
               y="96"
@@ -1372,6 +1552,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-84dcbdb4137741b684a34fb3aae1682a"
             targetConnections="id-9bcb5880506e4c45a1c18647f400ba3e">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="144"
               y="36"
@@ -1390,6 +1573,9 @@
           id="id-75d5a5cc8aaf4790bfae8aa3d04f09dd"
           targetConnections="id-810a235025294c66b824c0decead4dba"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-923e0fb98eae413fab54b03a9547c8d3"
@@ -1444,6 +1630,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-134e8025c5494d66bbaa64c656798476"
             targetConnections="id-923e0fb98eae413fab54b03a9547c8d3">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="12"
               y="36"
@@ -1457,6 +1646,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-ca0deef303b74459adc3109ee98a5ad6"
             targetConnections="id-c1e4eca26921493fa91bc677fd32dc41">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="12"
               y="96"
@@ -1470,6 +1662,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-1c58cc6ba5bc48748d798bf70d9c54f2"
             targetConnections="id-deb2ff03bea14c58bc2473f24bab9d87">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="144"
               y="96"
@@ -1483,6 +1678,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-79d943cb33f245339c3b19e271548e7b"
             targetConnections="id-3919fba63419451aa0555e587d561db5">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="144"
               y="36"
@@ -1496,6 +1694,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-6c0e34038f6140fe960451aa5b0606c0"
             targetConnections="id-eaf7ed6222e245008ebb15e8faba8cad">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="276"
               y="36"
@@ -1514,6 +1715,9 @@
           id="id-f984e2318d4d4f8ea4ce2e5080416403"
           targetConnections="id-75ca9e268f934799a57690be300b8ee0"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-0148ed3b2444454db6ccbbfe9f313b05"
@@ -1568,6 +1772,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-e308c009f64549269a8d7910be2dd162"
             targetConnections="id-0148ed3b2444454db6ccbbfe9f313b05">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="36"
@@ -1581,6 +1788,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-b4850b9546c24e82b023146ad0eeff75"
             targetConnections="id-1d991e551bed4ec88c777d1e71a99b86">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="97"
@@ -1594,6 +1804,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-9896f4a0ae1d46a9a1d43e109e4c43d6"
             targetConnections="id-942e15ff44b94c43bb06ed8344cc5d39">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="36"
@@ -1607,6 +1820,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-8a21ef0f0509478593db0eb9c6e9c0dd"
             targetConnections="id-8a6e53051aec41adae8db92c25694df3">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="97"
@@ -1620,6 +1836,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-472b7bcd047e41eb99d0d8c6a1ffd1db"
             targetConnections="id-bb740215bf5d46f7be7ad53725ce533c">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="288"
               y="36"
@@ -1638,6 +1857,9 @@
           id="id-05e3e9034a4846d9aa5a08aec3f62b51"
           targetConnections="id-60eab9ca968b44838ff71167eeeb0c4f"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-6734f83562bc4614882ebad41cafd69f"
@@ -1665,6 +1887,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-6ae305fcb1ae447b97c508a11209e2ef"
             targetConnections="id-6734f83562bc4614882ebad41cafd69f">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="36"
@@ -1678,6 +1903,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-2c9866245e474d3b98b705196e91a425"
             targetConnections="id-74ac27efc4f14b65bc65d4ada6b95907">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="96"
@@ -1696,6 +1924,9 @@
           id="id-46f53aab677c4c76ba9d4a169bb386f1"
           targetConnections="id-faceb209cf8246fc96f65aeebf5572a5"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-e56e92668eae4161b6b863d3cc11746d"
@@ -1723,6 +1954,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-7152a6fed93f44e2b5f445bfc940d67d"
             targetConnections="id-e56e92668eae4161b6b863d3cc11746d">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="36"
@@ -1736,6 +1970,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-9812f7c4c31946588ea9f4c209087688"
             targetConnections="id-004247b11d7a47038deafeaffadd901c">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="96"
@@ -1758,6 +1995,9 @@
         id="id-aa01e4bc4ade4be58ffe46ac13d66b00"
         targetConnections="id-6dc03f3aaf16472b87ab988b9d9b84a1"
         textAlignment="1">
+      <features
+          name="labelExpression"
+          value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-6a5bceeadfb54a6c9fe6d3a95d4db6c6"
@@ -1831,6 +2071,9 @@
           id="id-ba181279bfda4159bcaa56ba35460046"
           targetConnections="id-dc024fb1a1544c0ab6319f553be60398"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-a58bb709dce04e8a9f6cad382180457a"
@@ -1894,6 +2137,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-b82b861ce5404bcb82284b1273bff44b"
             targetConnections="id-a58bb709dce04e8a9f6cad382180457a">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="156"
@@ -1907,6 +2153,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-808e3976194a41faa60587f7132fadc9"
             targetConnections="id-88d3f20c0c66468ca68db7256a762990">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="36"
@@ -1920,6 +2169,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-bf9dcd3404254e2c891780a604655c35"
             targetConnections="id-6b591e8f2ff1483fb1dace5c1e326a77">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="36"
@@ -1933,6 +2185,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-252feb44bc994dc4865dcc891067f754"
             targetConnections="id-1b7b2ff91fc24a229fd7ef06417b799d">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="96"
@@ -1946,6 +2201,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-9be7dffec6fa4a2dbbc3bf59467ff1ef"
             targetConnections="id-e0b79fa2f68c40fab3aa8f783d1043a2">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="96"
@@ -1959,6 +2217,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-6c524a5b711d4b16b1d44cb323133441"
             targetConnections="id-a6164fd1445b4da988a86b04f238fc67">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="156"
@@ -1977,6 +2238,9 @@
           id="id-21919cf335f346fab50a9542abe4b271"
           targetConnections="id-6a5bceeadfb54a6c9fe6d3a95d4db6c6"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-181e20b93e6346bd883386a00d538a6d"
@@ -2031,6 +2295,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-b66f858a53184171976c9866af70d57f"
             targetConnections="id-181e20b93e6346bd883386a00d538a6d">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="24"
@@ -2044,6 +2311,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-7624f2a1aa0741e2afa653bc78f0882f"
             targetConnections="id-ebe0024a30074cf2a51bd2a3fa8fface">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="84"
@@ -2057,6 +2327,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-2782fd1e6314468cb1661b6646e39948"
             targetConnections="id-73525d7546214ab4a57a0ea98ae6bfda">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="24"
@@ -2070,6 +2343,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-a26d7baccdc0461895a6fcc4fe56c1d7"
             targetConnections="id-b903508a572c4de69276d44c93a5762a">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="84"
@@ -2083,6 +2359,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-c83ab2bf43354a8caad6677401722677"
             targetConnections="id-ebb4423228e74efebc10b042816425ca">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="144"
@@ -2101,6 +2380,9 @@
           id="id-d13492e790b24e24baabd13fccf1c086"
           targetConnections="id-629045698eb64280b434094b1dd92a22"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-fb26dca8295b48b8bf8cd369160c1dd0"
@@ -2164,6 +2446,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-4de76eb78bec4ebea8e1df91f5d81128"
             targetConnections="id-fb26dca8295b48b8bf8cd369160c1dd0">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="36"
@@ -2177,6 +2462,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-bd72c038ffd743e185809b4dc8ca3777"
             targetConnections="id-5c57d25b4c1a4219816e79d577eaff66">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="36"
@@ -2190,6 +2478,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-1008fe913a6d47af87b3f7b3d7cb93d4"
             targetConnections="id-b914542bb92c4e3fb044e65b2e324b0e">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="96"
@@ -2203,6 +2494,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-857d6549df20412d85ad7da7f91f1e46"
             targetConnections="id-09062f5b22544576bc2d9f289ce5e929">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="156"
@@ -2216,6 +2510,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-267c5454b3dd45caba00162feae4a811"
             targetConnections="id-8b12874e25c04a208c7c53c19738795f">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="156"
@@ -2229,6 +2526,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-88e18b0bdcd84cbc9bdcef49e41f3305"
             targetConnections="id-4301769477944bb3a487f8fd701a4f36">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="96"
@@ -2247,6 +2547,9 @@
           id="id-034519902201401ca7c662bc014124da"
           targetConnections="id-27d27ff4492f44d993274133f3c43db0"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-3a7bb33ed1d64e8e855b073cf7f596da"
@@ -2283,6 +2586,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-8823397e94834657a6fe1ee121915a1b"
             targetConnections="id-3a7bb33ed1d64e8e855b073cf7f596da">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="24"
@@ -2296,6 +2602,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-54b8366aff794b48b50fc4e2b40b23d4"
             targetConnections="id-048f4f92127e48f4a57c86483f6f744e">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="84"
@@ -2309,6 +2618,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-5abad0945eb443eeaba428cdd3c6c37e"
             targetConnections="id-c0fd350b752246178d2b031fdd8182a5">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="144"
@@ -2327,6 +2639,9 @@
           id="id-c67e6565eb5b47bbb556b597d2c74498"
           targetConnections="id-c93d73e3f77b4f1a9d3f046adc2807ab"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-8a8c1a61d4d948b99765d21da3c9aac2"
@@ -2402,12 +2717,15 @@
         <bounds
             x="336"
             y="277"
-            width="325"
+            width="301"
             height="276"/>
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-4397191525dd4578b5b17f4d8891695e"
             targetConnections="id-8a8c1a61d4d948b99765d21da3c9aac2">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="84"
@@ -2421,6 +2739,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-4841320c6d744f0b82100a9b4783d3e2"
             targetConnections="id-ab21269fb2ef46799c5b21c89b1d55cb">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="84"
@@ -2434,6 +2755,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-ac3281d10bcf4973b6e6c0b3afaa27e9"
             targetConnections="id-ad7f300f542343f6bee47c9e48620f1d">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="204"
@@ -2447,6 +2771,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-1efb2985a7194636b0597742a89e215c"
             targetConnections="id-5a045a6915fc46ce8bb977b7d8776b1b">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="144"
@@ -2460,6 +2787,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-0fd7eb74114645b6ae364ffe59cc8047"
             targetConnections="id-838b1ad6f4054ebc9237cd2c29f17489">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="24"
@@ -2473,6 +2803,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-b4e521ee9ec342aaa6c3c24ca2c03bbb"
             targetConnections="id-c13fef34090148e79011d1040e6f186b">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="156"
               y="24"
@@ -2486,6 +2819,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-c55b6d2723ea42d8826e2b84f43a7bff"
             targetConnections="id-a5e24b0ce177430b89b11b246beb7e6c">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="204"
@@ -2499,6 +2835,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-22ee24ac05ea4feba7f5868272b37134"
             targetConnections="id-e5bc689b6d224e4fa5532fc26d689a96">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="144"
@@ -2517,6 +2856,9 @@
           id="id-6ce8e53ba84b4681a0891fa64fd343e0"
           targetConnections="id-29e1a94f7b954322a22f9deca3fa7b27"
           textAlignment="1">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-ef17cb05c60f45fbafe6ffdeb883b14d"
@@ -2527,7 +2869,7 @@
               href="AggregationRelationship_id-8c62be446e8d42a8923981218e0109e2.xml#id-8c62be446e8d42a8923981218e0109e2"/>
         </sourceConnections>
         <bounds
-            x="660"
+            x="648"
             y="277"
             width="164"
             height="132"/>
@@ -2535,6 +2877,9 @@
             xsi:type="archimate:DiagramModelArchimateObject"
             id="id-62aac390664242ec902f2574c2836e2c"
             targetConnections="id-ef17cb05c60f45fbafe6ffdeb883b14d">
+          <features
+              name="labelExpression"
+              value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
           <bounds
               x="24"
               y="48"
@@ -2552,9 +2897,12 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-511e0f56f74f4af6be13e4300d2a5ef6"
           targetConnections="id-5ff038fbe4da44278444b333243dea40">
+        <features
+            name="labelExpression"
+            value="${if:$model{property:English}:${property:Name_en}:${property:Name_nl}}"/>
         <bounds
-            x="682"
-            y="456"
+            x="670"
+            y="460"
             width="120"
             height="55"/>
         <archimateElement

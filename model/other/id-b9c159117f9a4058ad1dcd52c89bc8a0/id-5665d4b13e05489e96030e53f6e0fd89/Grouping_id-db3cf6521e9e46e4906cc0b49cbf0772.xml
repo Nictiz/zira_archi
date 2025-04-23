@@ -1,4 +1,11 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resourceplanning"
-    id="id-db3cf6521e9e46e4906cc0b49cbf0772"/>
+    id="id-db3cf6521e9e46e4906cc0b49cbf0772">
+  <properties
+      key="Name_en"
+      value="Resource planning"/>
+  <properties
+      key="Name_nl"
+      value="Resourceplanning"/>
+</archimate:Grouping>

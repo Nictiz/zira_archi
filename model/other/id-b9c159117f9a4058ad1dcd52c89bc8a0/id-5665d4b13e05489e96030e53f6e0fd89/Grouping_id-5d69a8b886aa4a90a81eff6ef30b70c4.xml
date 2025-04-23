@@ -1,4 +1,11 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Therapie"
-    id="id-5d69a8b886aa4a90a81eff6ef30b70c4"/>
+    id="id-5d69a8b886aa4a90a81eff6ef30b70c4">
+  <properties
+      key="Name_en"
+      value="Therapy"/>
+  <properties
+      key="Name_nl"
+      value="Therapie"/>
+</archimate:Grouping>
