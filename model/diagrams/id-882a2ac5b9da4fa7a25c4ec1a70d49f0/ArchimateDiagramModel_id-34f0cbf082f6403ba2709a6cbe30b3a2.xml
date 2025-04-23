@@ -6,9 +6,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0ef50847db9e4dfca329cc4bcfa3dc14"
-      font="1|Lucida Grande|9.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      textPosition="2"
+      font="1||18.0|0|WINDOWS|1|-36|0|0|0|400|0|0|0|1|0|0|0|0|"
+      textPosition="1"
       imagePath="images/_K7oroF7-Ee-HD-tdVb1lBg.png"
       imagePosition="9">
     <features
@@ -17,9 +16,6 @@
     <features
         name="imageSource"
         value="1"/>
-    <features
-        name="labelExpression"
-        value="test "/>
     <features
         name="lineAlpha"
         value="0"/>
